@@ -133,8 +133,8 @@ All Penn State colleges abide by this Penn State policy, but review procedures v
 
 Additionally, students enrolled at Penn State are expected to act with civility and personal integrity; respect other students' dignity, rights, and property; and help create and maintain an environment in which all can succeed through the fruits of their own efforts. An environment of academic integrity is requisite to respect for self and others, and a civil community.
 
-For more information on academic integrity at Penn State, please see the Academic Integrity Chart for specific college contact information or visit one of the following URLs:
-<http://www.psu.edu/dept/oue/aappm/G-9.html>
+For more information on academic integrity at Penn State, please see the Academic Integrity Chart for specific college contact information or visit one of the following URLs:  
+<http://www.psu.edu/dept/oue/aappm/G-9.html>  
 <http://www.sa.psu.edu/ja/>
 
 # Accommodating Disabilities
