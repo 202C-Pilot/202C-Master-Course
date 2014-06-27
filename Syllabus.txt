@@ -1,4 +1,4 @@
-Instructor: First Last
+Instructor: Prof. Awesome
 Email: email@psu.edu
 
 Overview
