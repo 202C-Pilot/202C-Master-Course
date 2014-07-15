@@ -2,7 +2,7 @@
 
 Prof. First Last  
 Email: [firstlast@psu.edu][1]  
-Phone: 814.863.5555
+Phone: 814.863.5556
 
 ## Course Overview
 
