@@ -154,13 +154,13 @@ Please note that the specifics of this syllabus are subject to change, and you w
 Pennsylvania State University &copy; 2014
 
 [1]: mailto:firstlast@psu.edu
-[2]: http://bcs.bedfordstmartins.com/techcomm10e/ target="_blank"
-[3]: http://www.libraries.psu.edu/psul/infosvcs/offcampus.html target="_blank"
-[4]: http://www.libraries.psu.edu/ target="_blank"
+[2]: http://bcs.bedfordstmartins.com/techcomm10e/
+[3]: http://www.libraries.psu.edu/psul/infosvcs/offcampus.html
+[4]: http://www.libraries.psu.edu/
 [5]: /section/content/
-[6]: /psad/psad20/support.asp target="_blank"
-[7]: http://www.sa.psu.edu/ja/ target="_blank"
-[8]: http://www.psu.edu/ufs/policies/47-00.html#49-20 target="_blank"
-[9]: http://www.worldcampus.psu.edu/StudentServices_AcademicIntegrity.shtml#AIChart target="_blank"
-[10]: http://www.psu.edu/dept/oue/aappm/G-9.html target="_blank"
-[11]: http:/www.equity.psu.edu/ods/ target="_blank"
+[6]: /psad/psad20/support.asp
+[7]: http://www.sa.psu.edu/ja/
+[8]: http://www.psu.edu/ufs/policies/47-00.html#49-20
+[9]: http://www.worldcampus.psu.edu/StudentServices_AcademicIntegrity.shtml#AIChart
+[10]: http://www.psu.edu/dept/oue/aappm/G-9.html
+[11]: http:/www.equity.psu.edu/ods/
