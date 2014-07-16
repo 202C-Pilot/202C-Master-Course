@@ -29,7 +29,7 @@ Students in this course will learn how to:
 * Evaluate their documents to be sure that the documents fulfill their purpose and to ensure that they can be revised if necessary.
 * Collaborate effectively with their peers in a community of writers who provide feedback on each others' work and occasionally write together.
 * Write several specific kinds of documents that recur in technical, scientific, and other communities.
-* Employ computer technology effectively in the solution of communication problems.
+* Employ computer technologies effectively in the solution of communication problems.
 * Communicate in an ethically responsible manner.
 
 ## Required Course Materials
