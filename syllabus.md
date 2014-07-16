@@ -129,7 +129,7 @@ If you need technical assistance at any point during the course, contact [Angel 
 
 ## Academic Integrity
 
-The Department of English takes matters of academic integrity very seriously. Academic integrity--coursework free of fraud and deception--is an important educational objective of Penn State. Academic dishonesty can lead to a failing grade or referral to the [Office of Student Conduct][7].
+The Department of English takes matters of academic integrity very seriously. Academic integrity&mdash;coursework free of fraud and deception&mdash;is an important educational objective of Penn State. Academic dishonesty can lead to a failing grade or referral to the [Office of Student Conduct][7].
 
 Academic dishonesty includes, but is not limited to:
 
