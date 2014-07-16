@@ -65,7 +65,7 @@ Instructions are normally organized in a chronological order. Beyond that, here 
 Your instructions should be designed to accommodate multiple reading styles and user needs. Accordingly, your design should include:
 
 *	A clear hierarchy of headings and subheadings. 
-*	Well-chosen fonts. For print documents, sans-serif fonts are usually best for headings; serif fonts are best for body text. (For online documents, the reverse is true.) 
+*	Well-chosen fonts.
 *	Numbered lists and bulleted lists, where appropriate. Know the difference. Make sure bullets and numbering are consistently formatted. Do not number or bullet lists with fewer than two items. 
 *	An appropriate amount of white space—neither too much nor too little. 
 *	Effective use of alignment. Centered alignment may make it harder for users to skim headings and sub-headings; left alignment or indentations can be more effective for this. 
