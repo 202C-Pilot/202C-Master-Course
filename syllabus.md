@@ -94,7 +94,7 @@ Engineers and scientists are often required to describe a technical object, conc
 
 ## Grades
 
-The grades of A, B, C, D, and F indicate qualities of academic performance. When grading each of your assignments, I will ask one overriding question: “Does this document do its job successfully?” That is, would your communication have the intended effect on the reader you are addressing. I will, of course, recognize the difference between a competent performance (a “C”) and good and excellent performances (“B” and “A”). A competent performance is one that stands a chance of succeeding; an excellent performance is one that seems assured not only of success but also of winning praise.
+The grades of A, B, C, D, and F indicate qualities of academic performance. When grading each of your assignments, I will ask one overriding question: Does this document do its job successfully? That is, would your communication have the intended effect on the reader you are addressing. I will, of course, recognize the difference between a competent performance (a “C”) and good and excellent performances (“B” and “A”). A competent performance is one that stands a chance of succeeding; an excellent performance is one that seems assured not only of success but also of winning praise.
 
 > A = Superior. The work is of near professional quality. The document meets or exceeds all the objectives of the assignment. The content is mature, thorough, and well-suited for the audience; the style is clear, accurate, and forceful; the information is well-organized and designed so that it is accessible and attractive; the mechanics and grammar are correct.
 
