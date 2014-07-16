@@ -40,7 +40,7 @@ Depending on the nature of your task, you may wish to include some or all of the
 >* where they should perform the task (i.e. in a well ventilated area, outside, on a flat surface, etc.) 
 
 *	List of materials or ingredients needed. 
-*	Diagrams, drawings, photographs, figures, or tables. (Neat sketch of the diagram is fine). 
+*	Diagrams, drawings, photographs, figures, tables, or other visuals.
 >* Include captions for each illustration or figure. 
 >* Label charts and diagrams clearly. 
 >* Make sure to give a sense of scale and orientation. 
