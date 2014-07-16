@@ -41,7 +41,7 @@ While your resume is addressed to any employer with a certain type of job openin
 
 **Style.** Cover letters are difficult to write because they aim at somewhat conflicting goals. On the one hand, you want to make a good first impression. So you want to sound polite and fairly formal. On the other hand, you want to stand out from the crowd—otherwise, why should the employer hire you rather than any of the other applicants? The best policy is probably to talk to your reader as directly and naturally as possible. Avoid hype.
 
-**Format.** Use a conventional business letter format. Be brief: if possible, stick to one page.
+**Format.** Use a conventional business letter format. If possible, stick to one page.
 
 
 ## Standards for Correctness
