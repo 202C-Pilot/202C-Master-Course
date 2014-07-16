@@ -4,7 +4,7 @@ Technical communication is meant to be used and not just read. Good technical co
 
 Your analysis should demonstrate that you understand the basic principles of technical communication discussed in the first chapter of your textbook. The process you will follow in this assignment is relatively straightforward. I will provide you with analysis points based on Markel’s introductory chapter. You will study a document and then determine how well it relies (or doesn't) on effective technical communication practices. You will then present your analysis in a memo to me. 
 
-Markel provides brief examples of what I am asking you to do. He does a basic rhetorical analysis of three sample documents in order to show how their elements constitute a form of technical communication. Although this assignment is asking you to be more ambitious than his examples, the examples should help you understand the assignment.
+Markel provides brief examples of what I am asking you to do. He does a basic rhetorical analysis of sample documents in order to show how their elements constitute a form of technical communication. Although this assignment is asking you to be more ambitious than his examples, the examples should help you understand the assignment.
 
 There are three steps to this assignment: 
 
