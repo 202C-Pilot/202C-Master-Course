@@ -56,7 +56,7 @@ You will complete five projects for this course, participate in weekly class dis
 
 ## Class Discussions and Writing Activities 
 
-In each week of the class, you will participate in one class discussion and one writing activity. These discussions and activities are where you will interact with your classmates and where you will work together to learn and grow as professional writers. 
+In each week of the class, you will participate in one class discussion and one writing activity. These discussions and activities are where you will interact with your classmates and where you will work together to learn and grow as technical communicators. 
 
 Each discussion and writing activity is asynchronous, which means you'll never have to be available at a specific time or place to participate. Instead, you'll be given deadlines by which you'll be expected to complete various parts of each discussion or activity.
 
