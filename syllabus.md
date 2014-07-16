@@ -14,7 +14,7 @@ Like taking a course on campus, it will be important to keep up with the course 
 
 ## Course Objectives
 
-Students in the course can expect to:
+Students in this course will learn how to:
 
 * Discover and understand the discourse features that distinguish their disciplinary and institutional communities from others.
 * Discover and specify the purpose(s) of their writing.
