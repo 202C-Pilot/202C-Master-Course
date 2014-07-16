@@ -94,15 +94,15 @@ Engineers and scientists are often required to describe a technical object, conc
 
 The grades of A, B, C, D, and F indicate qualities of academic performance. When grading each of your assignments, I will ask one overriding question: “Does this document do its job successfully?” That is, would your communication have the intended effect on the reader you are addressing. I will, of course, recognize the difference between a competent performance (a “C”) and good and excellent performances (“B” and “A”). A competent performance is one that stands a chance of succeeding; an excellent performance is one that seems assured not only of success but also of winning praise.
 
-A = Superior. The work is of near professional quality. The document meets or exceeds all the objectives of the assignment. The content is mature, thorough, and well-suited for the audience; the style is clear, accurate, and forceful; the information is well-organized and designed so that it is accessible and attractive; the mechanics and grammar are correct.
+>## A = Superior. The work is of near professional quality. The document meets or exceeds all the objectives of the assignment. The content is mature, thorough, and well-suited for the audience; the style is clear, accurate, and forceful; the information is well-organized and designed so that it is accessible and attractive; the mechanics and grammar are correct.
 
-B = Good. The document meets the objectives of the assignment, but it needs improvement in style, or it contains easily correctable errors in grammar, format, or content, or its content is superficial.
+>## B = Good. The document meets the objectives of the assignment, but it needs improvement in style, or it contains easily correctable errors in grammar, format, or content, or its content is superficial.
 
-C = Competent. The document needs significant improvement in concept, details, development, organization, grammar, or format. It may be formally correct but superficial in content.
+>## C = Competent. The document needs significant improvement in concept, details, development, organization, grammar, or format. It may be formally correct but superficial in content.
 
-D = Marginally acceptable. The document meets some of the objectives but ignores others; the content is inadequately developed; or it contains numerous or major errors.
+>## D = Marginally acceptable. The document meets some of the objectives but ignores others; the content is inadequately developed; or it contains numerous or major errors.
 
-F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major errors or excessive errors.
+>## F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major errors or excessive errors.
 
 ## Late Policy
 
