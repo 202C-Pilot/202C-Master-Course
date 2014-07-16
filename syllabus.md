@@ -94,11 +94,11 @@ Engineers and scientists are often required to describe a technical object, conc
 
 The grades of A, B, C, D, and F indicate the following qualities of academic performance:
 
-A = (Excellent) Indicates exceptional achievement  
-B = (Good) Indicates extensive achievement  
-C = (Satisfactory) Indicates acceptable achievement  
-D = (Poor) Indicates only minimal achievement  
-F = (Failure) Indicates inadequate achievement necessitating a repetition of the course in order to secure credit
+A = Superior. The work is of near professional quality. The document meets or exceeds all the objectives of the assignment. The content is mature, thorough, and well-suited for the audience; the style is clear, accurate, and forceful; the information is well-organized and designed so that it is accessible and attractive; the mechanics and grammar are correct.  
+B = Good. The document meets the objectives of the assignment, but it needs improvement in style, or it contains easily correctable errors in grammar, format, or content, or its content is superficial.
+C = Competent. The document needs significant improvement in concept, details, development, organization, grammar, or format. It may be formally correct but superficial in content.
+D = Marginally acceptable. The document meets some of the objectives but ignores others; the content is inadequately developed; or it contains numerous or major errors.
+F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major errors or excessive errors.
 
 ## Late Policy
 
