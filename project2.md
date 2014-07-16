@@ -69,10 +69,10 @@ Provide information about your guide and its use in an introduction. (In technic
 
 I will evaluate the guides according to these expectations:
 	
-- **Content:** The guide is complete (it includes all the information requested), and the sources identified are current and significant.
+- **Content:** The guide is complete (it includes all the required information), and the sources identified are current and significant.
 - **Format and Organization:** Readers will be able to find the information they need. Related materials are grouped. The guide is “usable.” 
 - **Style:** Abstracts give specific information in efficient sentences.
-- **Audience Adaptation:** The guide offers explanatory material or instructions where necessary to help the designated audience conduct research through the internet.
+- **Audience Adaptation:** The guide offers explanatory material or instructions where necessary to help the designated audience conduct research through the Internet.
 - **Mechanics:** Spelling, grammar, and punctuation are correct. 
 
 
