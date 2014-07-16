@@ -152,7 +152,7 @@ Penn State welcomes students with disabilities. If you have a disability-related
 In order to receive consideration for course accommodations, you must contact ODS and provide documentation. ODS will provide a letter identifying appropriate academic adjustments. Please share this letter and discuss the adjustments with your instructor as early in the course as possible. You must contact ODS and request academic adjustment letters at the beginning of each semester.
 
 ## Disclaimer
-Please note that the specifics of this syllabus are subject to change, and you will be responsible for abiding by any such changes. Your instructor will notify you as necessary in the event that an alteration is made.
+This syllabus is subject to change. Changes to the syllabus will only be made with advance notice.
 
 Pennsylvania State University &copy; 2014
 
