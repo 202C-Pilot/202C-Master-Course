@@ -57,12 +57,12 @@ Provide information about your guide and its use in an introduction. (In technic
 
 - Cover/Title Page
 - Front Matter
-- Table of Contents (to at least two levels)
+	- Table of Contents (to at least two levels)
 	- What’s in the Guide (contents/scope)
-- Who the Guide is for (audience/purpose)
-- What the Guide assumes users know
-- How the Guide is organized for use
-- Tips for using the Guide
+	- Who the Guide is for (audience/purpose)
+	- What the Guide assumes users know
+	- How the Guide is organized for use
+	- Tips for using the Guide
 
 
 ## Evaluation Criteria 
