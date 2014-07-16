@@ -73,7 +73,7 @@ Note: Only completing part of a class discussion or writing activity is consider
 
 ## Projects
 
-This course will hold you to the professional standards that prevail in your field. Each of your formal writing projects is expected to look professional and polished. At work, even a single error in spelling, grammar, or proofreading can jeopardize the effectiveness of some communications (depending on the rhetorical situation). Whether it is a resume, memo, or report, your communication should exhibit complete and appropriate format. Grading will reflect the great seriousness with which these matters are frequently viewed in the working world. 
+This course will hold you to the professional standards that prevail in your field. Each of your formal writing projects is expected to look professional and polished. At work, even a single error in spelling, grammar, or proofreading can jeopardize the effectiveness of some communications (depending on the rhetorical situation). Whether it is a resume, memo, or report, your communication should exhibit complete and appropriate format. Grading will reflect the seriousness with which these matters are frequently viewed in the working world. 
 
 There are five major projects: 
 
