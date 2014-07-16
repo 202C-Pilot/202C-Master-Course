@@ -10,7 +10,7 @@ ENGL 202C, Technical Communication, serves students who are studying and prepari
 
 So how will this work? Though you will never meet with your instructor and classmates in a physical classroom, this is still a course and not an independent study. This class is paced, which means that there is an established start and end date, and that you will have weekly deadlines to meet throughout the term. In each week of the course, you will be asked to accomplish two primary activities: 1) participate in a class discussion about a core aspect of technical communication and 2) complete an assigned writing activity, which you will also discuss with your peers. The class discussion will take place in the early part of the week, and the writing activity will take place in the latter part. This routine will be repeated each week throughout the semester.
 
-Like taking a course on campus, it will be important to keep up with the course work, as you will be required to participate in class discussions and activities that have specific time frames and deadlines associated with them. For a more detailed look at what each lesson will entail, as well as due dates for our assignments and activities, please refer to the [Weekly Activities][5] page.
+Like taking a course on campus, it will be important to keep up with the course work, as you will be required to participate in class discussions and activities that have specific time frames and deadlines associated with them. For a more detailed look at what each lesson will entail, as well as due dates for our assignments and activities, refer to the [Weekly Activities][5] page.
 
 ## Course Objectives
 
