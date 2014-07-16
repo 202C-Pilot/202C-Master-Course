@@ -125,7 +125,7 @@ NOTE: You must have an active Penn State Access Account to take full advantage o
 
 ## Tech Support
 
-If you need technical assistance at any point during the course, please contact [Angel Support][6].
+If you need technical assistance at any point during the course, contact [Angel Support][6].
 
 ## Academic Integrity
 
