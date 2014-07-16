@@ -42,6 +42,8 @@ Note: For this class, we will be using the e-book version of _Technical Communic
 
 ## Course Requirements and Grading
 
+You will complete five projects for this course, participate in weekly class discussions, and complete weekly writing activities.
+
 |  Assignment         | Grade Value |
 |---                  |---          |
 | Project 1           | 10%         |
