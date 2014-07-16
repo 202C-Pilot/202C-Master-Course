@@ -24,7 +24,7 @@ Students in this course will learn how to:
 * Arrange material to raise and satisfy readers' expectations, using both conventional and rhetorical patterns of organization.
 * Reveal the organization of their communications by using forecasting and transitional statements, headings, and effective page and document design.
 * Observe appropriate generic conventions and formats for technical documents.
-* Design and use tables, graphs, and technical illustrations.
+* Design and use tables, graphs, illustrations, and other visuals.
 * Compose effective sentences.
 * Evaluate their documents to be sure that the documents fulfill their purpose and to ensure that they can be revised if necessary.
 * Collaborate effectively with their peers in a community of writers who provide feedback on each others' work and occasionally write together.
