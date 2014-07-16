@@ -62,11 +62,11 @@ Each discussion and writing activity is asynchronous, which means you'll never h
 
 There will be 15 class discussions forums, each worth 1% or one point, for a total of 15% of your final grade. Similarly, there will be 15 writing activity forums, each worth 1% or one point, for a total of 15% of your final grade. Together, these class discussions and writing activities make up nearly a third of your final grade, which reflects just how important interacting with your classmates is to this course. 
 
-Both class discussions and writing activities will be graded on a three point scale aimed at rewarding your effort in each forum:
+Both class discussions and writing activities will be graded on a three point scale aimed at rewarding your work in each forum:
 
-* 1 point for students who make **excellent** effort. 
-* 0.75 of a point for students who make **satisfactory** effort.
-* 0 points for students whose effort is **unsatisfactory** or for those who do not complete the activity. 
+* 1 point for students with **excellent** work. 
+* 0.75 of a point for students with **satisfactory** work.
+* 0 points for students with **unsatisfactory** work or incomplete work. 
 
 Note: Only completing part of a discussion or writing activity is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
 
