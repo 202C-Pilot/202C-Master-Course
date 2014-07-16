@@ -68,7 +68,7 @@ Both class discussions and writing activities will be graded on a three point sc
 * 0.75 of a point for students with **satisfactory** work.
 * 0 points for students with **unsatisfactory** work or incomplete work. 
 
-Note: Only completing part of a class discussion or writing activity is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
+NOTE: Only completing part of a class discussion or writing activity is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
 
 
 ## Projects
@@ -114,10 +114,10 @@ You must hand in all major projects to pass the course. Incompletes, known at Pe
 
 ## Library Resources
 
-Many of Penn State's library resources can be utilized from a distance. Through the [Library Resources and Services for Off-Campus Users][3] Web site, you can...
+Many of Penn State's library resources can be used from a distance. Through the [Library Resources and Services for Off-Campus Users][3] Web site, you can
 
 * access magazine, journal, and newspaper articles online using library databases;
-* borrow materials and have them delivered to your doorstep...or even your desktop;
+* borrow materials and have them delivered to your doorstep, or even your desktop;
 * ask a librarian for research help via e-mail, chat, or phone using the ASK! service;
 * and much more!
 
