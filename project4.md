@@ -15,14 +15,14 @@ Before deciding on a task, consider the following guidelines:
 Note that I need to approve all topics, in order to ensure that you have selected a topic of appropriate size and scope. 
 
 ## Topics
-Your instructions should help users to perform any kind of task that requires several steps or stages. Here are some topic ideas (don’t be limited by them): 
+Your instructions should help users to perform a task that requires several steps or stages. Here are some topic ideas (don’t be limited by them): 
 
 * how to change the oil in your car
 *	how to iron a shirt
-*	how to add another component (CD-ROM, hard drive, sound card, etc.) to your computer 
+*	how to add a component (hard drive, sound card, etc.) to your computer 
 *	how to groom a dog
 *	how to reformat your hard drive (yikes!)
-*	how to use your ATM card (include many options, not just how to withdraw and deposit) 
+*	how to use an ATM card (include many options, not just how to withdraw and deposit) 
 *	how to cook a turkey
 *	how to French braid your hair (or someone else’s)
 
