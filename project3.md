@@ -26,7 +26,7 @@ Write a brief memo (no more than two pages, single-spaced) addressed to me that 
 
 The purpose of the resume is to describe your qualifications for a type of job. Since this assignment requires you to apply for two somewhat different jobs, you should create two somewhat different resumes.
 
-**Content.** Your resume should include contact information and relevant details of your educational training, professional training, special accomplishments, and skills. A resume is not a life history. The goal is to argue that you are qualified for a particular type of job and that you would be a capable, responsible, and personable employee who communicates effectively.
+**Content.** Your resume should include contact information and relevant details of your educational training, professional training, special accomplishments, and skills. But a resume is not a life history. The goal is to argue that you are qualified for a particular type of job and that you would be a capable, responsible, and personable employee who communicates effectively.
 
 **Format.** Your format may be traditional or innovative as long as it is appropriate and as long as the information is highly accessible and is organized in a way that highlights the most important items—from the employer’s perspective.
 
