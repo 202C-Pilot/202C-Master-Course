@@ -12,7 +12,7 @@ Before deciding on a task, consider the following guidelines:
 * The process should have discrete parts or steps that are fairly easy to name and refer to. 
 * Your task should be explained in at least 3 pages (single-spaced) of written instructions, including visuals. 
 
-This week's writing activity will ask you to elaborate on your topic. Note that I need to approve all topics (in order to ensure that you have selected a topic of appropriate size and scope). 
+Note that I need to approve all topics, in order to ensure that you have selected a topic of appropriate size and scope. 
 
 ## Topics:
 Your instructions should help users to perform any kind of task that requires several steps or stages. Here are some topic ideas (don’t be limited by them): 
