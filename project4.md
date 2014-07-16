@@ -14,7 +14,7 @@ Before deciding on a task, consider the following guidelines:
 
 Note that I need to approve all topics, in order to ensure that you have selected a topic of appropriate size and scope. 
 
-## Topics:
+## Topics
 Your instructions should help users to perform any kind of task that requires several steps or stages. Here are some topic ideas (don’t be limited by them): 
 
 * how to change the oil in your car
@@ -29,7 +29,7 @@ Your instructions should help users to perform any kind of task that requires se
 ## Rhetorical Situation
 Before you begin to write, consider the rhetorical situation for your instructions. Use the planning worksheet to help you determine the purpose, audience, context, and content for your instructions. 
 
-## Contents: 
+## Contents 
 Depending on the nature of your task, you may wish to include some or all of the following contents. 
 
 *	Introduction or background information. Here you’ll provide your reader with the following information, if applicable:
