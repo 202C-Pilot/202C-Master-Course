@@ -27,7 +27,7 @@ Your instructions should help users to perform a task that requires several step
 *	how to French braid your hair (or someone else’s)
 
 ## Rhetorical Situation
-Before you begin to write, consider the rhetorical situation for your instructions. Use the planning worksheet to help you determine the purpose, audience, context, and content for your instructions. 
+Before you begin to write, consider the rhetorical situation for your instructions, the purpose, audience, context, and content for your instructions. 
 
 ## Contents 
 Depending on the nature of your task, you may wish to include some or all of the following contents. 
