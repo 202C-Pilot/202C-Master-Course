@@ -68,7 +68,7 @@ Both class discussions and writing activities will be graded on a three point sc
 * 0.75 of a point for students who make **satisfactory** effort.
 * 0 points for students whose effort is **unsatisfactory** or for those who do not complete the activity. 
 
-Note: only completing part of a discussion or writing activity is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
+Note: Only completing part of a discussion or writing activity is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
 
 
 ## Projects
