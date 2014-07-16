@@ -22,7 +22,7 @@ Students in this course will learn how to:
 * Identify their readers and describe the characteristics of their readers in a way that forms a sound basis for deciding how to write to them.
 * Invent the contents of their communications through research and reflection.
 * Arrange material to raise and satisfy readers' expectations, using both conventional and rhetorical patterns of organization.
-* Reveal the organization of their communications by using forecasting and transitional statements, headings, and effective page/document design.
+* Reveal the organization of their communications by using forecasting and transitional statements, headings, and effective page and document design.
 * Observe appropriate generic conventions and formats for technical documents.
 * Design and use tables, graphs, and technical illustrations.
 * Compose effective sentences.
