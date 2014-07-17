@@ -16,7 +16,7 @@ At the end of this lesson you will be able to:
 * choose appropriate research media based on your topic and you audience's needs;
 * use basic research tools such as online catalogs, reference works, periodical indexes, newspaper indexes, and abstract services;
 * employ paraphrases, quotes, and summaries as evidence in persuasive technical documents; and
-* evaluate sources found on the Web;
+* evaluate sources found on the Web.
 
 ## By Tuesday Night
 
