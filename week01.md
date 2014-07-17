@@ -23,5 +23,5 @@ The activities for this week are designed to familiarize you with both the cours
 
 ## Materials & Tools for this Lesson
 
-[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+Forum+for+Week+1
-[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+Forum+for+Week+1
+[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+Forum+for+Week+01
+[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+Forum+for+Week+01
