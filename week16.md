@@ -9,7 +9,7 @@ At the end of this lesson you will be able to:
 * structure effective sentences;
 * choose the right words and phrases;
 * prepare texts for translation; and
-* apply the techniques for creating effective sentences to your redesign project. 
+* apply the techniques for creating effective sentences to your Instruction Set project. 
 
 ## By Tuesday Night
 
