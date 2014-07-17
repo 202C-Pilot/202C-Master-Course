@@ -4,7 +4,7 @@ Persuasion is a difficult subject to learn in technical communication contexts, 
 
 What then are the assumptions that characterize a rhetorical, argument-based approach to writing? This is an important background to have before we look specifically at how technical communication employs persuasion.
 
-* Discourse is purposeful; one way or another, for good or for ill, it quite literally has designs upon us. These purposes may be complex and they may be affected by many contextual variables, but it is useful for writers to articulate their purposes and to learn how to make choices to fulfill them.
+* Discourse is purposeful. These purposes may be complex and they may be affected by many contextual variables, but it is useful for writers to articulate their purposes and to learn how to make choices to fulfill them.
 * Writing arises out of situations; it does not come into being for no reason. Writing courses emphasize the importance of exigence, the need that brings about the writing. Sometimes the exigence is clearly external (you need to persuade the police officer not to give you a ticket), and sometimes the writer needs to argue it into place (you need to persuade the reader that your product is critical to their business).
 * Writing is addressed to an audience. Writing courses emphasize the importance of considering audience and learning to write for different audiences with different expectations and assumptions.
 * Writers need to make their main point clear to the reader.  This does not mean that they need to write traditional paragraphs, but it does mean that by the time the reader finishes the text, he or she should have a clear sense of what it is getting at. The main point may be complex and nuanced, but it should not be mysterious.
