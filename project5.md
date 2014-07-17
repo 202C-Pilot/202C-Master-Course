@@ -1,4 +1,4 @@
-## Project 4: Instruction Set
+## Project 5: Instruction Set
 
 Instruction sets are common technical documents for many disciplines and occupations. Employees read instructions to learn how to assemble a product or complete a procedure. Supervisors write out company policies that oftentimes serve as instruction sets. Customers read instructions for using a product. For this assignment, you will develop a set of instructions that shows users how to perform a specific task. 
 
