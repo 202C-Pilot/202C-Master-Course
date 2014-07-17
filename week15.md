@@ -9,7 +9,7 @@ At the end of this lesson you will be able to:
 * describe the functions of graphics;
 * integrate graphics and text effectively;
 * cite graphics used in technical documents; and
-* choose appropriate graphics for your redesign project.
+* choose appropriate graphics for your Instruction Set project.
 
 ## By Tuesday Night
 
