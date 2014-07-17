@@ -57,7 +57,7 @@ I will evaluate the technical definition and description according to these expe
 
 **Format and Organization** The introduction effectively sets up the description. The document uses an organizational pattern appropriate to the product or process (functional, spatial, or chronological). The conclusion includes appropriate information. 
 
-**Style:** The document uses the present tense unless it covers a topic from the historical past. The document uses technical writing conventions.
+**Style:** The document uses the present tense unless it covers a topic from the historical past. The document uses technical communication conventions.
 
 **Audience adaptation:** The document uses visuals when necessary to help the designated audience understand how the product or process works.
 
