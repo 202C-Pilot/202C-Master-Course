@@ -18,8 +18,6 @@ Keep these assumptions about persuasion in mind as you read this lesson and cont
 
 At the end of this lesson you will be able to:
 
-* identify and respond to an audience's broader goals;
-* describe common workplace constraints and their effects on technical communication;
 * write a persuasive argument;
 * recognize common logical fallacies;
 * display a professional persona in technical documents;
