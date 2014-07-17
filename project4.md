@@ -53,7 +53,7 @@ You have two options here. First, you can develop your own visuals (a rough sket
 
 I will evaluate the technical definition and description according to these expectations:
 	
-**Content:** The document is complete (includes all the necessary information to describe the product or process, including a sentence or extended definition).
+**Content:** The document is complete (it has all the necessary information to describe the product or process, including a sentence or extended definition).
 format and organization	The introduction effectively sets up the description. The document uses an organizational pattern appropriate to the product or process (functional, spatial, or chronological). The conclusion includes appropriate information. 
 
 **Style:** The document uses the present tense unless it covers a topic from the historical past. The document uses technical writing conventions.
