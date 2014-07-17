@@ -7,7 +7,6 @@ This week you'll think explicitly about organizing information as you finalize y
 At the end of this lesson you will be able to:
 
 * explain the basic principles of organizing technical information;
-* describe the eight patterns typically used in organizing information;
 * choose the best pattern of organizing information given a document's specific audience and purpose; and
 * choose the best patterns of organization for each part of your Job Application Package.
 
