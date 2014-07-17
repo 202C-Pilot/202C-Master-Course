@@ -1,14 +1,14 @@
 ## Welcome to English 202C, Technical Communication
 
-This advanced course in writing familiarizes students with the discourse practices prized in their disciplinary and institutional communities, and helps them to manage those practices effectively in their own written work. In this way the course teaches those writing strategies and tactics that scientists, engineers, and others will need in order to write successfully on the job.
+This course in technical communication familiarizes students with the discourse practices prized in their disciplinary and institutional communities, and helps them to manage those practices effectively in their own written work. In this way the course teaches those writing strategies and tactics that scientists, engineers, and others will need in order to write successfully on the job.
 
-The activities you will complete this week are designed to familiarize you with both your classmates and the course.
+The activities for this week are designed to familiarize you with both the course and your classmates.
 
-Reminder: Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.
+**REMINDER: Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.**
 
 ## By Tuesday Night
 
-* Read the syllabus, if you haven't already.
+* Read the syllabus.
 * Go to the [Class Discussion Forum for Week 1][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
@@ -19,7 +19,7 @@ Reminder: Unless otherwise specified, all deadlines in the class are 11:59pm, yo
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in the [Writing Activity Forum for Week 1][2].
-* Purchase the textbook, if you haven't already.
+* Purchase the textbook.
 
 ## Materials & Tools for this Lesson
 

@@ -1,8 +1,8 @@
 ## Understanding Ethical and Legal Considerations
 
-This lesson will introduce ethical and legal issues that technical writers need to consider when preparing both written and online documents.
+This lesson will introduce ethical and legal issues that technical communicators need to consider when preparing both written and online documents.
 
-In one sense, it is very difficult to talk about the ethics of technical communication because the subject is subtle and complicated and there are no easy answers. Indeed, the majority of technical communication situations will contain more gray area than easy, straightforward solutions. Because most students have experienced serious ethical dilemmas at school or at work, you already have a background for thinking about ethical matters. But experience is not enough; you also need training to help you recognize and understand ethical dilemmas in technical communication.
+In one sense, it is very difficult to talk about the ethics of technical communication because the subject is subtle and complicated and there are no easy answers. Indeed, the majority of technical communication situations will contain more gray area than easy, straightforward solutions. Because most students have experienced serious ethical dilemmas at school or at work, you already have a background for thinking about ethical matters. But experience is not enough. You also need training to help you recognize and understand ethical dilemmas in technical communication.
 
 Sometimes people want to be told what they should do when they confront ethical dilemmas. Sometimes students think that reading a chapter on ethics will make them ethical people. But you cannot learn how to be ethical. Rather, you need to understand how ethicists frame issues so that you can think about your own ethical issues more clearly and sensitively. In other words, being ethical involves ongoing work on a process of reasoning that accounts for the many factors in any ethical situation.
 
@@ -11,8 +11,8 @@ Discussions of legal considerations are similarly challenging because workers do
 At the end of this lesson you will be able to:
 
 * explain why technical communicators need to understand basic ethical and legal principles;
-* define whistleblowing;
-* examine the ethical implications of your own writing and communication.
+* analyze the ethical and legal dimensions of communication situations in systematic ways;
+* examine the ethical and legal implications of your own writing and communication.
 
 ## By Tuesday Night
 

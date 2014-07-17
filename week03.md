@@ -10,7 +10,7 @@ At the end of this lesson you will be able to:
 
 * recognize the importance of analyzing audience and purpose when planning a document;
 * identify individual characteristics of an audience or multiple audiences; and
-* write text to meet the needs of expert, technician, manager, and general reader audiences;
+* write text to meet the needs of expert, technician, manager, and general reader audiences.
 
 ## By Tuesday Night
 
