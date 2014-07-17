@@ -11,7 +11,7 @@ Many aspects of the set of instructions can, of course, be analyzed in the tradi
 * the steps contain either too much or too little information; and
 * the writer has failed to include appropriate graphics that would simplify the instructions.
 
-These common problems make instruction sets very difficult for users; work to avoid them as you create your own instruction set.
+These common problems make instruction sets very difficult for users. Work to avoid them as you create your own instruction set.
 
 At the end of this lesson you will be able to:
 
