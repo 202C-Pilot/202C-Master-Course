@@ -1,6 +1,6 @@
 ## Writing Coherent Documents
 
-Some of the chapters we've already read have introduced technical communication conventions such as titles, headings, lists, and document design. It is one thing to begin introducing these conventions to your writing &mdash; and another to use them in ways that improve the coherence of a document. This lesson focuses on how technical writing conventions can unify a document and make it easier for the audience to use.
+Some of the chapters we've already read have introduced technical communication conventions such as titles, headings, lists, and document design. It is one thing to begin introducing these conventions to your writing, and another to use them in ways that improve the coherence of a document. This lesson focuses on how technical writing conventions can unify a document and make it easier for the audience to use.
 
 The material in this lesson is likely to be new to you because it raises issues not covered in previous writing courses: document design, headings, and lists. These issues contribute to the overall coherence of a document, that is, the extent to which the parts of a document hold together and work together to create a unified, usable document. In a general sense, students are less practiced in revising for coherence than they are in revising for cohesion, which deals with sentence-level unity. However, you should find the material very useful. Overall coherence is especially hard to achieve in technical communication and so writers need strategies for building and establishing coherence.
 
