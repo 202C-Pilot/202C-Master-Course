@@ -6,7 +6,7 @@ Probably because of your exposure to advertising, you are intuitively aware of a
 
 Glancing at a few pages from some software manuals or government reports will show a variety of strategies, and a broad range of creativity. Design is not simply an ornamental aspect of technical communication, but a meaningful feature that aids readers in key ways.
 
-The principles you learn about in this lesson will apply not only to your Instruction Set, but to future assignments and all other technical communication work. In sum, for technical communication design is as important as content.
+The principles you learn about in this lesson will apply not only to your Instruction Set, but also to future assignments and all other technical communication work. In sum, for technical communication design is as important as content.
 
 At the end of this lesson you will be able to:
 
