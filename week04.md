@@ -1,6 +1,6 @@
 ## Researching Your Subject
 
-The previous lesson introduced certain aspects of planning a technical communication document (for example, analyzing your audience and purpose). This lesson continues with the planning process by discussing ways to research your subject. The focus on research will support the second assignment, which asks you to identify, evaluate, and present Internet resources for people in your field. In this way, you will be tying together issues of audience, purpose, research, writing, and document design. The following overview will help you prepare to think about research practices in technical communication.
+The previous lesson introduced certain aspects of planning a technical communication document (for example, analyzing your audience and purpose). This lesson continues with the planning process by discussing ways to research your subject. The focus on research will support the second assignment, which asks you to identify, evaluate, and present Internet resources for people in your field. In this way, you will be tying together issues of audience, purpose, research, writing, and document design.
 
 Many students have not used the campus library since they had to write their term papers in first-year English. An excellent senior chemistry major might never have heard of Chemical Abstracts. Learning how to find and use technical information is not easy.
 
