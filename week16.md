@@ -6,19 +6,9 @@ Writing effective sentences requires you to think about the writing situation. F
 
 At the end of this lesson you will be able to:
 
-* write and format effective lists;
-* describe the reason for placing new information at the end of a sentence;
-* choose an appropriate sentence length given a document's audience and purpose;
-* write sentences with prominent "real" subjects and "real" verbs;
-* state the function of parallel structures in sentences and identify faulty parallelism;
-* distinguish between restrictive and nonrestrictive modifiers;
-* recognize misplaced and dangling modifiers;
-* select an appropriate level of formality given a document's audience and purpose;
-* write clear and specific sentences;
-* write concise sentences;
-* recognize and avoid offensive language;
-* define the concept of Simplified English;
-* explain how to prepare text for translation; and
+* structure effective sentences;
+* choose the right words and phrases;
+* prepare texts for translation; and
 * apply the techniques for creating effective sentences to your redesign project. 
 
 ## By Tuesday Night
