@@ -12,7 +12,7 @@ What then are the assumptions that characterize a rhetorical, argument-based app
 * Writers can learn how to develop arguments systematically, and the ability to do this will improve writing ability.
 * The rhetorical appeals to logic, emotion, and the character of the writer are not separate although they can be talked about individually; argumentation does not devalue emotional appeals although emotional appeals must be used responsibly.
 * Style is neither mere ornament nor mere correctness. Rather, style choices contribute to the persuasiveness of a document and will be different for different situations.
-* Design is neither mere ornament nor mere correctness. The design of pages contributes to a reader's understanding of content. The design of visuals affects how people interpret a graph or table.
+* Design is neither mere ornament nor mere correctness. The design of pages and screens contributes to a reader's understanding of content. The design of visuals affects how people interpret a graph or table.
 
 Keep these assumptions about persuasion in mind as you read this lesson and continue work on your job application package.
 
