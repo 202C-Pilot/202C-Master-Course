@@ -19,7 +19,7 @@ The activities for this week are designed to familiarize you with both the cours
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in the [Writing Activity Forum for Week 1][2].
-* Purchase the textbook, if you haven't already.
+* Purchase the textbook.
 
 ## Materials & Tools for this Lesson
 
