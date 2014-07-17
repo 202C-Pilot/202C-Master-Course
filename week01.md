@@ -4,7 +4,7 @@ This course in technical communication familiarizes students with the discourse 
 
 The activities for this week are designed to familiarize you with both the course and your classmates.
 
-Reminder: Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.
+**REMINDER: Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.**
 
 ## By Tuesday Night
 
