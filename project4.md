@@ -23,7 +23,7 @@ A **process description** explains how a complex event occurs, including a mecha
 * How a microwave works
 * How food products are irradiated
 
-**It is important to note that a product or process description is not an instruction set.** An instruction set provides steps a user would take in order to complete a task (for example, steps to change oil in a car). In contrast, product and process descriptions describe how something works (for example, how oil functions to cool an engine). The contrast is between how to use something and how that thing works (e.g. how to use a microwave versus how the microwave heats food). **For this assignment, you should focus on how things work, not how to use them.** 
+**It is important to note that a product or process description is not an instruction set.** An instruction set provides steps a user would take in order to complete a task (for example, steps to change oil in a car). In contrast, product and process descriptions describe how something works (for example, how oil functions to cool an engine). The contrast is between how to use something and how that thing works&mdash;how to use a microwave versus how the microwave heats food. **For this assignment, you should focus on how things work, not on how to use them.** 
 
 
 ## Audience and Purpose 
