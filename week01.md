@@ -1,6 +1,6 @@
 ## Welcome to English 202C, Technical Communication
 
-This advanced course in writing familiarizes students with the discourse practices prized in their disciplinary and institutional communities, and helps them to manage those practices effectively in their own written work. In this way the course teaches those writing strategies and tactics that scientists, engineers, and others will need in order to write successfully on the job.
+This course in technical communication familiarizes students with the discourse practices prized in their disciplinary and institutional communities, and helps them to manage those practices effectively in their own written work. In this way the course teaches those writing strategies and tactics that scientists, engineers, and others will need in order to write successfully on the job.
 
 The activities you will complete this week are designed to familiarize you with both your classmates and the course.
 
