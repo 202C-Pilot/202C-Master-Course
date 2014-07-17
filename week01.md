@@ -8,7 +8,7 @@ The activities for this week are designed to familiarize you with both the cours
 
 ## By Tuesday Night
 
-* Read the syllabus, if you haven't already.
+* Read the syllabus.
 * Go to the [Class Discussion Forum for Week 1][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
