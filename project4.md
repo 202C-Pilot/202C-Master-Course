@@ -39,7 +39,7 @@ For **product descriptions**, start with a sentence definition of the product an
 
 For **process descriptions**, start with a definition of the process and the different steps it involves. Again, this could become an extended definition if you think your audience needs more introductory information. Next, describe each step in more detail. Conclude with a summary of one complete cycle in the process.
 
-In either case, though, remember to choose contents based on the audience's level of interest, experience, and knowledge about the topic.
+In either case, though, remember to choose contents based on the interests, experiences, and knowledge of your audience.
 
 
 ## Format
