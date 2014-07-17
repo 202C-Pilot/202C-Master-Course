@@ -4,7 +4,7 @@ Technical professionals are often required to define or describe a technical obj
 
 This assignment asks you to select a product or process and write a description of it. It’s a good idea to select something with which you are already familiar, so you can focus on learning how to write the description rather than focusing on both learning how to write the description and learning about the product or process. There are two different kinds of technical descriptions to consider. Choose whichever one is appropriate, depending on your topic.
 
-A **product description** explains the features of a specific device, like a scientific instrument or computer program. Possible topics include devices that are specific to your field, or devices you use in everyday life:
+A **product description** explains the features of a specific device, such as a scientific instrument or computer program. Possible topics include devices that are specific to your field, or devices you use in everyday life:
 
 * Manual grass clippers
 * Fuel cell
