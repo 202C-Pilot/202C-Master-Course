@@ -14,7 +14,7 @@ At the end of this lesson you will be able to:
 * use coherence devices within and between paragraphs;
 * revise documents using a top-down approach;
 * recognize the value of headers, footers, and typography in enhancing coherence; and
-* applying the strategies for coherence to your Technical Definition and Description assignment.
+* apply the strategies for coherence to your Technical Definition and Description assignment.
 
 ## By Tuesday Night
 
