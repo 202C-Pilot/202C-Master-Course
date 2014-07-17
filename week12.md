@@ -12,7 +12,6 @@ At the end of this lesson you will be able to:
 
 * evaluate technical documents using the principles of proximity, alignment, repetition, and contrast;
 * plan the design of a technical communication document based on audience needs and expectations;
-* choose effective sizes, paper, bindings, and accessing tools;
 * explain the principles of chunking, queuing, and filtering;
 * use columns, page grids, and white space to design a document's page layout;
 * define common typographical elements;
