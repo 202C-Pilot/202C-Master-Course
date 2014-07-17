@@ -11,8 +11,8 @@ Discussions of legal considerations are similarly challenging because workers do
 At the end of this lesson you will be able to:
 
 * explain why technical communicators need to understand basic ethical and legal principles;
-* analyze the ethical and legal dimensions of communication situations in systematic ways.
-* examine the ethical implications of your own writing and communication.
+* analyze the ethical and legal dimensions of communication situations in systematic ways;
+* examine the ethical and legal implications of your own writing and communication.
 
 ## By Tuesday Night
 
