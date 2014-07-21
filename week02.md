@@ -14,7 +14,7 @@ At the end of this lesson you will be able to:
 
 * Read Chapter 1 of _Technical Communication._
 * Read the instructions for [Project 1.][P1A]
-* Go to [Class Discussion2][CD2], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 2][CD2], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
