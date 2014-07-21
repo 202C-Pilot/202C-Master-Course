@@ -19,7 +19,7 @@ At the end of this lesson you will be able to:
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of some of your classmates in [Class Discussion 3.][CD3]
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 3.][CD3]
 * Go to [Writing Activity 3][WA3], read the directions, and complete the activity assigned there.
 
 ## By Sunday Night

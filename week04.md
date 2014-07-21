@@ -21,22 +21,22 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 6 of _Technical Communication._
-* Go to the [Class Discussion Forum for Week 4][1], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 4][CD4], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of some of your classmates in the [Class Discussion Forum for Week 4.][1]
-* Read the instructions for [Project 2.][3]
-* Review some samples of [Project 2.][4]
-* Go to the [Writing Activity Forum for Week 4][2], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 4.][CD4]
+* Read the instructions for [Project 2.][P2A]
+* Review some samples of [Project 2.][P2S]
+* Go to [Writing Activity 4][WA4], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in the [Writing Activity Forum for Week 4][2].
+* Complete part two of the writing activity assigned in [Writing Activity Forum 4][WA4].
 
 ## Materials & Tools for this Lesson
 
-[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+Forum+for+Week+4
-[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+Forum+for+Week+4
-[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+2+Assignment
-[4]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+2+Samples   
+[CD4]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+4
+[WA4]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+4
+[P2A]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+2+Assignment
+[P2S]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+2+Samples   
