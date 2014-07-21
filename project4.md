@@ -1,8 +1,8 @@
-## Project 4: Technical Definition and Description
+## Project 4: Technical Description
 
 Technical professionals are often required to define or describe a technical object, concept, or process to someone who has little knowledge or experience with the subject at hand. For example, an engineering firm might write a proposal to bid on a contract to develop a helicopter for the Defense Department; one section of the proposal would be a detailed description of the product the company proposes to develop. Technical descriptions are used before products and processes are developed (as part of proposals and planning documents), during development (in progress reports, for instance), and afterwards (as part of marketing and promotional literature and technical support documents).
 
-This assignment asks you to select a product or process and write a description of it. It’s a good idea to select something with which you are already familiar, so you can focus on learning how to write the description rather than focusing on both learning how to write the description and learning about the product or process. There are two different kinds of technical descriptions to consider. Choose whichever one is appropriate, depending on your topic.
+This project asks you to select a product or process and write a description of it. It’s a good idea to select something with which you are already familiar, so you can focus on learning how to write the description rather than focusing on both learning how to write the description and learning about the product or process. There are two different kinds of technical descriptions to consider. Choose whichever one is appropriate, depending on your topic.
 
 A **product description** explains the features of a specific device, such as a scientific instrument or computer program. Possible topics include devices that are specific to your field, or devices you use in everyday life:
 
@@ -51,7 +51,7 @@ You have two options here. First, you can develop your own visuals (a rough sket
 
 ## Evaluation Criteria 
 
-I will evaluate the technical definition and description according to these expectations:
+I will evaluate the technical description according to these expectations:
 	
 **Content:** The document is complete (it has all the necessary information to describe the product or process, including a sentence or extended definition).
 

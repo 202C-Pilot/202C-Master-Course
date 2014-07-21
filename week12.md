@@ -6,7 +6,7 @@ Probably because of your exposure to advertising, you are intuitively aware of a
 
 Glancing at a few pages from some software manuals or government reports will show a variety of strategies, and a broad range of creativity. Design is not simply an ornamental aspect of technical communication, but a meaningful feature that aids readers in key ways.
 
-The principles you learn about in this lesson will apply not only to your Instruction Set, but also to future assignments and all other technical communication work. In sum, design is as important as content in technical communication.
+The principles you learn about in this lesson will apply not only to your Technical Description, but also to future assignments and all other technical communication work. In sum, design is as important as content in technical communication.
 
 At the end of this lesson you will be able to:
 
@@ -18,7 +18,7 @@ At the end of this lesson you will be able to:
 * apply principles of typography to design an effective document;
 * design titles and headings so that they are visually distinct;
 * describe the uses of rules, boxes, screens, marginal glosses, and pull quotes in technical documents; and
-* apply document design principles to your Instruction Set assignment.
+* apply document design principles to your Technical Description project.
 
 ## By Tuesday Night
 
