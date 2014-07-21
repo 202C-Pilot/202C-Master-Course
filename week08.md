@@ -27,18 +27,18 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 8 of _Technical Communication._
-* Go to the [Class Discussion Forum for Week 8][1], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 8][CD8], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of some of your classmates in the [Class Discussion Forum for Week 8.][1]
-* Go to the [Writing Activity Forum for Week 8][2], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 8.][CD8]
+* Go to [Writing Activity 8][WA8], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in the [Writing Activity Forum for Week 8][2].
+* Complete part two of the writing activity assigned in the [Writing Activity 8][WA8].
 
 ## Materials & Tools for this Lesson
 
-[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+Forum+for+Week+8
-[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+Forum+for+Week+8
+[CD8]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+8
+[WA8]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+8

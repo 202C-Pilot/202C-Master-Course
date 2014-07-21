@@ -14,22 +14,22 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 15 of _Technical Communication._
-* Go to the [Class Discussion Forum for Week 7][1], read the discussion prompt, and submit an initial response.
+* Read the instructions for [Project 3.][P3A]
+* Review some samples of [Project 3.][P3S]
+* Go to [Class Discussion 7][CD7], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of some of your classmates in the [Class Discussion Forum for Week 7.][1]
-* Read the instructions for [Project 3.][3]
-* Review some samples of [Project 3.][4]
-* Go to the [Writing Activity Forum for Week 7][2], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 7.][CD7]
+* Go to [Writing Activity 7][WA7], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in the [Writing Activity Forum for Week 7][2].
+* Complete part two of the writing activity assigned in [Writing Activity 7][WA7].
 
 ## Materials & Tools for this Lesson
 
-[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+Forum+for+Week+7
-[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+Forum+for+Week+7
-[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+3+Assignment
-[4]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+3+Samples
+[CD7]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+7
+[WA7]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+7
+[P3A]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+3+Assignment
+[P3S]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+3+Samples
