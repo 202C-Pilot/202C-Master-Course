@@ -32,9 +32,9 @@ Students in this course will learn how to:
 * Employ computer technologies effectively in the solution of communication problems.
 * Communicate in an ethically responsible manner.
 
-## Required Course Materials
+## Required Textbook
 
-The following materials are required and must be purchased online:
+The following textbook is required:
 
 * _Technical Communication_ by Mike Markel. Bedford/St. Martin's, 2012. Tenth edition. E-book, standard version. You can purchase access to this e-book directly at < [http://bcs.bedfordstmartins.com/techcomm10e/][2] >, or you can buy an access code at the Penn State bookstore. You will have access to the e-book for 180 days.
 
@@ -60,7 +60,7 @@ In each week of the class, you will participate in one class discussion and one 
 
 Each discussion and writing activity is asynchronous, which means you'll never have to be available at a specific time or place to participate. Instead, you'll be given deadlines by which you'll be expected to complete various parts of each discussion or activity.
 
-There will be 15 class discussions forums, each worth 1% or one point, for a total of 15% of your final grade. Similarly, there will be 15 writing activity forums, each worth 1% or one point, for a total of 15% of your final grade. Together, these class discussions and writing activities make up nearly a third of your final grade, which reflects just how important interacting with your classmates is to this course. 
+There will be 15 class discussion forums, each worth 1% or one point, for a total of 15% of your final grade. Similarly, there will be 15 writing activity forums, each worth 1% or one point, for a total of 15% of your final grade. Together, these class discussions and writing activities make up nearly a third of your final grade, which reflects just how important interacting with your classmates is to this course. 
 
 Both class discussions and writing activities will be graded on a three point scale aimed at rewarding your work in each forum:
 
@@ -78,19 +78,19 @@ This course will hold you to the professional standards that prevail in your fie
 There are five major projects: 
 
 >## Project 1, Basic Rhetorical Analysis
-Technical communication is meant to be used and not just read. Good technical communication communicates information to an audience who will act on that information in a variety of ways: in making hiring decisions, in following technical procedures, in developing research plans, and more. In this project, you will evaluate the usability of a piece of technical communication, that is, you will analyze whether the document effectively communicates the necessary information to its audience and where it fails to do so. In this way, the project will introduce you to basic elements of technical communication. Final Length: Approximately 1000 words
+Technical communication is meant to be used and not just read. Good technical communication communicates information to an audience who will act on that information in a variety of ways: in making hiring decisions, in following technical procedures, in developing research plans, and more. In this project, you will evaluate the usability of a piece of technical communication, that is, you will analyze whether the document effectively communicates the necessary information to its audience and where it fails to do so. In this way, the project will introduce you to basic elements of technical communication. Final Length: Approximately 1000 words.
 
 >## Project 2, Internet Resource Guide 
-Through this project, you will become familiar with online communication resources specific to your field of study, including research tools, professional societies, and other Internet sites that members of your field should find useful. You will present and describe those resources to other members of your field in a technical guide. You will need to make decisions about organization, format, and style as a means of creating a usable document for readers. And you will need to learn to write effective abstracts. Final Length: Eight abstracts (one or two paragraphs each) plus front matter
+Through this project, you will become familiar with online communication resources specific to your field of study, including research tools, professional societies, and other Internet sites that members of your field should find useful. You will present and describe those resources to other members of your field in a technical guide. You will need to make decisions about organization, format, and style as a means of creating a usable document for readers. And you will need to learn to write effective abstracts. Final Length: Eight abstracts (one or two paragraphs each) plus front matter.
 
 >## Project 3, Job Application Package  
-The process of applying for a job is an extremely important process for technical communicators. As a job applicant, you have a vested interest in communicating your suitability for a position with the specific audience making employment decisions. This project will ask you to create resumes and cover letters attuned to the rhetorical situations of two actual job offerings in your field. You will also discuss your writing and communication decisions in a reflective memo. Final Length: Two resumes, two cover letters, and a 1000-word cover memo
+The process of applying for a job is extremely important for technical communicators. As a job applicant, you have a vested interest in communicating your suitability for a position with the specific audience making employment decisions. This project will ask you to create resumes and cover letters attuned to the rhetorical situations of two actual job offerings in your field. You will also discuss your writing and communication decisions in a reflective memo. Final Length: Two resumes, two cover letters, and a 1000-word cover memo.
 
->## Project 4, Technical Definition/Description 
-Engineers and scientists are often required to describe a technical object, concept, or process to someone who has little knowledge or experience with the subject at hand. For example, an engineering firm might write a proposal to bid on a contract to develop a helicopter for the Defense Department; one section of the proposal would be a detailed description of the product the company proposes to develop. Technical descriptions are used before products and processes are developed (as part of proposals and planning documents), during development (in progress reports, for instance), and afterwards (as part of marketing and promotional literature and technical support documents). You will write a technical definition for an object, concept, or process in your field. Final Length: Approximately 1000 words
+>## Project 4, Technical Description 
+Engineers and scientists are often required to describe a technical object, concept, or process to someone who has little knowledge or experience with the subject at hand. For example, an engineering firm might write a proposal to bid on a contract to develop a helicopter for the Defense Department; one section of the proposal would be a detailed description of the product the company proposes to develop. Technical descriptions are used before products and processes are developed (as part of proposals and planning documents), during development (in progress reports, for instance), and afterwards (as part of marketing and promotional literature and technical support documents). You will write a technical description for an object, concept, or process in your field. Final Length: Approximately 1000 words.
 
 >## Project 5, Instruction Set 
-Instruction sets are common technical documents in many disciplines and occupations. Employees read instructions to learn how to assemble a product or complete a procedure. Supervisors write out company policies that oftentimes serve as instruction sets. Customers read instructions for using a product. You will develop a set of instructions that shows users how to perform a specific task. Final Length: Approximately 1000 words
+Instruction sets are common technical documents in many disciplines and occupations. Employees read instructions to learn how to assemble a product or complete a procedure. Supervisors write out company policies that oftentimes serve as instruction sets. Customers read instructions for using a product. You will develop a set of instructions that shows users how to perform a specific task. Final Length: Approximately 1000 words.
 
 ## Grades
 
@@ -104,7 +104,7 @@ The grades of A, B, C, D, and F indicate qualities of academic performance. When
 
 > D = Marginally acceptable. The document meets some of the objectives but ignores others; the content is inadequately developed; or it contains numerous or major errors.
 
-> F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major errors or excessive errors.
+> F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major or excessive errors.
 
 ## Late Policy
 
