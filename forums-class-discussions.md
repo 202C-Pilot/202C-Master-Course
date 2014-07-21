@@ -1,22 +1,24 @@
 ## Class Discussion Forum for Week 1
 
-Insert discussion prompt here.
+CD1: Introductions
 
 ## Class Discussion Forum for Week 2
 
-Insert discussion prompt here.
+CD2: Defining Tech Comm
 
 ## Class Discussion Forum for Week 3
 
-Insert discussion prompt here.
+CD3:
 
 ## Class Discussion Forum for Week 4
 
-Insert discussion prompt here.
+CD4: Discussion of sample IRGs.
+
+
 
 ## Class Discussion Forum for Week 5
 
-Insert discussion prompt here.
+CD5: 
 
 ## Class Discussion Forum for Week 6
 
@@ -24,11 +26,11 @@ Insert discussion prompt here.
 
 ## Class Discussion Forum for Week 7
 
-Insert discussion prompt here.
+CD7: Discussion of letters and sample letters.
 
 ## Class Discussion Forum for Week 8
 
-Insert discussion prompt here.
+CD7: Discussion of resumes and sample resumes.
 
 ## Class Discussion Forum for Week 9
 
@@ -36,7 +38,7 @@ Insert discussion prompt here.
 
 ## Class Discussion Forum for Week 10
 
-Insert discussion prompt here.
+CD10: Discussion of sample tech descriptions.
 
 ## Class Discussion Forum for Week 11
 
@@ -48,7 +50,7 @@ Insert discussion prompt here.
 
 ## Class Discussion Forum for Week 13
 
-Insert discussion prompt here.
+CD13: Discussion of sample instruction sets
 
 ## Class Discussion Forum for Week 14
 

@@ -1,59 +1,67 @@
-## Writing Activity Forum for Week 1
+## Writing Activity 1
 
-* Invention/Planning Activity.
+* Part One: ?
+* Part Two: ?
 
-## Writing Activity Forum for Week 2
+## Writing Activity 2 - Project 1
 
-* Draft due by Friday. Peer review due by Sunday.
+* Part One: Friday: Planning Work.
+* Part Two: Sunday: Peer Feedback.
 
-## Writing Activity Forum for Week 3
+## Writing Activity 3
 
-* Reflection on revision-work and on what you learned from this project cycle. Final project due.
+* Friday: Project Reflection.
+* Sunday: Project Due.
 
-## Writing Activity Forum for Week 4
+## Writing Activity 4 - Project 2, IRG
+* Part One: Friday: Planning Work.
+* Part Two: Sunday: Peer Feedback.
 
-* Invention/Planning Activity.
+## Writing Activity 5
+* Part One: Friday: Draft Submission. 
+* Part Two: Sunday: Peer Feedback.
 
-## Writing Activity Forum for Week 5
+## Writing Activity 6
 
-* Draft due by Friday. Peer review due by Sunday.
+* Friday: Project Reflection.
+* Sunday: Project Due.
 
-## Writing Activity Forum for Week 6
+## Writing Activity 7 - Project 3, Job App
+* Part One: Friday: Planning Work.
+* Part Two: Sunday: Peer Feedback.
 
-* Reflection on revision-work and on what you learned from this project cycle. Final project due.
+## Writing Activity 8
+* Part One: Friday: Draft Submission. 
+* Part Two: Sunday: Peer Feedback.
 
-## Writing Activity Forum for Week 7
+## Writing Activity 9
+* Friday: Project Reflection.
+* Sunday: Project Due.
 
-* Invention/Planning Activity.
+## Writing Activity 10 - Project 4, Tech Description
+* Part One: Friday: Planning Work.
+* Part Two: Sunday: Peer Feedback.
 
-## Writing Activity Forum for Week 8
- 
-* Draft due by Friday. Peer review due by Sunday.
+## Writing Activity 11
+* Part One: Friday: Draft Submission. 
+* Part Two: Sunday: Peer Feedback.
 
-## Writing Activity Forum for Week 9
+## Writing Activity 12
 
-* Reflection on revision-work and on what you learned from this project cycle. Final project due.
+* Friday: Project Reflection.
+* Sunday: Project Due.
 
-## Writing Activity Forum for Week 10
+## Writing Activity 13 - Project 5, Instruction Set
+* Part One: Friday: Planning Work.
+* Part Two: Sunday: Peer Feedback.
 
-* Invention/Planning Activity.
+## Writing Activity 14
+* Part One: Friday: Draft Submission. 
+* Part Two: Sunday: Peer Feedback.
 
-## Writing Activity Forum for Week 11
+## Writing Activity 15
 
-* Draft due by Friday. Peer review due by Sunday.
+* Friday: Project Reflection.
+* Sunday: Project Due.
 
-## Writing Activity Forum for Week 12
 
-* Reflection on revision-work and on what you learned from this project cycle. Final project due.
-
-## Writing Activity Forum for Week 13
-
-* Invention/Planning Activity.
-
-## Writing Activity Forum for Week 14
-
-* Draft due by Friday. Peer review due by Sunday.
-
-## Writing Activity Forum for Week 15
-
-* Reflection on revision-work and on what you learned from this project cycle. Last project due.
