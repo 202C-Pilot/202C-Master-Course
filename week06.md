@@ -17,20 +17,19 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 2 of _Technical Communication._
-* Go to the [Class Discussion Forum for Week 6][1], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 6][CD6], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of some of your classmates in the [Class Discussion Forum for Week 6.][1]
-* Go to the [Writing Activity Forum for Week 6][2], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 6.][CD6]
+* Go to [Writing Activity 6][WA6], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in the [Writing Activity Forum for Week 6][2].
-* Submit your final draft of Project 2 to the [Project 2 Final Dropbox][3].
+* Submit your final draft of Project 2 to the [Project 2 Final Dropbox][P2D].
 
 ## Materials & Tools for this Lesson
 
-[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+Forum+for+Week+6
-[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+Forum+for+Week+6
-[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+2+Final+Dropbox
+[CD6]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+6
+[WA6]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+6
+[P2D]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+2+Final+Dropbox

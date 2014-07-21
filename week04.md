@@ -21,13 +21,13 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 6 of _Technical Communication._
+* Read the instructions for [Project 2.][P2A]
+* Review some samples of [Project 2.][P2S]
 * Go to [Class Discussion 4][CD4], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
 * Engage in a discussion by replying to the responses of your classmates in [Class Discussion 4.][CD4]
-* Read the instructions for [Project 2.][P2A]
-* Review some samples of [Project 2.][P2S]
 * Go to [Writing Activity 4][WA4], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
