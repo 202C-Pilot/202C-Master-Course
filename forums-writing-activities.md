@@ -13,13 +13,19 @@
 * Friday: Project Reflection.
 * Sunday: Project Due.
 
-## Writing Activity 4 - Project 2, IRG
+xxx
+
+Activity 4 - Project 2, IRG
 * Part One: Friday: Planning Work.
 * Part Two: Sunday: Peer Feedback.
 
+xxx
+
 ## Writing Activity 5
-* Part One: Friday: Draft Submission. 
+* Part One: Friday: Draft Submission.
 * Part Two: Sunday: Peer Feedback.
+
+xxx
 
 ## Writing Activity 6
 
