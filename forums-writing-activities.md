@@ -52,12 +52,8 @@
 
 ## Writing Activity Forum for Week 14
 
-Thanksgiving Break
+* Draft due by Friday. Peer review due by Sunday.
 
 ## Writing Activity Forum for Week 15
 
-* Draft due by Friday. Peer review due by Sunday.
-
-## Writing Activity Forum for Week 16
-
-* Reflection on revision-work and on what you learned from this project cycle. Final project due.
+* Reflection on revision-work and on what you learned from this project cycle. Last project due.

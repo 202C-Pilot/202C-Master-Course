@@ -28,7 +28,7 @@ Insert discussion prompt here.
 
 ## Class Discussion Forum for Week 8
 
-Spring Break or Insert discussion prompt here.
+Insert discussion prompt here.
 
 ## Class Discussion Forum for Week 9
 
@@ -52,12 +52,8 @@ Insert discussion prompt here.
 
 ## Class Discussion Forum for Week 14
 
-Thanksgiving Break or Insert discussion prompt here.
-
-## Class Discussion Forum for Week 15
-
 Insert discussion prompt here.
 
-## Class Discussion Forum for Week 16
+## Class Discussion Forum for Week 15
 
 Insert discussion prompt here.
