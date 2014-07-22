@@ -1,21 +1,21 @@
-## Writing Activity 1
+## Writing Workshop 1
 
 * Part One: ?
 * Part Two: ?
 
-## Writing Activity 2 - Project 1
+## Writing Workshop 2 - Project 1
 
 * Part One: Friday: Planning Work.
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 3
+## Writing Workshop 3
 
 * Friday: Project Reflection.
 * Sunday: Project Due.
 
 xxx
 
-## Writing Activity 4 - Project 2, IRG
+## Writing Workshop 4 - Project 2, IRG
 * Part One: Friday: Planning Work. Respond to the prompts for planning your IRG.
 
 The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goals of your responses are to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
@@ -36,7 +36,7 @@ Prompts for Planning:
 XXX
 
 
-## Writing Activity 5
+## Writing Workshop 5
 * Part One: Friday: Draft Submission. Complete a draft of your IRG.
 
 * Part Two: Sunday: Peer Feedback. Provide peer feedback on drafts.
@@ -76,47 +76,47 @@ Prompts for Drafting
 
 Prompts for Peer Feedback
 
-## Writing Activity 6
+## Writing Workshop 6
 
 * Friday: Project Reflection. Respond to the prompts for reflecting on your IRG.
 * Sunday: Project Due.
 
 Prompts for Reflection
 
-## Writing Activity 7 - Project 3, Job App
+## Writing Workshop 7 - Project 3, Job App
 * Part One: Friday: Planning Work.
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 8
+## Writing Workshop 8
 * Part One: Friday: Draft Submission. 
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 9
+## Writing Workshop 9
 * Friday: Project Reflection.
 * Sunday: Project Due.
 
-## Writing Activity 10 - Project 4, Tech Description
+## Writing Workshop 10 - Project 4, Tech Description
 * Part One: Friday: Planning Work.
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 11
+## Writing Workshop 11
 * Part One: Friday: Draft Submission. 
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 12
+## Writing Workshop 12
 
 * Friday: Project Reflection.
 * Sunday: Project Due.
 
-## Writing Activity 13 - Project 5, Instruction Set
+## Writing Workshop 13 - Project 5, Instruction Set
 * Part One: Friday: Planning Work.
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 14
+## Writing Workshop 14
 * Part One: Friday: Draft Submission. 
 * Part Two: Sunday: Peer Feedback.
 
-## Writing Activity 15
+## Writing Workshop 15
 
 * Friday: Project Reflection.
 * Sunday: Project Due.
