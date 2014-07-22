@@ -32,9 +32,9 @@ Prompts for Planning:
 6. What might your audience already know or have experience in that you can build on?
 7. At this point, what questions do you have about the project?
 
-Prompts for Peer Feedback:
+An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
-For the Front Matter
+Prompts for Peer Feedback, Front Matter
 
 1.	Evaluate the Table of Contents. How many levels does it include? Are those levels adequate to support readers?
 2.	Describe and analyze how the front matter discusses what's in the guide (contents/scope).
@@ -46,6 +46,21 @@ For the Front Matter
 8.	How does the author distinguish between the different sections of the front matter?
 9.	What could be added to the front matter to make the guide and its uses clearer to the intended audience?
 
+Prompts for Peer Feedback, Abstracts
+
+1. Evaluate the completeness of the abstracts. Are the draft abstracts complete? Do they include all identifying information (title, URL etc.)? Do they include this identifying information in a consistent way?
+2. Describe the clarity of the content. Do the draft abstracts describe the resources so that readers will understand both their general function and their specific scope? (For example, your abstract on the index should tell both the purpose of the index and the range and dates of periodicals covered.)
+3. 3.	Return to the issue of completeness. Do the draft abstracts answer all four of the following questions sufficiently? What is this? What is in it (contents, scope)? How is that information relevant and useful for someone in my field? What are tips for using the resource efficiently? Explain any weaknesses and discuss how your peer can improve the abstracts. 
+
+Prompts for Peer Feedback, Overall Guide
+
+1.	Are the entries current and significant?
+2.	Describe how the guide is formatted and organized. Is it “usable”?
+3.	Comment on the style of the writing. Do the abstracts give specific information in efficient sentences?
+4.	Where should the guide offer additional explanatory material or instructions to help the designated audience conduct online research?
+5.	How does the guide relate specifically to the needs of the audience?
+6.	What has the author done well in the guide? What needs work?
+7.	Provide at least three concrete suggestions for revision. Keep the evaluation/grading criteria in mind here.
 
 ## Writing Activity 5
 * Part One: Friday: Draft Submission. Complete a draft of your IRG.
