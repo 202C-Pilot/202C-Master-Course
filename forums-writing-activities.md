@@ -27,9 +27,9 @@ Prompts for Planning:
 3. Under what conditions or circumstances might your audience use the Guide?
 4. How might the use context affect the content and organization of the Guide?
 5. How might your understanding of audience affect how you write the Guide?
-5. What strategies might you use to motivate or appeal to your audience?
-6. What might your audience already know or have experience in that you can build on?
-7. At this point, what questions do you have about the project?
+6. What strategies might you use to motivate or appeal to your audience?
+7. What might your audience already know or have experience in that you can build on?
+8. At this point, what questions do you have about the project?
 
 * Part Two, Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
