@@ -76,10 +76,6 @@ Prompts for Peer Feedback, Overall Guide
 6.	What has the author done well in the guide? What needs work?
 7.	Provide concrete suggestions for revision. Keep the evaluation/grading criteria in mind here.
 
-Prompts for Drafting
-
-Prompts for Peer Feedback
-
 ## Writing Workshop 6
 
 * Friday, Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
