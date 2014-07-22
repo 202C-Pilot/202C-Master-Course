@@ -15,22 +15,22 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 1 of _Technical Communication._
-* Read the instructions for [Project 1.][P1A]
-* Go to [Class Discussion 2][CD2], read the discussion prompt, and submit an initial response.
+* Read the instructions for [Project 1.][3]
+* Go to [Class Discussion 2][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 2.][CD2]
-* Go to [Writing Activity 2][WA2], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 2.][1]
+* Go to [Writing Workshop 2][2], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in  [Writing Activity 2][WA2].
+* Complete part two of the activity assigned in [Writing Workshop 2][2].
 
 ---
 
 ## Materials & Tools for this Lesson
 
-[CD2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+2
-[WA2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+2
-[P1A]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+1+Assignment
+[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+2
+[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+2
+[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+1+Assignment

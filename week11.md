@@ -21,20 +21,20 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 9 of _Technical Communication._
-* Go to [Class Discussion 11][CD11], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 11][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 11.][CD11]
-* Go to [Writing Activity 11][WA11], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 11.][1]
+* Go to [Writing Workshop 11][2], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in [Writing Activity 11][WA11].
+* Complete part two of the activity assigned in [Writing Workshop 11][2].
 
 ---
 
 ## Materials & Tools for this Lesson
 
-[CD11]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+11
-[WA11]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+11
+[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+11
+[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+11

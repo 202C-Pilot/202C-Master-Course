@@ -26,24 +26,24 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read the "Writing Instructions" section of Chapter 20 of _Technical Communication_.
-* Read the instructions for [Project 5.][P5A]
-* Review some samples of [Project 5.][P5S]
-* Go to [Class Discussion 13][CD13], read the discussion prompt, and submit an initial response.
+* Read the instructions for [Project 5.][3]
+* Review some samples of [Project 5.][4]
+* Go to [Class Discussion 13][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 13.][CD13]
-* Go to [Writing Activity 13][WA13], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in [Class Discussion 13.][1]
+* Go to [Writing Workshop 13][2], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in [Writing Activity 13][WA13].
+* Complete part two of the activity assigned in [Writing Workshop 13][2].
 
 ---
 
 ## Materials & Tools for this Lesson
 
-[CD13]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+13
-[WA13]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+13
-[P5A]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+5+Assignment
-[P5S]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+5+Samples
+[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+13
+[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+13
+[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+5+Assignment
+[4]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+5+Samples

@@ -13,21 +13,21 @@ The activities for this week are designed to familiarize you with both the cours
 ## By Tuesday Night
 
 * Read the syllabus.
-* Go to [Class Discussion 1][CD1], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 1][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a class discussion by replying to the responses of your classmates in [Class Discussion 1.][CD1]
-* Go to [Writing Activity 1][WA1], read the directions, and submit part one of the activity assigned there.
+* Engage in a class discussion by replying to the responses of your classmates in [Class Discussion 1.][1]
+* Go to [Writing Workshop 1][2], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in [Writing Activity 1][WA1].
+* Complete part two of the activity assigned in [Writing Workshop 1][2].
 * Purchase the textbook.
 
 ---
 
 ## Materials & Tools for this Lesson
 
-[CD1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+01
-[WA1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+01
+[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+01
+[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+01

@@ -16,20 +16,20 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 12 of _Technical Communication._
-* Go to [Class Discussion 14][CD14], read the discussion prompt, and submit an initial response.
+* Go to [Class Discussion 14][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
 
-* Engage in a discussion by replying to the responses of your classmates in the [Class Discussion 14.][CD14]
-* Go to [Writing Activity 14][WA14], read the directions, and submit part one of the activity assigned there.
+* Engage in a discussion by replying to the responses of your classmates in the [Class Discussion 14.][1]
+* Go to [Writing Workshop 14][2], read the directions, and submit part one of the activity assigned there.
 
 ## By Sunday Night
 
-* Complete part two of the writing activity assigned in [Writing Activity 14][WA14].
+* Complete part two of the activity assigned in [Writing Workshop 14][2].
 
 ---
 
 ## Materials & Tools for this Lesson
 
-[CD14]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+14
-[WA14]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+14
+[1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+14
+[2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+14
