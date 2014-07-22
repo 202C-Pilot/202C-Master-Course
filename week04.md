@@ -18,6 +18,8 @@ At the end of this lesson you will be able to:
 * employ paraphrases, quotes, and summaries as evidence in persuasive technical documents; and
 * evaluate sources found on the Web.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 6 of _Technical Communication._
@@ -33,6 +35,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity Forum 4][WA4].
+
+---
 
 ## Materials & Tools for this Lesson
 

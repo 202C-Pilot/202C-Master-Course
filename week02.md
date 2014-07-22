@@ -10,6 +10,8 @@ At the end of this lesson you will be able to:
 * distinguish between the two categories of people who produce technical communication; and
 * identify examples of technical communication used in business, industry, and the everyday world around you.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 1 of _Technical Communication._
@@ -24,6 +26,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in  [Writing Activity 2][WA2].
+
+---
 
 ## Materials & Tools for this Lesson
 

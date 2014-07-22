@@ -24,6 +24,8 @@ At the end of this lesson you will be able to:
 * recognize the important role of graphics, design, and ethics in persuasion; and
 * use persuasive techniques in your job application package.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 8 of _Technical Communication._
@@ -37,6 +39,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in the [Writing Activity 8][WA8].
+
+---
 
 ## Materials & Tools for this Lesson
 

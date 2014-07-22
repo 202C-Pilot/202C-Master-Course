@@ -11,6 +11,8 @@ At the end of this lesson you will be able to:
 * prepare texts for translation; and
 * apply the techniques for creating effective sentences to your Instruction Set project. 
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 10 of _Technical Communication_.
@@ -25,6 +27,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Submit your final draft of Project 5 to the [Project 5 Final Dropbox][P5FD].
+
+---
 
 ## Materials & Tools for this Lesson
 

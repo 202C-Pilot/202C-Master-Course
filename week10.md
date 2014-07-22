@@ -16,6 +16,8 @@ At the end of this lesson you will be able to:
 * identify the most effective place for a definition based on a document's audience and purpose; and
 * write an effective description of an object or a process.
 
+---
+
 ## By Tuesday Night
 
 * Read the "Definitions and Descriptions" section of Chapter 20 of _Technical Communication_.
@@ -31,6 +33,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity 10][WA10].
+
+---
 
 ## Materials & Tools for this Lesson
 

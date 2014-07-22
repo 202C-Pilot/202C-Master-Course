@@ -12,6 +12,8 @@ At the end of this lesson you will be able to:
 * identify individual characteristics of an audience or multiple audiences; and
 * write text to meet the needs of expert, technician, manager, and general reader audiences.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 5 of _Technical Communication_.
@@ -25,6 +27,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Submit your final draft of Project 1 to the [Project 1 Final Dropbox][P1D].
+
+---
 
 ## Materials & Tools for this Lesson
 

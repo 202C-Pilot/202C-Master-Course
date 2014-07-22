@@ -20,6 +20,8 @@ At the end of this lesson you will be able to:
 * describe the uses of rules, boxes, screens, marginal glosses, and pull quotes in technical documents; and
 * apply document design principles to your Technical Description project.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 11 of _Technical Communication_.
@@ -33,6 +35,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Submit your final draft of Project 4 to the [Project 4 Final Dropbox][P4FD].
+
+---
 
 ## Materials & Tools for this Lesson
 

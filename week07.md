@@ -11,6 +11,8 @@ At the end of this lesson you will be able to:
 * design an effective resume and cover letter; and
 * understand the job application process as a rhetorical process that involves presenting your background and work in particular ways. (There is, of course, more than one way to present yourself; you're looking for the best representation for a particular job.)
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 15 of _Technical Communication._
@@ -26,6 +28,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity 7][WA7].
+
+---
 
 ## Materials & Tools for this Lesson
 

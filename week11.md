@@ -16,6 +16,8 @@ At the end of this lesson you will be able to:
 * recognize the value of headers, footers, and typography in enhancing coherence; and
 * apply the strategies for coherence to your Technical Description project.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 9 of _Technical Communication._
@@ -29,6 +31,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity 11][WA11].
+
+---
 
 ## Materials & Tools for this Lesson
 

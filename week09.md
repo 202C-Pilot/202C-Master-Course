@@ -10,6 +10,8 @@ At the end of this lesson you will be able to:
 * choose the best pattern of organizing information given a document's specific audience and purpose; and
 * choose the best patterns of organization for each part of your Job Application Package.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 7 of _Technical Communication_.
@@ -23,6 +25,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Submit your final draft of Project 3 to the [Project 3 Final Dropbox][P3FD].
+
+---
 
 ## Materials & Tools for this Lesson
 

@@ -4,7 +4,11 @@ This course in technical communication familiarizes students with the discourse 
 
 The activities for this week are designed to familiarize you with both the course and your classmates.
 
+---
+
 **REMINDER: Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.**
+
+---
 
 ## By Tuesday Night
 
@@ -20,6 +24,8 @@ The activities for this week are designed to familiarize you with both the cours
 
 * Complete part two of the writing activity assigned in [Writing Activity 1][WA1].
 * Purchase the textbook.
+
+---
 
 ## Materials & Tools for this Lesson
 

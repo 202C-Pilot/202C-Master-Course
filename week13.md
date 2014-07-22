@@ -21,6 +21,8 @@ At the end of this lesson you will be able to:
 * introduce and conclude instructions effectively; and
 * write clear and accurate step-by-step instructions.
 
+---
+
 ## By Tuesday Night
 
 * Read the "Writing Instructions" section of Chapter 20 of _Technical Communication_.
@@ -36,6 +38,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity 13][WA13].
+
+---
 
 ## Materials & Tools for this Lesson
 

@@ -8,6 +8,8 @@ At the end of this lesson you will be able to:
 * provide useful feedback for your classmates; and
 * revise, edit, and proofread your work.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 3 of _Technical Communication._
@@ -21,6 +23,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity 5][WA5].
+
+---
 
 ## Materials & Tools for this Lesson
 

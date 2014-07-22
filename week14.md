@@ -11,6 +11,8 @@ At the end of this lesson you will be able to:
 * cite graphics used in technical documents; and
 * choose appropriate graphics for your Instruction Set project.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 12 of _Technical Communication._
@@ -24,6 +26,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Complete part two of the writing activity assigned in [Writing Activity 14][WA14].
+
+---
 
 ## Materials & Tools for this Lesson
 

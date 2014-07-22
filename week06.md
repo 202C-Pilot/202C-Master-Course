@@ -14,6 +14,8 @@ At the end of this lesson you will be able to:
 * analyze the ethical and legal dimensions of communication situations in systematic ways;
 * examine the ethical and legal implications of your own writing and communication.
 
+---
+
 ## By Tuesday Night
 
 * Read Chapter 2 of _Technical Communication._
@@ -27,6 +29,8 @@ At the end of this lesson you will be able to:
 ## By Sunday Night
 
 * Submit your final draft of Project 2 to the [Project 2 Final Dropbox][P2D].
+
+---
 
 ## Materials & Tools for this Lesson
 
