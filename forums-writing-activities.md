@@ -32,7 +32,20 @@ Prompts for Planning:
 6. What might your audience already know or have experience in that you can build on?
 7. At this point, what questions do you have about the project?
 
-Prompts for Peer Feedback
+Prompts for Peer Feedback:
+
+For the Front Matter
+
+1.	Evaluate the Table of Contents. How many levels does it include? Are those levels adequate to support readers?
+2.	Describe and analyze how the front matter discusses what's in the guide (contents/scope).
+3.	Describe and analyze how the front matter attends to its audience and to the purposes for which it will be used. 
+4.	What does the front matter assume that the user knows? Evaluate these assumptions. 
+5.	What does the front matter say about how the guide is organized for use?
+6.	Does the front matter discuss tips for using the guide efficiently? Can you suggest additional tips?
+7.	Evaluate the development of the front matter. Which areas might need development or revision?
+8.	How does the author distinguish between the different sections of the front matter?
+9.	What could be added to the front matter to make the guide and its uses clearer to the intended audience?
+
 
 ## Writing Activity 5
 * Part One: Friday: Draft Submission. Complete a draft of your IRG.
