@@ -218,13 +218,13 @@ a, body.toc .nugBody a {
 body {
 background: #fbfbfb;
 color: #303030;
-font-family: Arial !important;
+font-family: Verdana, Arial !important;
 font-size: 1em;
 font-weight: 400;
 }
 
 body, td, th {
-font-family: Arial !important;
+font-family: Verdana, Arial !important;
 font-weight: 400;
 background: #fbfbfb;
 }
