@@ -27,6 +27,7 @@ Prompts for Planning:
 2. What problems of your audience might you address by preparing the Guide?
 3. Under what conditions or circumstances might your audience use the Guide?
 4. How might the use context affect the content and organization of the Guide?
+5. How might your understanding of audience affect how you write the guide?
 5. What strategies might you use to motivate or appeal to your audience?
 6. What might your audience already know or have experience in that you can build on?
 7. At this point, what questions do you have about the project?
