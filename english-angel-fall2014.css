@@ -19,7 +19,7 @@ IMPORT_1=
 IMPORT_2=
 IMPORT_3=
 
-FONT_FACE='Droid Sans',Arial,Verdana,Helvetica,sans-serif
+FONT_FACE=Arial,Verdana,Helvetica,sans-serif
 TEXT_SIZE=
 TEXT_ATTRIB=
 LINK_ATTRIB=
@@ -81,7 +81,7 @@ MAP_FOOTER_BACKGROUND_COLOR=
 * Styles and font sizes
 ***********************************************************************/
 body { }
-body, td, th { font-family:'Droid Sans',Arial,Verdana,Helvetica,sans-serif }
+body, td, th { font-family: Arial,Verdana,Helvetica,sans-serif }
 a, body.toc .nugBody a {  }
 a:hover, body.toc .nugBody a:hover {  }
 body.bodyLessons, body.bodyDefault, body.bodyCalendar {  } 
@@ -146,12 +146,6 @@ body.toc, body.toc .nugBody a, body.toc .nugBody a:hover { }
 
 /* new stuff */
 
-hr {
-	border: none;
-	height: 1px;
-	background: #b5b5b5;
-}
-
 .bannerWin {
 	overflow:hidden;
 }
@@ -182,18 +176,11 @@ psu r: 4879 end
 
 /* Custom English css */
 
-@font-face {
-  font-family: 'Droid Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Droid Sans'), local('DroidSans'), url(https://themes.googleusercontent.com/static/fonts/droidsans/v4/s-BiyweUPV0v-yRb-cjciL3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
-}
-@font-face {
-  font-family: 'Droid Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Droid Sans Bold'), local('DroidSans-Bold'), url(https://themes.googleusercontent.com/static/fonts/droidsans/v4/EFpQQyG9GqCrobXxL-KRMXbFhgvWbfSbdVg11QabG8w.woff) format('woff');
-}
+hr {
+	border: none;
+	height: 1px;
+	background: #c0c0c0;
+	}
 
 strong {
 	font-weight: 700;
@@ -222,7 +209,6 @@ ul, ol {
 	}
 	
 a, body.toc .nugBody a {
-    text-shadow: none;
 }
 	
 .syllabus-email {
@@ -232,16 +218,13 @@ a, body.toc .nugBody a {
 body {
 background: #fbfbfb;
 color: #303030;
-font-family: 'Droid Sans', Arial !important;
+font-family: Arial !important;
 font-size: 1em;
 font-weight: 400;
-text-shadow: 0 1px 0 #f9f9f9;
 }
 
-/* body {text-shadow: 0 1px 0 #f9f9f9;} */
-
 body, td, th {
-font-family: 'Droid Sans', Arial !important;
+font-family: Arial !important;
 font-weight: 400;
 background: #fbfbfb;
 }
@@ -300,7 +283,6 @@ margin: 35px 0 0 100px;
 padding: 0;
 width: auto;
 color: #f0f0f0 !important;
-text-shadow: none;
 }
 
 .tabs {
@@ -308,7 +290,6 @@ text-shadow: none;
     padding-top: 14px;
     position: relative;
     width: 100%;
-    text-shadow: none;
 }
 
 #tabMenu {
@@ -457,7 +438,6 @@ border-bottom: none;
 font-size: 0.6875em;
 font-weight: normal;
 padding: 0;
-text-shadow: none;
 }
 
 .toolbar {
@@ -526,12 +506,10 @@ padding: 0;
 #nugSectionAnnouncements small {
     font-size: 1em;
     line-height: 1.525em;
-    text-shadow: none;
 }
 	
 #lnkSectionAnnouncements {
 	color: #f9f9f9;
-	text-shadow: none;
 	display: none;
 	}
 	
