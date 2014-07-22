@@ -18,7 +18,7 @@ xxx
 ## Writing Workshop 4 - Project 2, IRG
 * Part One, Friday: Planning Work. Respond to the prompts for planning your IRG.
 
-The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goals of your responses are to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
+The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
 
 Prompts for Planning: 
 
@@ -33,11 +33,12 @@ Prompts for Planning:
 
 * Part Two, Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
-Although document plans can be tentative and contingenet, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal as a reviewer is to help writers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer with the goal of hed
+Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer with the goal of helping peers improve their plans.
 
-1. 
-2.
-3.
+1. Did your peer address
+2. What are the strenghts of the planning work? 
+2. What are the weaknesses?
+3. 
 4.
 
 ## Writing Workshop 5
