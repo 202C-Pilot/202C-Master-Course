@@ -83,6 +83,7 @@ Prompts for Peer Feedback, Overall Guide
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you are doing.
 
 Prompts for Reflection
+
 1. How did the project go?
 2. What did you learn from doing the project?
 3. What areas of the project are you pleased with? Why?
