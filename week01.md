@@ -6,7 +6,7 @@ The activities for this week are designed to familiarize you with both the cours
 
 ---
 
-**REMINDER: Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.**
+**REMINDER:** Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.
 
 ---
 
