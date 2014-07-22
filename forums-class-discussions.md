@@ -11,7 +11,13 @@ Then, once you've introduced yourself to the class, connect with your classmates
 
 ## Class Discussion 2
 
-* Defining Tech Comm
+Defining Tech Comm
+
+Suggested Prompts for Discussion:
+
+* What is Technical Writing?  Why does it matter?
+* How does technical writing differ from other kinds of writing, such as academic or creative writing?
+* What kinds of technical writing have you seen before?  What concepts and strategies seem to be important in these forms of technical communication?
 
 ## Class Discussion 3
 
