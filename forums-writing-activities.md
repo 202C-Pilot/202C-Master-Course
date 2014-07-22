@@ -74,7 +74,7 @@ Prompts for Peer Feedback, Overall Guide
 4.	Where should the guide offer additional explanatory material or instructions to help the designated audience conduct online research?
 5.	How does the guide relate specifically to the needs of the audience?
 6.	What has the author done well in the guide? What needs work?
-7.	Provide at least three concrete suggestions for revision. Keep the evaluation/grading criteria in mind here.
+7.	Provide concrete suggestions for revision. Keep the evaluation/grading criteria in mind here.
 
 Prompts for Drafting
 
