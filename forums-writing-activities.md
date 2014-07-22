@@ -15,7 +15,7 @@
 
 xxx
 
-Activity 4 - Project 2, IRG
+## Writing Activity 4 - Project 2, IRG
 * Part One: Friday: Planning Work.
 * Part Two: Sunday: Peer Feedback.
 
