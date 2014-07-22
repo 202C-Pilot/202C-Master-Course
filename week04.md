@@ -34,7 +34,7 @@ At the end of this lesson you will be able to:
 
 ## By Sunday Night
 
-* Complete part two of the activity assigned in [Writing Workshop Forum 4][2].
+* Complete part two of the activity assigned in [Writing Workshop 4][2].
 
 ---
 
