@@ -16,20 +16,20 @@
 xxx
 
 ## Writing Activity 4 - Project 2, IRG
-* Part One: Friday: Planning Work.
-* Part Two: Sunday: Peer Feedback.
+* Part One: Friday: Planning Work. Respond to the prompts for planning your IRG.
+* Part Two: Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
 xxx
 
 ## Writing Activity 5
-* Part One: Friday: Draft Submission.
-* Part Two: Sunday: Peer Feedback.
+* Part One: Friday: Draft Submission. Complete a draft of your IRG.
+* Part Two: Sunday: Peer Feedback. Provide peer feedback on drafts.
 
 xxx
 
 ## Writing Activity 6
 
-* Friday: Project Reflection.
+* Friday: Project Reflection. Respond to the prompts for reflecting on your IRG.
 * Sunday: Project Due.
 
 ## Writing Activity 7 - Project 3, Job App
