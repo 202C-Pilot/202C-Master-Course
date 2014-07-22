@@ -36,7 +36,7 @@ At the end of this lesson you will be able to:
 
 ## Materials & Tools for this Lesson
 
-[CD11]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+12
+[CD12]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+12
 [WA12]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+12
 [P4FD]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+4+Final+Dropbox
 

@@ -27,5 +27,5 @@ At the end of this lesson you will be able to:
 ## Materials & Tools for this Lesson
 
 [CD9]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+9
-[CD9]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+9
+[WA9]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Activity+9
 [P3FD]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+3+Final+Dropbox
