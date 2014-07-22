@@ -19,7 +19,7 @@ xxx
 * Part One: Friday: Planning Work. Respond to the prompts for planning your IRG.
 * Part Two: Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
-The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goals of your responses are to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better, so don't hold back.
+The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goals of your responses are to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
 
 Prompts for Planning
 
