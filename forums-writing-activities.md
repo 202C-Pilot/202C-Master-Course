@@ -21,7 +21,14 @@ xxx
 
 The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goals of your responses are to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
 
-Prompts for Planning: Who is the audience for your Guide? What is its purpose? What problems of your audience might you address by preparing the Guide? Under what conditions or circumstances might your audience use the Guide? How might the use context affect the content and organization of the Guide? What strategies might you use to motivate or appeal to your audience? What might your audience already know or have experience in that you can build on? At this point, what questions do you have about the project?
+Prompts for Planning: 
+  Who is the audience for your Guide?
+  What problems of your audience might you address by preparing the Guide?
+  Under what conditions or circumstances might your audience use the Guide?
+  How might the use context affect the content and organization of the Guide?
+  What strategies might you use to motivate or appeal to your audience?
+  What might your audience already know or have experience in that you can build on?
+  At this point, what questions do you have about the project?
 
 Prompts for Peer Feedback
 
