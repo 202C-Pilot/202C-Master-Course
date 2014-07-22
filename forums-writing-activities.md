@@ -33,8 +33,12 @@ Prompts for Planning:
 
 * Part Two, Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
-XXX
+Although document plans can be tentative and contingenet, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal as a reviewer is to help writers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer with the goal of he
 
+1. 
+2.
+3.
+4.
 
 ## Writing Workshop 5
 * Part One, Friday: Draft Submission. Complete a draft of your IRG.
