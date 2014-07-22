@@ -42,7 +42,7 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you provide?
 
 ## Writing Workshop 5
-Part One, Friday: Draft Submission. Complete a draft of your IRG.
+Part One, Friday: Draft Submission. Complete a draft of your Internet Resource Guide.
 
 Part Two, Sunday: Peer Feedback. Provide peer feedback on drafts.
 
