@@ -29,8 +29,6 @@ Prompts for Planning:
 5. How might your understanding of audience affect how you write the Guide?
 6. What strategies might you use to motivate or appeal to your audience?
 7. What might your audience already know or have experience in that you can build on?
-8. At this point, what questions do you have about the project?
-
 * Part Two, Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
 Although document plans can be tentative and contingenet, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal as a reviewer is to help writers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer with the goal of hed
