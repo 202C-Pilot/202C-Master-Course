@@ -146,6 +146,11 @@ body.toc, body.toc .nugBody a, body.toc .nugBody a:hover { }
 
 /* new stuff */
 
+hr {
+	border: none;
+	height: 1px;
+	background: #c0c0c0;
+}
 
 .bannerWin {
 	overflow:hidden;
