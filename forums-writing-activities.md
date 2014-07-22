@@ -33,6 +33,14 @@ Prompts for Planning:
 
 * Part Two: Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
+XXX
+
+
+## Writing Activity 5
+* Part One: Friday: Draft Submission. Complete a draft of your IRG.
+
+* Part Two: Sunday: Peer Feedback. Provide peer feedback on drafts.
+
 An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
 Prompts for Peer Feedback, Front Matter
@@ -63,10 +71,6 @@ Prompts for Peer Feedback, Overall Guide
 5.	How does the guide relate specifically to the needs of the audience?
 6.	What has the author done well in the guide? What needs work?
 7.	Provide at least three concrete suggestions for revision. Keep the evaluation/grading criteria in mind here.
-
-## Writing Activity 5
-* Part One: Friday: Draft Submission. Complete a draft of your IRG.
-* Part Two: Sunday: Peer Feedback. Provide peer feedback on drafts.
 
 Prompts for Drafting
 
