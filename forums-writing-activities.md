@@ -5,18 +5,18 @@
 
 ## Writing Workshop 2 - Project 1
 
-* Part One: Friday: Planning Work.
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Planning Work.
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 3
 
-* Friday: Project Reflection.
-* Sunday: Project Due.
+* Friday, Project Reflection.
+* Sunday, Project Due.
 
 xxx
 
 ## Writing Workshop 4 - Project 2, IRG
-* Part One: Friday: Planning Work. Respond to the prompts for planning your IRG.
+* Part One, Friday: Planning Work. Respond to the prompts for planning your IRG.
 
 The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goals of your responses are to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
 
@@ -31,15 +31,15 @@ Prompts for Planning:
 6. What might your audience already know or have experience in that you can build on?
 7. At this point, what questions do you have about the project?
 
-* Part Two: Sunday: Peer Feedback. Provide peer feedback on prompt responses.
+* Part Two, Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
 XXX
 
 
 ## Writing Workshop 5
-* Part One: Friday: Draft Submission. Complete a draft of your IRG.
+* Part One, Friday: Draft Submission. Complete a draft of your IRG.
 
-* Part Two: Sunday: Peer Feedback. Provide peer feedback on drafts.
+* Part Two, Sunday: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -78,47 +78,47 @@ Prompts for Peer Feedback
 
 ## Writing Workshop 6
 
-* Friday: Project Reflection. Respond to the prompts for reflecting on your IRG.
-* Sunday: Project Due.
+* Friday, Project Reflection. Respond to the prompts for reflecting on your IRG.
+* Sunday, Project Due.
 
 Prompts for Reflection
 
 ## Writing Workshop 7 - Project 3, Job App
-* Part One: Friday: Planning Work.
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Planning Work.
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 8
-* Part One: Friday: Draft Submission. 
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Draft Submission. 
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 9
-* Friday: Project Reflection.
-* Sunday: Project Due.
+* Friday, Project Reflection.
+* Sunday, Project Due.
 
 ## Writing Workshop 10 - Project 4, Tech Description
-* Part One: Friday: Planning Work.
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Planning Work.
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 11
-* Part One: Friday: Draft Submission. 
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Draft Submission. 
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 12
 
-* Friday: Project Reflection.
-* Sunday: Project Due.
+* Friday, Project Reflection.
+* Sunday, Project Due.
 
 ## Writing Workshop 13 - Project 5, Instruction Set
-* Part One: Friday: Planning Work.
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Planning Work.
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 14
-* Part One: Friday: Draft Submission. 
-* Part Two: Sunday: Peer Feedback.
+* Part One, Friday: Draft Submission. 
+* Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 15
 
-* Friday: Project Reflection.
-* Sunday: Project Due.
+* Friday, Project Reflection.
+* Sunday, Project Due.
 
 
