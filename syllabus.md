@@ -8,9 +8,9 @@ Phone: 814.863.5556
 
 ENGL 202C, Technical Communication, serves students who are studying and preparing for careers in the sciences and applied sciences, including engineering. This advanced course in writing familiarizes students with the discourse practices prized in their disciplinary and institutional communities and helps them to manage those practices effectively in their own written work. In this way the course teaches those writing strategies and tactics that scientists, engineers, and others will need in order to write successfully on the job.
 
-So how will this work? Though you will never meet with your instructor and classmates in a physical classroom, this is still a course and not an independent study. This class is paced, which means that there is an established start and end date, and that you will have weekly deadlines to meet throughout the term. In each week of the course, you will be asked to accomplish two primary activities: 1) participate in a class discussion about a core aspect of technical communication and 2) complete an assigned writing activity, which you will also discuss with your peers. The class discussion will take place in the early part of the week, and the writing activity will take place in the latter part. This routine will be repeated each week throughout the semester.
+So how will this work? Though you will never meet with your instructor and classmates in a physical classroom, this is still a course and not an independent study. This class is paced, which means that there is an established start and end date, and that you will have weekly deadlines to meet throughout the term. In each week of the course, you will be asked to participate in two primary activities: 1) a class discussion about a core aspect of technical communication and 2) a writing workshop. The class discussion will take place in the early part of the week, and the writing workshop will take place in the latter part. This routine will be repeated each week throughout the semester.
 
-Like taking a course on campus, it will be important to keep up with the course work, as you will be required to participate in class discussions and activities that have specific time frames and deadlines associated with them. For a more detailed look at what each lesson will entail, as well as due dates for our assignments and activities, refer to the [Weekly Activities][5] page.
+Like taking a course on campus, it will be important to keep up with the course work, as you will be required to participate in class discussions and workshops that have specific time frames and deadlines associated with them. For a more detailed look at what each lesson will entail, as well as due dates for our assignments and activities, refer to the [Weekly Activities][5] page.
 
 ## Course Objectives
 
@@ -42,7 +42,7 @@ Note: For this class, we will be using the e-book version of _Technical Communic
 
 ## Course Requirements and Grading
 
-You will complete five projects for this course, participate in weekly class discussions, and complete weekly writing activities.
+You will complete five projects for this course, participate in weekly class discussions, and complete weekly writing workshops.
 
 |  Assignment         | Grade Value |
 |---                  |---          |
@@ -52,23 +52,23 @@ You will complete five projects for this course, participate in weekly class dis
 | Project 4           | 15% 		      |
 | Project 5           | 15%         |
 | Class Discussions   | 15%         |
-| Writing Activities  | 15%         |
+| Writing Workshops   | 15%         |
 
-## Class Discussions and Writing Activities 
+## Class Discussions and Writing Workshops 
 
-In each week of the class, you will participate in one class discussion and one writing activity. These discussions and activities are where you will interact with your classmates and where you will work together to learn and grow as technical communicators. 
+In each week of the class, you will participate in one class discussion and one writing workshop. These discussions and workshops are where you will interact with your classmates and where you will work together to learn and grow as technical communicators. 
 
-Each discussion and writing activity is asynchronous, which means you'll never have to be available at a specific time or place to participate. Instead, you'll be given deadlines by which you'll be expected to complete various parts of each discussion or activity.
+Each discussion and workshop is asynchronous, which means you'll never have to be available at a specific time or place to participate. Instead, you'll be given deadlines by which you'll be expected to complete various parts of each discussion or workshop.
 
-There will be 15 class discussion forums, each worth 1% or one point, for a total of 15% of your final grade. Similarly, there will be 15 writing activity forums, each worth 1% or one point, for a total of 15% of your final grade. Together, these class discussions and writing activities make up nearly a third of your final grade, which reflects just how important interacting with your classmates is to this course. 
+There will be 15 class discussion forums, each worth 1% or one point, for a total of 15% of your final grade. Similarly, there will be 15 writing workshop forums, each worth 1% or one point, for a total of 15% of your final grade. Together, these class discussions and writing workshops make up nearly a third of your final grade, which reflects just how important interacting with your classmates is to this course. 
 
-Both class discussions and writing activities will be graded on a three point scale aimed at rewarding your work in each forum:
+Both class discussions and writing workshops will be graded on a three point scale aimed at rewarding your work in each forum:
 
 * 1 point for students with **excellent** work. 
 * 0.75 of a point for students with **satisfactory** work.
 * 0 points for students with **unsatisfactory** work or incomplete work. 
 
-NOTE: Only completing part of a class discussion or writing activity is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
+NOTE: Only completing part of a class discussion or writing workshop is considered unsatisfactory. **You will not receive points for a forum unless you complete all of its work.** 
 
 
 ## Projects
@@ -108,7 +108,7 @@ The grades of A, B, C, D, and F indicate qualities of academic performance. When
 
 ## Late Policy
 
-Unless otherwise specified, the work you do in this class must be submitted by 11:59pm, your local time, on the day that it is due. I expect projects to be completed on time, as evidenced by the date stamp given to them by the ANGEL dropboxes. Projects will be docked one full letter grade for each day after the due date that they are late; class discussions and weekly writing activities cannot be made up if missed. I use this system even in the event of excusable situations, such as minor sicknesses or other unforeseen conflicts. However, any exceptions to this policy are made at my discretion. If you have conflicts, or something unexpected arises, do not hesitate to contact me, and we'll arrive at a solution together.
+Unless otherwise specified, the work you do in this class must be submitted by 11:59pm, your local time, on the day that it is due. I expect projects to be completed on time, as evidenced by the date stamp given to them by the ANGEL dropboxes. Projects will be docked one full letter grade for each day after the due date that they are late; class discussions and weekly writing workshops cannot be made up if missed. I use this system even in the event of excusable situations, such as minor sicknesses or other unforeseen conflicts. However, any exceptions to this policy are made at my discretion. If you have conflicts, or something unexpected arises, do not hesitate to contact me, and we'll arrive at a solution together.
 
 You must hand in all major projects to pass the course. Incompletes, known at Penn State as Deferred Grades, will not be given except under extenuating circumstances; such circumstances should be discussed with me prior to the assignment of final grades. Deferred Grades will only be given to students who have completed a majority of the course work.
 
