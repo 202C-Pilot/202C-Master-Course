@@ -29,7 +29,7 @@ Prompts for Planning:
 5. How might your understanding of audience affect how you write the Guide?
 6. What strategies might you use to motivate or appeal to your audience?
 7. What might your audience already know or have experience in that you can build on?
-8. At this point, what questions do you have about the project?
+8.At this point, what questions do you have about the project?
 
 * Part Two, Sunday: Peer Feedback. Provide peer feedback on prompt responses.
 
