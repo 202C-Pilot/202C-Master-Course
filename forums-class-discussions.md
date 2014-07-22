@@ -1,61 +1,71 @@
-## Class Discussion Forum for Week 1
+## Class Discussion 1
 
-CD1: Introductions
+Since we'll be working together as a community of writers this semester, it behooves us to begin by getting to know each other. For this class discussion, tell us a little about yourself, like
 
-## Class Discussion Forum for Week 2
+* Where are you from?
+* What are your career interests?
+* What are your hobbies?
+* What do you hope to gain from this class?
 
-CD2: Defining Tech Comm
+Then, once you've introduced yourself to the class, connect with your classmates by responding to their introductions. Feel free to talk about shared interests, experiences, and/or concerns. Remember, we're all in this together.
 
-## Class Discussion Forum for Week 3
+## Class Discussion 2
 
-CD3:
+* Defining Tech Comm
 
-## Class Discussion Forum for Week 4
+## Class Discussion 3
 
-CD4: Discussion of sample IRGs.
+* Analyzing Your Audience and Purpose
 
+## Class Discussion 4
 
+* Discussion of sample IRGs.
+* Researching Your Subject
 
-## Class Discussion Forum for Week 5
+## Class Discussion 5
 
-CD5: 
+* Understanding the Writing Process
 
-## Class Discussion Forum for Week 6
+## Class Discussion 6
 
-Insert discussion prompt here.
+* Understanding Ethical and Legal Considerations
 
-## Class Discussion Forum for Week 7
+## Class Discussion 7
 
-CD7: Discussion of letters and sample letters.
+* Discussion of letters and sample letters.
+* Preparing Job Application Materials.
 
-## Class Discussion Forum for Week 8
+## Class Discussion 8
 
-CD7: Discussion of resumes and sample resumes.
+* Discussion of resumes and sample resumes.
+* Communicating Persuasively
 
-## Class Discussion Forum for Week 9
+## Class Discussion 9
 
-Insert discussion prompt here.
+* Organizing Your Information
 
-## Class Discussion Forum for Week 10
+## Class Discussion 10
 
-CD10: Discussion of sample tech descriptions.
+* Discussion of sample tech descriptions.
+* Writing Technical Definitions and Descriptions
 
-## Class Discussion Forum for Week 11
+## Class Discussion 11
 
-Insert discussion prompt here.
+* Writing Coherent Documents
 
-## Class Discussion Forum for Week 12
+## Class Discussion 12
 
-Insert discussion prompt here.
+* Designing Documents
 
-## Class Discussion Forum for Week 13
+## Class Discussion 13
 
-CD13: Discussion of sample instruction sets
+* Discussion of sample instruction sets
+* Writing Instructions
 
-## Class Discussion Forum for Week 14
+## Class Discussion 14
 
-Insert discussion prompt here.
+* Creating Graphics
 
-## Class Discussion Forum for Week 15
+## Class Discussion 15
 
-Insert discussion prompt here.
+* Writing Effective Sentences
