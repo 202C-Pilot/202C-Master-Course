@@ -15,8 +15,8 @@
 
 xxx
 
-## Writing Workshop 4 - Project 2, IRG
-* Part One, Friday: Planning Work. Respond to the prompts for planning your IRG.
+## Writing Workshop 4 - Project 2, Internet Resource Guide
+* Part One, Friday: Planning Work. Respond to the prompts for planning your Internet Resource Guide.
 
 The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more is better. So don't hold back.
 
@@ -82,7 +82,7 @@ Prompts for Peer Feedback
 
 ## Writing Workshop 6
 
-* Friday, Project Reflection. Respond to the prompts for reflecting on your IRG.
+* Friday, Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
 * Sunday, Project Due.
 
 Prompts for Reflection
