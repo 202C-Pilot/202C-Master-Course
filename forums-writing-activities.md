@@ -42,9 +42,9 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you provide?
 
 ## Writing Workshop 5
-* Part One, Friday: Draft Submission. Complete a draft of your IRG.
+Part One, Friday: Draft Submission. Complete a draft of your IRG.
 
-* Part Two, Sunday: Peer Feedback. Provide peer feedback on drafts.
+Part Two, Sunday: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -79,7 +79,7 @@ Prompts for Peer Feedback, Overall Guide
 
 ## Writing Workshop 6
 
-* Friday, Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
+Friday, Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
 
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you are doing.
 
@@ -91,7 +91,7 @@ Prompts for Reflection
 4. What areas of the project could be improved? Why?
 5. If you had a chance to start the project over, what would you do differently?
 
-* Sunday, Project Due.
+Sunday, Project Due.
 
 ## Writing Workshop 7 - Project 3, Job App
 * Part One, Friday: Planning Work.
