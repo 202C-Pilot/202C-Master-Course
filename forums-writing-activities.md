@@ -141,8 +141,6 @@ An important step in drafting is peer feedback. The following prompts are for re
 5. Judge the overall coherence of the description. In both large and small ways, is the description written in a coherent fashion? Does it use an appropriate organizational pattern? Suggest concrete revisions to improve coherence at all levels.
 6. Descriptions are not instruction sets. Are there places in the description where the writer shifts into an instructional mode, giving step-by-step instructions for use rather than description of how a process or product works? If such places exist, suggest revisions that turn the instructional text into descriptive text.
 
-
-
 ## Writing Workshop 12
 
 Due Friday, Project Reflection. Respond to the prompts for reflecting on your Technical Description.
