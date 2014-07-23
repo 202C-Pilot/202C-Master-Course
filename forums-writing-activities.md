@@ -130,6 +130,8 @@ Although document plans can be tentative and contingent, it's useful to workshop
 
 Part One, Due Friday: Draft Submission. Complete a draft of your Technical Description.
 
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+
 An important step in drafting is peer feedback. The following prompts are for review of your Technical Description. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
 1. Look at the title of the description. It should be sufficiently precise and informative. How does it achieve this goal? Rewrite the title if it does not achieve this goal. 
