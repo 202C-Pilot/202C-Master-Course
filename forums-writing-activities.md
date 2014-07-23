@@ -64,7 +64,7 @@ Prompts for Peer Feedback, Abstracts
 
 1. Evaluate the completeness of the abstracts. Are the draft abstracts complete? Do they include all identifying information (title, URL etc.)? Do they include this identifying information in a consistent way?
 2. Describe the clarity of the content. Do the draft abstracts describe the resources so that readers will understand both their general function and their specific scope? (For example, your abstract on the index should tell both the purpose of the index and the range and dates of the periodicals covered.)
-3. Return to the issue of completeness. Do the draft abstracts answer all four of the following questions sufficiently: What is this? What is in it (contents, scope)? How is that information relevant and useful for someone in my field? What are tips for using the resource efficiently? Explain any weaknesses and discuss how your peer can improve the abstracts.
+3. Return to the issue of completeness. Do the draft abstracts answer all four of the following questions sufficiently: What is this? What is in it (contents, scope)? How is that information relevant and useful for someone in my field? What are tips for using the resource efficiently?
 4. Consider the level of detail in the abstracts. Do the abstracts include a sufficient amount of detail? Can the writer expand the abstracts in any way? (Remember that detailed statements are better than general ones.)
 
 Prompts for Peer Feedback, Overall Guide
