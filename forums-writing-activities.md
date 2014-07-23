@@ -112,7 +112,7 @@ The first step in drafting your Technical Description is planning. The following
 Prompts for Planning:
 
 1. Brainstorm five processes or products with which you are familiar. Write a sentence definition for each one. Select the most promising topic.
-2. Familiarize yourself with the process or product by reading about and/or working with it. Your goal should be to become expert enough to be able to write about the process or product. Write down anything you think might be challenging about describing this process or product. 
+2. Familiarize yourself with the process or product by reading about and/or working with it. Your goal should be to become expert enough to be able to write about the process or product. What might be challenging about describing this process or product?
 3. Think about the context within which the audience might use the product or process. How might you tailor your description to fit their needs?
 4. Which organizational pattern makes sense for your description? Outline the process or product description at a high level.
 5. Where might visuals add clarity to your discussion?
