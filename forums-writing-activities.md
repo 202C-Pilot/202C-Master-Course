@@ -160,7 +160,18 @@ An important step in drafting is peer feedback. The following prompts are for re
 
 ## Writing Workshop 15
 
-* Friday, Project Reflection.
-* Sunday, Project Due.
+Due Friday, Project Reflection. Respond to the prompts for reflecting on your Instruction Set.
+
+An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
+
+Prompts for Reflection
+
+1. How did the project go?
+2. What did you learn from doing the project?
+3. What areas of the project are you pleased with? Why?
+4. What areas of the project could be improved? Why?
+5. If you had a chance to start the project over, what would you do differently?
+
+Sunday, Project Due.
 
 
