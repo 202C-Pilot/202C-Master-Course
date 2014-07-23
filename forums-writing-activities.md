@@ -119,8 +119,22 @@ Sunday, Project Due.
 * Sunday, Project Due.
 
 ## Writing Workshop 13 - Project 5, Instruction Set
-* Part One, Friday: Planning Work.
-* Part Two, Sunday: Peer Feedback.
+Part One, Due Friday: Planning Work. Respond to the prompts for planning your Instruction Set.
+
+The first step in drafting your Instruction Set is planning. The following prompts ask you to write about your Instruction Set, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
+
+Prompts for Planning:
+
+1. What is the topic for your instructions? That is, what tasks will it cover?
+2. Who is the audience for this set of instructions? In what context will they be using your instructions?
+3. How much experience do they have with the technology, tools and materials needed for your instructions? What will you need to explain to them? 
+4. If your instructions divide into tasks, list the tasks for which you will provide directions; if your instructions divide into phases, list the phases.
+5. List the equipment and supplies needed to perform these instructions.
+6. Describe the warning, caution, and danger notices you think these instructions will require, if any. 
+7. Describe the illustrations (drawings, diagrams, schematics, photos) you think you'll need in these instructions.
+8. Explain the supplementary information you'll need to include with these instructions (specifically, description, definition, or both).
+
+Part Two, Sunday: Peer Feedback.
 
 ## Writing Workshop 14
 * Part One, Friday: Draft Submission. 
