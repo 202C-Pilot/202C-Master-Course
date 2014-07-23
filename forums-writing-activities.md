@@ -156,7 +156,7 @@ An important step in drafting is peer feedback. The following prompts are for re
 4. What design techniques are used to help the audience find what they need? How does the author employ design principles? Evaluate the use of white space, columns, page grids, and other techniques to achieve an effective communication. 
 5. How about the typography? Evaluate the effectiveness of typographical choices for the instruction set. Be sure to pay attention to all textual elements, including headings. 
 6.	Identify the visual elements (diagrams, charts, tables, etc.). For what purposes are they used? Does the author need to revise their visuals or add additional visuals? 
-7.	Are the instructions themselves worded clearly? That is, do they consistently use the imperative mood and parallelism? Are bullets and numbering used correctly? Suggest revisions of instructions that were unclear to you or that do not follow standard format. 
+7.	Are the instructions themselves worded clearly? That is, do they consistently use the imperative mood and parallelism? Are bullets and numbering used correctly? Suggest revisions of instructions that were unclear to you or that do not follow the standard format. 
 
 ## Writing Workshop 15
 
