@@ -144,8 +144,19 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 14
-* Part One, Friday: Draft Submission. 
-* Part Two, Sunday: Peer Feedback.
+Part One, Due Friday: Draft Submission. Complete a draft of your Instruction Set.
+
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+
+An important step in drafting is peer feedback. The following prompts are for review of your Instruction Set. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+
+1. Review the introduction for the instruction set. It should describe the procedure, provide background information, and preview the contents and organization. How effective is the introduction? Is there anything missing that the audience would need before they start? What revisions could the author make to make the introduction more useful?
+2. Locate key terms in the instruction set. List them below and evaluate whether or not the author has explained them. What terms might readers have trouble with?
+3. How are the instructions organized? What is the overall organizational pattern? What organizational patterns are used within sections? How should the writer revise or reconsider the document’s organization?
+4. What design techniques are used to help the audience find what they need? How does the author employ design principles? Evaluate the use of white space, columns, page grids, and other techniques to achieve an effective communication. 
+5. How about the typography? Evaluate the effectiveness of typographical choices for the instruction set. Be sure to pay attention to all textual elements, including headings. 
+6.	Identify the visual elements (diagrams, charts, tables, etc.). For what purposes are they used? Does the author need to revise their visuals or add additional visuals? 
+7.	Are the instructions themselves worded clearly? That is, do they consistently use the imperative mood and parallelism? Are bullets and numbering used correctly? Suggest revisions of instructions that were unclear to you or that do not follow standard format. 
 
 ## Writing Workshop 15
 
