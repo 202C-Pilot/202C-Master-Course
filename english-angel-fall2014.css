@@ -222,7 +222,7 @@ strong {
 	}
 	
 h2 {
-	font-size: 1.025em;
+	font-size: 1.075em;
 	margin-top: 25px;
 	margin-bottom: 0;
 	color: #000;
@@ -235,9 +235,10 @@ h3 {
 	}
 	
 p {
-	font-size: 1.025em;
+	font-size: 1.075em;
 	margin-top: 0;
 	margin-bottom: 15px;
+	line-height: 1.6em;
 	}
 	
 ul, ol {
@@ -253,7 +254,7 @@ a, body.toc .nugBody a {
 	
 body {
 background: #fff;
-color: #404040;
+color: #383838;
 font-family: open_sansregular, Verdana, Arial !important;
 font-size: 1em;
 font-weight: 400;
@@ -661,7 +662,7 @@ ul.menu li {
 
 .folder_descr {
     font-size: 1.167em;
-    line-height: 1.55em;
+    line-height: 1.6em;
 }
 
 .normalDiv {
