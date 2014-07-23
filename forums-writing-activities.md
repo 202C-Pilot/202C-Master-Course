@@ -105,13 +105,40 @@ Sunday, Project Due.
 * Friday, Project Reflection.
 * Sunday, Project Due.
 
-## Writing Workshop 10 - Project 4, Tech Description
-* Part One, Friday: Planning Work.
-* Part Two, Sunday: Peer Feedback.
+## Writing Workshop 10 - Project 4, Technical Description
+Part One, Due Friday: Planning Work. Respond to the prompts for planning your Instruction Set.
+
+The first step in drafting your Technical Description is planning. The following prompts ask you to write about your Technical Description, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
+
+Prompts for Planning:
+1. Brainstorm five processes or products with which you are familiar. Write a sentence definition for each one. Select the most promising topic.
+2. Familiarize yourself with the process or product by reading about and/or working with it. Your goal should be to become expert enough to be able to write about the process or product. Write down anything you think might be challenging about describing this process or product. 
+3. Think about the context within which the audience might use the product or process. How might you tailor your description to fit their needs?
+4. Which organizational pattern makes sense for your description? Outline the process or product description at a high level.
+5. Where might visuals add clarity to your discussion? 
+
 
 ## Writing Workshop 11
-* Part One, Friday: Draft Submission. 
-* Part Two, Sunday: Peer Feedback.
+
+Part One, Due Friday: Draft Submission. Complete a draft of your Technical Description.
+
+An important step in drafting is peer feedback. The following prompts are for review of your Technical Description. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+
+1. Look at the title of the description. It should be sufficiently precise and informative. How does it achieve this goal? Rewrite the title if it does not achieve this goal. 
+2. Look at the headings in the description. They should avoid long noun strings, be informative, and guide the reader. Describe how the headings fulfill or fail to fulfill these criteria. Are there places in the document where headings might be added?
+3. Are there places in the document where the writer should employ lists? Where and why?
+4. Look at paragraph coherence. Paragraphs should begin with a clear topic sentence, have adequate support, and use coherence devices (such as transitional words and phrases and repetition of key words). From a reader’s perspective, do you consider the paragraphs to be coherent? Suggest ways to revise paragraphs that are confusing or hard to follow. 
+5. Judge the overall coherence of the description. In both large and small ways, is the description written in a coherent fashion? Does it use an appropriate organizational pattern? Suggest concrete revisions to improve coherence at all levels.
+6. Descriptions are not instruction sets. Are there places in the description where the writer shifts into an instructional mode, giving step-by-step instructions for use rather than description of how a process or product works? If such places exist, suggest revisions that turn the instructional text into descriptive text.
+
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
+
+Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
+
+1. How would you describe the project and its context for your peer?
+2. What are the strengths of the planning work? What did your peer do well?
+3. What are the weaknesses of the planning work? What needs to be improved?
+4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 12
 
