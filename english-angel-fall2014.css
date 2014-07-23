@@ -179,11 +179,12 @@ psu r: 4879 end
 
 @font-face {
     font-family: open_sansregular;
-    src: local('open_sansregular'), local('Open Sans'), local('OpenSans'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.eot');
+    src: url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.eot');
     src: local('open_sansregular'), local('Open Sans'), local('OpenSans'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-    url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.svg') format('svg'),
-         url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.woff') format('woff'),
-         url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.ttf') format('truetype');
+          url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.woff') format('woff'),
+         url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Regular-webfont.svg') format('svg');
+   
     font-weight: normal;
     font-style: normal;
 }
@@ -192,22 +193,20 @@ psu r: 4879 end
   font-family: open_sansregular;
   font-style: normal;
   font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.eot');
+  src: url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.eot');
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-	url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.svg') format('svg'),
      	url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.woff') format('woff'),
-        url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.ttf') format('truetype');
+        url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.ttf') format('truetype'),       url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Bold-webfont.svg') format('svg');
 }
 
 @font-face {
   font-family: open_sansregular;
   font-style: italic;
   font-weight: 400;
-  src: local('Open Sans Italic'), local('OpenSans-Italic'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.eot');
+  src: url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.eot');
   src: local('Open Sans Italic'), local('OpenSans-Italic'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-	url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.svg') format('svg'),
      	url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.woff') format('woff'),
-        url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.ttf') format('truetype');
+        url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.ttf') format('truetype'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.svg') format('svg');
 }
 
 
