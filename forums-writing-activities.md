@@ -81,7 +81,7 @@ Prompts for Peer Feedback, Overall Guide
 
 Due Friday, Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
 
-An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you are doing.
+An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
 
 Prompts for Reflection
 
