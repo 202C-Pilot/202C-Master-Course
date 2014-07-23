@@ -111,6 +111,7 @@ Part One, Due Friday: Planning Work. Respond to the prompts for planning your In
 The first step in drafting your Technical Description is planning. The following prompts ask you to write about your Technical Description, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
 Prompts for Planning:
+
 1. Brainstorm five processes or products with which you are familiar. Write a sentence definition for each one. Select the most promising topic.
 2. Familiarize yourself with the process or product by reading about and/or working with it. Your goal should be to become expert enough to be able to write about the process or product. Write down anything you think might be challenging about describing this process or product. 
 3. Think about the context within which the audience might use the product or process. How might you tailor your description to fit their needs?
