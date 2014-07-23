@@ -125,7 +125,7 @@ The first step in drafting your Instruction Set is planning. The following promp
 
 Prompts for Planning:
 
-1. What is the topic for your instructions? What tasks will it cover?
+1. What is the topic for your instruction set? What tasks will it cover?
 2. Who is the audience? In what context will they be using your instructions?
 3. How much experience do they have with the technology, tools, and materials needed for your instructions? What will you need to explain to them? 
 4. If your instructions divide into tasks, what are the tasks for which you will provide directions? If your instructions divide into phases, what are the phases?
