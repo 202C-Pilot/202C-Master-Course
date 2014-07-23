@@ -39,7 +39,7 @@ Although document plans can be tentative and contingent, it's useful to workshop
 1. How would you describe the project and its context for your peer?
 2. What are the strengths of the planning work? What did your peer do well?
 3. What are the weaknesses of the planning work? What needs to be improved?
-4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you provide?
+4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 5
 Part One, Due Friday: Draft Submission. Complete a draft of your Internet Resource Guide.
