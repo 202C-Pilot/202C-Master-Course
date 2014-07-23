@@ -106,8 +106,7 @@ Sunday, Project Due.
 * Sunday, Project Due.
 
 ## Writing Workshop 10 - Project 4, Technical Description
-Part One, Due Friday: Planning Work. Respond to the prompts for planning your Instruction Set.
-
+Part One, Due Friday: Planning Work. Respond to the prompts for planning your Technical Description.
 The first step in drafting your Technical Description is planning. The following prompts ask you to write about your Technical Description, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
 Prompts for Planning:
