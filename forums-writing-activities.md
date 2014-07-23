@@ -93,7 +93,7 @@ Prompts for Reflection
 
 Sunday, Project Due.
 
-## Writing Workshop 7 - Project 3, Job App
+## Writing Workshop 7 - Project 3, Job Application Package
 * Part One, Friday: Planning Work.
 * Part Two, Sunday: Peer Feedback.
 
