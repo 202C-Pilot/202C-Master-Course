@@ -32,7 +32,7 @@ Prompts for Planning:
 7. What might your audience already know or have experience in that you can build on?
 8. At this point, what questions do you have about the project?
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on prompt responses.
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
