@@ -115,8 +115,16 @@ Prompts for Planning:
 2. Familiarize yourself with the process or product by reading about and/or working with it. Your goal should be to become expert enough to be able to write about the process or product. Write down anything you think might be challenging about describing this process or product. 
 3. Think about the context within which the audience might use the product or process. How might you tailor your description to fit their needs?
 4. Which organizational pattern makes sense for your description? Outline the process or product description at a high level.
-5. Where might visuals add clarity to your discussion? 
+5. Where might visuals add clarity to your discussion?
 
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
+
+Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
+
+1. How would you describe the project and its context for your peer?
+2. What are the strengths of the planning work? What did your peer do well?
+3. What are the weaknesses of the planning work? What needs to be improved?
+4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 11
 
@@ -131,14 +139,7 @@ An important step in drafting is peer feedback. The following prompts are for re
 5. Judge the overall coherence of the description. In both large and small ways, is the description written in a coherent fashion? Does it use an appropriate organizational pattern? Suggest concrete revisions to improve coherence at all levels.
 6. Descriptions are not instruction sets. Are there places in the description where the writer shifts into an instructional mode, giving step-by-step instructions for use rather than description of how a process or product works? If such places exist, suggest revisions that turn the instructional text into descriptive text.
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
 
-Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
-
-1. How would you describe the project and its context for your peer?
-2. What are the strengths of the planning work? What did your peer do well?
-3. What are the weaknesses of the planning work? What needs to be improved?
-4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 12
 
