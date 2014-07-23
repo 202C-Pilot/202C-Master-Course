@@ -125,16 +125,23 @@ The first step in drafting your Instruction Set is planning. The following promp
 
 Prompts for Planning:
 
-1. What is the topic for your instructions? That is, what tasks will it cover?
-2. Who is the audience for this set of instructions? In what context will they be using your instructions?
-3. How much experience do they have with the technology, tools and materials needed for your instructions? What will you need to explain to them? 
-4. If your instructions divide into tasks, list the tasks for which you will provide directions; if your instructions divide into phases, list the phases.
-5. List the equipment and supplies needed to perform these instructions.
-6. Describe the warning, caution, and danger notices you think these instructions will require, if any. 
-7. Describe the illustrations (drawings, diagrams, schematics, photos) you think you'll need in these instructions.
-8. Explain the supplementary information you'll need to include with these instructions (specifically, description, definition, or both).
+1. What is the topic for your instructions? What tasks will it cover?
+2. Who is the audience? In what context will they be using your instructions?
+3. How much experience do they have with the technology, tools, and materials needed for your instructions? What will you need to explain to them? 
+4. If your instructions divide into tasks, what are the tasks for which you will provide directions? If your instructions divide into phases, what are the phases?
+5. What equipment and/or supplies are needed to perform the instructions?
+6. What warning, caution, and danger notices might these instructions require? 
+7. What visuals (i.e., drawings, diagrams, schematics, photos) will be needed?
+8. What supplementary information might you need to include with these instructions? Descriptions? Definitions? Other types of information?
 
-Part Two, Sunday: Peer Feedback.
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
+
+Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
+
+1. How would you describe the project and its context for your peer?
+2. What are the strengths of the planning work? What did your peer do well?
+3. What are the weaknesses of the planning work? What needs to be improved?
+4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 14
 * Part One, Friday: Draft Submission. 
