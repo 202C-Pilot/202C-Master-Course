@@ -36,15 +36,14 @@ Prompts for Peer Feedback
 2. How does the organization highlight (rather than subordinate) the most important points of analysis? Or does it fail to do so?
 3. How does the writer transition between ideas? Do the transitions need work?
 4. How does your peer support their claims about the document?
-5. What specific examples do they use?
-6. What makes the examples sufficient and compelling? If they are not, which sections need more or better support?
-7. Does your peer analyze, and not just describe, the document?
-8. Where is this analysis sufficient and where might it need revision?
-9. What, if any, areas of the document are under-analyzed or merely described?
-10. Does the draft follow a memo format? 
-11. Does each paragraph contain a strong topic sentence?
-12. How does the document use headings and subheadings to organize ideas? Are these sufficient?
-13. Is the document free of stylistic and grammatical errors?
+5. What specific examples do they use? What makes the examples sufficient and compelling? If they are not, which sections need more or better support?
+6. Does your peer analyze, and not just describe, the document?
+7. Where is this analysis sufficient and where might it need revision?
+8. What, if any, areas of the document are under-analyzed or merely described?
+9. Does the draft follow a memo format? 
+10. Does each paragraph contain a strong topic sentence?
+11. How does the document use headings and subheadings to organize ideas? Are these sufficient?
+12. Is the document free of stylistic and grammatical errors?
 
 ## Writing Workshop 3
 
