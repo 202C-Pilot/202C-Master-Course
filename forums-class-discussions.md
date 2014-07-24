@@ -26,40 +26,61 @@ Prompts for Discussion
 
 ## Class Discussion 3. Reading: Analyzing Your Audience and Purpose
 
+
+
 ## Class Discussion 4. Reading: Researching Your Subject
 
 * Discussion of sample IRGs.
 
 
+
 ## Class Discussion 5. Reading: Understanding the Writing Process
 
+
+
 ## Class Discussion 6. Reading: Understanding Ethical and Legal Considerations
+
+
 
 ## Class Discussion 7. Reading: Preparing Job Application Materials.
 
 * Discussion of letters and sample letters.
+
+
 
 ## Class Discussion 8. Reading: Communicating Persuasively
 
 * Discussion of resumes and sample resumes.
 
 
+
 ## Class Discussion 9. Reading: Organizing Your Information
+
+
 
 ## Class Discussion 10. Reading: Writing Technical Definitions and Descriptions
 
 * Discussion of sample tech descriptions.
 
 
+
 ## Class Discussion 11. Reading: Writing Coherent Documents
 
+
+
 ## Class Discussion 12: Reading Designing Documents
+
+
 
 ## Class Discussion 13: Reading: Writing Instructions
 
 * Discussion of sample instruction sets
 
 
+
 ## Class Discussion 14. Reading: Creating Graphics
 
+
+
 ## Class Discussion 15. Reading: Writing Effective Sentences
+
