@@ -15,7 +15,6 @@ At the end of this lesson you will be able to:
 ## By Tuesday Night
 
 * Read Chapter 1 of _Technical Communication._
-* Read the instructions for [Project 1.][3]
 * Go to [Class Discussion 2][1], read the discussion prompt, and submit an initial response.
 
 ## By Friday Night
@@ -33,4 +32,3 @@ At the end of this lesson you will be able to:
 
 [1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+2
 [2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+2
-[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+1+Assignment

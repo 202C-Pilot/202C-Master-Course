@@ -11,16 +11,18 @@ Then, once you've introduced yourself to the class, connect with your classmates
 
 ## Class Discussion 2
 
-Whether you realize it or not, you probably encounter technical writing nearly everyday in the world around you. This class discussion is designed to help you understand what technical writing is, how it differs from other forms of writing, and how to recognize it in your everyday life.
+Whether you realize it or not, you probably encounter technical writing nearly everyday in the world around you. That table of nutritional information on the side of your cereal box? That's technical writing!
 
-Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to you should also include any questions you have at this point, for your classmates or your instructor, at the end of your post.
+This class discussion is designed to help you understand what technical writing is, how it differs from other forms of writing, and how to recognize it in your everyday life.</p>
+
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
-* What is Technical Writing?  Why does it matter?
+* What is Technical Writing? Why does it matter?
 * How does technical writing differ from other kinds of writing, such as academic or creative writing?
-* What kinds of technical writing have you seen before?  What concepts and strategies seem to be important in these forms of technical communication?
-* What are some examples of technical writing you encounter in your everyday life besides the usual suspects (e.g. resumes, instructions, reports, etc.)? What makes them technical writing? 
+* What kinds of technical writing have you seen before? What concepts and strategies seem to be important in these forms of technical communication?
+* What are some examples of technical writing you encounter in your everyday life besides the usual suspects (e.g. resumes, instructions, reports, etc.)? What makes them technical writing?
 
 ## Class Discussion 3
 

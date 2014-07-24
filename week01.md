@@ -6,7 +6,7 @@ The activities for this week are designed to familiarize you with both the cours
 
 ---
 
-**REMINDER:** Unless otherwise specified, all deadlines in the class are 11:59pm, your local time, on the day listed.
+**REMINDER:** Unless otherwise specified, all deadlines in the class are 11:59pm Eastern Standard Time on the day listed.
 
 ---
 
@@ -14,6 +14,7 @@ The activities for this week are designed to familiarize you with both the cours
 
 * Read the syllabus.
 * Go to [Class Discussion 1][1], read the discussion prompt, and submit an initial response.
+* Read the instructions for [Project 1.][3]
 
 ## By Friday Night
 
@@ -31,3 +32,4 @@ The activities for this week are designed to familiarize you with both the cours
 
 [1]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Class+Discussion+01
 [2]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Writing+Workshop+01
+[3]: /section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+1+Assignment

@@ -106,9 +106,13 @@ The grades of A, B, C, D, and F indicate qualities of academic performance. When
 
 > F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major or excessive errors.
 
+## Deadlines
+
+Unless otherwise specified, the work you do in this class must be submitted by 11:59pm Eastern Standard Time on the day that it is due. To see what you need to do each week and when you must do it by, refer to the [Weekly Activities][5] page.
+
 ## Late Policy
 
-Unless otherwise specified, the work you do in this class must be submitted by 11:59pm, your local time, on the day that it is due. I expect projects to be completed on time, as evidenced by the date stamp given to them by the ANGEL dropboxes. Projects will be docked one full letter grade for each day after the due date that they are late; class discussions and weekly writing workshops cannot be made up if missed. I use this system even in the event of excusable situations, such as minor sicknesses or other unforeseen conflicts. However, any exceptions to this policy are made at my discretion. If you have conflicts, or something unexpected arises, do not hesitate to contact me, and we'll arrive at a solution together.
+I expect projects to be completed on time, as evidenced by the date stamp given to them by the ANGEL dropboxes. Projects will be docked one full letter grade for each day after the due date that they are late; class discussions and weekly writing workshops cannot be made up if missed. I use this system even in the event of excusable situations, such as minor sicknesses or other unforeseen conflicts. However, any exceptions to this policy are made at my discretion. If you have conflicts, or something unexpected arises, do not hesitate to contact me, and we'll arrive at a solution together.
 
 You must hand in all major projects to pass the course. Incompletes, known at Penn State as Deferred Grades, will not be given except under extenuating circumstances; such circumstances should be discussed with me prior to the assignment of final grades. Deferred Grades will only be given to students who have completed a majority of the course work.
 
