@@ -152,6 +152,7 @@ Prompts for Planning Package #1:
 4. Cover Letter. Describe how you will focus your cover letter for this job, company, and reader. Which aspects of your education and experience will you highlight? What information will be less important for that job? What kind of tone will you take in the letter? 
 
 Prompts for Planning Package #2
+
 1. Job description. Based on the description itself, what kinds of qualifications do you think you need for this job? What kinds of personal qualities? In other words, what kind of person are they looking for? Be specific and push beyond a superficial response (everyone is looking for a “hard worker,” but knowing that is of limited value to you).  
 2. Audience analysis. To find recent news and information about the company, look around the company’s website and then do a search on ProQuest (available from the Penn State libraries website). What clues can you infer about the corporate culture, the size of the company, and so on? From these clues, who do you think would be reading your job application? Human resources? Project managers? Executives? Are there any recent developments (new contracts, clients, expansions, etc.) that you could use to demonstrate your knowledge of the company? Can you identify company values that signal the type of employee they might be looking for?
 3. Resume. Describe how you will focus your resume for this job, company, and reader. Which aspects of your education and experience will you highlight? What information will be less important for that job? 
@@ -167,8 +168,28 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 8
-Complete a draft of your Technical Description.
-* Part Two, Sunday: Peer Feedback.
+Part One, Due Tuesday: Complete a draft of your Job Application Packaage.
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+
+An important step in drafting is peer feedback. The following prompts are for review of the Cover Memo, review of the Resumes, and review of the Cover Letters. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+
+Prompts for Peer Feedback, Cover Memo
+
+Prompts for Peer Feedback, Resumes
+
+Prompts for Peer Feedback, Cover Letters
+
+1. Who is the letter addressed to? Is this an appropriate audience? Why?
+2. How do the contents of the letter address the reader’s concerns? In other words, does it show how the jobseeker can contribute to the company? Does it draw upon research about the company?
+3. What concrete evidence does the body of the letter provide to support its claims? 
+4. How does the introduction grab the reader’s attention and establish why the applicant is qualified for the job?
+5. How is the body of the letter organized?
+6. Does the first paragraph clearly forecast that organization? How does the letter end, and is this ending effective?
+7. Look at issues of style. How does the writer employ language? How does the writer use tone? How does the writer make a persuasive case for their job candidacy? How do they create an ethos that is confident, but not arrogant or pushy?
+8. Is the letter free from errors in grammar, spelling, typography, and punctuation?
+9. What overall impression do you have of this job candidate as a writer, based on the letter? 
+10. How is the letter formatted? Describe any deviations from conventional business letter format and make a judgment about whether these deviations are effective or not. 
+
 
 ## Writing Workshop 9
 * Friday, Project Reflection.
