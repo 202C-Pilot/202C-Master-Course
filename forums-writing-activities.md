@@ -33,7 +33,7 @@ An important step in drafting is peer feedback. The following prompts are for re
 Prompts for Peer Feedback
 
 1. How does your peer organize their analysis? Is it organized in a logical manner? 
-2. How does the organization highlight (rather than subordinate) the most important points of analysis? Or does it fail to do so? How?
+2. How does the organization highlight (rather than subordinate) the most important points of analysis? Or does it fail to do so?
 3. How does the writer transition between ideas? Do the transitions need work?
 4. How does your peer support their claims about the document?
 5. What specific examples do they use?
