@@ -5,7 +5,7 @@
 
 ## Writing Workshop 2 - Project 1
 
-* Part One, Due Friday: Planning Work. Respond to the prompts for planning your Basic Rhetorical Analysis.
+Part One, Due Friday: Planning Work. Respond to the prompts for planning your Basic Rhetorical Analysis.
 
 The first step in drafting your Basic Rhetorical Analysis is planning. The following prompts ask you to write about your Analysis, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
@@ -18,7 +18,7 @@ Prompts for Planning:
 5.	In what situations or under what conditions would a person use the document?
 6.	What problems might a user of this document be trying to solve?
 
-* Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
