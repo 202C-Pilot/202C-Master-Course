@@ -648,7 +648,8 @@ body.cmTypeROOT ul.directory li.diritem {
     position: relative;
 }
 
-body.cmTypeROOT ul.directory li.diritem:first-child {
+body.cmTypeROOT ul.directory li.diritem:first-child,
+body.cmTypeROOT ul.directory li.diritem:last-child {
     display: none;
 }
 
