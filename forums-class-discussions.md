@@ -26,61 +26,88 @@ Prompts for Discussion
 
 ## Class Discussion 3. Reading: Analyzing Your Audience and Purpose
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 4. Reading: Researching Your Subject
 
 * Discussion of sample IRGs.
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 5. Reading: Understanding the Writing Process
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 6. Reading: Understanding Ethical and Legal Considerations
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 7. Reading: Preparing Job Application Materials.
 
 * Discussion of letters and sample letters.
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 8. Reading: Communicating Persuasively
 
 * Discussion of resumes and sample resumes.
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 9. Reading: Organizing Your Information
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 10. Reading: Writing Technical Definitions and Descriptions
 
 * Discussion of sample tech descriptions.
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 11. Reading: Writing Coherent Documents
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 12: Reading Designing Documents
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 13: Reading: Writing Instructions
 
 * Discussion of sample instruction sets
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 14. Reading: Creating Graphics
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
+Prompts for Discussion
 
 ## Class Discussion 15. Reading: Writing Effective Sentences
 
+Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
+
+Prompts for Discussion
