@@ -1,9 +1,4 @@
-## Writing Workshop 1
-
-* Part One: ?
-* Part Two: ?
-
-## Writing Workshop 2 - Project 1
+## Writing Workshop 1 - Project 1, Basic Rhetorical Analysis
 
 Part One, Due Friday: Planning Work. Respond to the prompts for planning your Basic Rhetorical Analysis.
 
@@ -20,12 +15,22 @@ Prompts for Planning:
 
 Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
 
-Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
+An important step in drafting is peer feedback. The following prompts are for review of your Technical Description. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
 1. How would you describe the project and its context for your peer?
 2. What are the strengths of the planning work? What did your peer do well?
 3. What are the weaknesses of the planning work? What needs to be improved?
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
+
+## Writing Workshop 2
+
+Part One, Due Friday: Draft Submission. Complete a draft of your Basic Rhetorical Analysis.
+
+Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+
+An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+
+Prompts for Peer Feedback
 
 ## Writing Workshop 3
 
