@@ -108,7 +108,16 @@ The grades of A, B, C, D, and F indicate qualities of academic performance. When
 
 ## Deadlines
 
-Unless otherwise specified, the work you do in this class must be submitted by 11:59pm Eastern Standard Time on the day that it is due. To see what you need to do each week and when you must do it by, refer to the [Weekly Activities][5] page.
+Unless otherwise specified, the work you do in this class must be submitted by 11:59pm Eastern Standard Time on the day that it is due. Class Discussions and Writing Workshops will be due weekly. Projects will be due every three weeks. For those who like to plan ahead, here's what that looks like:
+
+* Sunday, End of Week 3 - Project 1 Due.
+* Sunday, End of Week 6 - Project 2 Due.
+* Sunday, End of Week 9 - Project 3 Due.
+* Sunday, End of Week 12 - Project 4 Due.
+* Sunday, End of Week 15 - Project 5 Due.
+
+To see what you need to do each week and when you must do it by, refer to the [Weekly Activities][5] page.
+
 
 ## Late Policy
 
