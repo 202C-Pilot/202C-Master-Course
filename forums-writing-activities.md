@@ -15,7 +15,7 @@ Prompts for Planning:
 
 Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
 
-An important step in drafting is peer feedback. The following prompts are for review of your Basic Rhetorical Analysis. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
 1. How would you describe the project and its context for your peer?
 2. What are the strengths of the planning work? What did your peer do well?
@@ -28,9 +28,23 @@ Part One, Due Friday: Draft Submission. Complete a draft of your Basic Rhetorica
 
 Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
 
-An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+An important step in drafting is peer feedback. The following prompts are for review of the Basic Rhetorical Analysis. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
 Prompts for Peer Feedback
+
+1. How does your peer organize their analysis? Is it organized in a logical manner? 
+2. How does the organization highlight (rather than subordinate) the most important points of analysis? Or does it fail to do so? How?
+3. How does the writer transition between ideas? Do the transitions need work?
+4. How does your peer support their claims about the document?
+5. What specific examples do they use?
+6. What makes the examples sufficient and compelling? If they are not, which sections need more or better support?
+7. Does your peer analyze, and not just describe, the document?
+8. Where is this analysis sufficient and where might it need revision?
+9. What, if any, areas of the document are under-analyzed or merely described?
+10. Does the draft follow a memo format? 
+11. Does each paragraph contain a strong topic sentence?
+12. How does the document use headings and subheadings to organize ideas? Are these sufficient?
+13. Is the document free of stylistic and grammatical errors?
 
 ## Writing Workshop 3
 
