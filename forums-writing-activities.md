@@ -15,7 +15,7 @@ Prompts for Planning:
 
 Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the prompts.
 
-An important step in drafting is peer feedback. The following prompts are for review of your Technical Description. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
+An important step in drafting is peer feedback. The following prompts are for review of your Basic Rhetorical Analysis. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
 1. How would you describe the project and its context for your peer?
 2. What are the strengths of the planning work? What did your peer do well?
