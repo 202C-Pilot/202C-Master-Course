@@ -11,7 +11,7 @@ Then, once you've introduced yourself to the class, connect with your classmates
 
 ## Class Discussion 2. Reading: Defining Technical Communication
 
-Whether you realize it or not, you probably encounter technical writing nearly everyday in the world around you. That table of nutritional information on the side of your cereal box? That's technical writing!
+Whether you realize it or not, you probably encounter technical writing nearly everyday in the world around you. That table of nutritional information on the side of your cereal box? That's technical writing.
 
 This class discussion is designed to help you understand what technical writing is, how it differs from other forms of writing, and how to recognize it in your everyday life.</p>
 
@@ -26,17 +26,31 @@ Prompts for Discussion
 
 ## Class Discussion 3. Reading: Analyzing Your Audience and Purpose
 
+Before beginning to write, writers should analyze their audience and purpose. Who are you writing for? What do they need to know? Why should they care? And what are you hoping to achieve by writing for them? If you don't have answers to these kinds of questions, then how can you know how best to compose, design, and deliver your message? This class discussion asks you to focus on the importance of audience and purpose in the writing process.
+
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
+* What makes analyzing your audience and purpose so important to technical writers?
+* How might inattentiveness to audience and purpose affect different writing genres and situations? (e.g. resumes, instructions, reports, etc.) What might the consequences be?
+* How might analyzing your audience and purpose contribute to more successful communications?
+
+
 ## Class Discussion 4. Reading: Researching Your Subject
+
 
 * Discussion of sample IRGs.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What seem to be the strengths of each sample document? What makes them effective?
+* What seem to be the weaknesses of each sample document? What makes them ineffective?
+* Which of the samples do you think is the most effective? Why?
+* Which of the samples do you think is the least effective? Why?
+* What might you do in your own work to insure that your project is as effective as possible? What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 5. Reading: Understanding the Writing Process
 
@@ -58,6 +72,13 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
+* What makes a job letter effective? 
+* What seem to be the strengths of each sample job letter? What makes them effective?
+* What seem to be the weaknesses of each sample job letter? What makes them ineffective?
+* Which of the sample job letters do you think is the most effective? Why?
+* Which of the sample job letters do you think is the least effective? Why?
+* What might you do to insure that your job letter is as effective as possible? What ideas or strategies might you adopt from the sample job letters? What might you avoid?
+
 ## Class Discussion 8. Reading: Communicating Persuasively
 
 * Discussion of resumes and sample resumes.
@@ -65,6 +86,13 @@ Prompts for Discussion
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What makes a resume effective? 
+* What seem to be the strengths of each sample resume? What makes them effective?
+* What seem to be the weaknesses of each sample resume? What makes them ineffective?
+* Which of the sample resumes do you think is the most effective? Why?
+* Which of the sample resumes do you think is the least effective? Why?
+* What might you do to insure that your resume is as effective as possible? What ideas or strategies might you adopt from the sample resumes? What might you avoid?
 
 ## Class Discussion 9. Reading: Organizing Your Information
 
@@ -79,6 +107,12 @@ Prompts for Discussion
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What seem to be the strengths of each sample document? What makes them effective?
+* What seem to be the weaknesses of each sample document? What makes them ineffective?
+* Which of the samples do you think is the most effective? Why?
+* Which of the samples do you think is the least effective? Why?
+* What might you do in your own work to insure that your project is as effective as possible? What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 11. Reading: Writing Coherent Documents
 
@@ -99,6 +133,12 @@ Prompts for Discussion
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What seem to be the strengths of each sample document? What makes them effective?
+* What seem to be the weaknesses of each sample document? What makes them ineffective?
+* Which of the samples do you think is the most effective? Why?
+* Which of the samples do you think is the least effective? Why?
+* What might you do in your own work to insure that your project is as effective as possible? What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 14. Reading: Creating Graphics
 
