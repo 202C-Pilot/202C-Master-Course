@@ -175,7 +175,24 @@ An important step in drafting is peer feedback. The following prompts are for re
 
 Prompts for Peer Feedback, Cover Memo
 
+1. Who is the letter addressed to? Is this an appropriate audience? Why?
+2. How do the contents of the letter address the reader’s concerns? In other words, does it show how the jobseeker can contribute to the company? Does it draw upon research about the company?
+3. What concrete evidence does the body of the letter provide to support its claims? 
+4. How does the introduction grab the reader’s attention and establish why the applicant is qualified for the job?
+5. How is the body of the letter organized, and does the first paragraph clearly forecast that organization?
+6. How does the letter end, and is this ending effective?
+7. Look at issues of style. How does the writer employ language? How does the writer use tone? How does the writer make a persuasive case for their job candidacy? How do they create an ethos that is confident, but not arrogant or pushy? Is the letter free from errors in grammar, spelling, typography, and punctuation?
+8. What overall impression do you have of this job candidate as a writer, based on the letter? 
+9. How is the letter formatted? Describe any deviations from conventional business letter format and make a judgment about whether these deviations are effective or not. 
+
 Prompts for Peer Feedback, Resumes
+
+1. Does the resume’s content seem appropriate for the job ad? If yes, how so? If not, how might the author adjust the resume’s content to better fit the ad? 
+2. Does the resume include the language (keywords, terms, etc.) from the job ad? Identify both places where it echoes the ad and places where it should echo the ad. 
+3. How is the resume organized? You should be able to identify both logical and rhetorical organizing patterns. (Remember the difference? Logical patterns rely on basic organizations such as chronology; rhetorical pattern are more strategic, highlighting the most important elements of the resume.)  
+4. How are the design elements appropriate for the audience’s needs, attitudes, and purposes? Does the design accommodate multiple audiences if it needs to? 
+5. Look at issues of style. How does the writer employ language? For example, are the descriptions of job experience worded using action verbs? Are bulleted lists worded in parallel form? Is the resume free from errors in grammar, spelling, typography, and punctuation? Does the wording lend an appropriate ethos to the jobseeker?
+6. What overall impression do you have of this job candidate as a writer, based on the resume? Recall that your first communication with an employer will likely be through your writing. 
 
 Prompts for Peer Feedback, Cover Letters
 
