@@ -254,7 +254,7 @@ a, body.toc .nugBody a {
 	
 body {
 background: #fff;
-color: #383838;
+color: #353535;
 font-family: open_sansregular, Verdana, Arial !important;
 font-size: 1em;
 font-weight: 400;
@@ -489,7 +489,7 @@ table#pagelayout {
 	
 .submenu {
 font-size: 0.75em !important;
-padding-bottom: 35px;
+padding-bottom: 30px;
 }
 
 #nugSectionAnnouncements {
