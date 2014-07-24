@@ -489,7 +489,7 @@ table#pagelayout {
 	
 .submenu {
 font-size: 0.75em !important;
-padding-bottom: 30px;
+padding-bottom: 25px;
 }
 
 #nugSectionAnnouncements {
@@ -575,6 +575,7 @@ font-size: 2.5em;
 letter-spacing: -0.0275em;
 line-height: 1em;
 color: #000;
+margin-bottom: 15px;
 }
 
 #portalRefreshAll {
