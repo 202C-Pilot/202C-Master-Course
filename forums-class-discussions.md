@@ -1,6 +1,6 @@
 ## Class Discussion 1. No Reading.
 
-Since we'll be working together as a community of writers this semester, let's begin by getting to know each other. For this class discussion, tell us a little about yourself:
+Since we'll be working together as a community of writers this semester, let's begin by getting to know each other. For this class discussion, tell us about yourself:
 
 * Where are you from?
 * What are your career interests?
