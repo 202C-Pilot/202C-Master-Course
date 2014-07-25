@@ -136,28 +136,27 @@ Prompts for Discussion
 
 ## Class Discussion 11. Reading: Writing Coherent Documents
 
-Technical communicators take advantage of strategies of usability and organization to help make their documents as coherent and clear as possible. Even seemingly minor elements like headings, lists, and paragraphing can make a significant difference in a document's readability. This discussion focuses on the typographical elements you can employ to make your documents more effective and how best to do so.
+Technical communicators take advantage of strategies of usability and organization to help make their documents as coherent and clear as possible. Even seemingly minor elements such as headings, lists, and paragraphing can make a significant difference in a document's readability. This discussion focuses on the typographical elements you can employ to make your documents more effective and how best to do so.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
-* How do headings, lists, paragraphing and other elements contribute to the usability and coherence of a document?
+* How do headings, lists, paragraphing, and other elements contribute to the usability of a document?
 * What are the best ways to employ these elements?
 * How have you employed these elements in your own writing? What worked and what didn't? Why?
 * How might these elements help you achieve your purpose in your technical description?
-* What other typographical elements might you consider using in your technical documents?
+* What other typographical elements might you consider using in your technical communication?
 
 ## Class Discussion 12: Reading Designing Documents
 
-In technical communication, the visual design of a document is often as important as the content itself. After all, content that sits in a cluttered design may be content that doesn't get fully read or properly understood. For technical communicators, visual design can contribute to a document's usability, ethos, and persuasiveness. This discussion focuses, therefore, focuses on basic principles in document design and how best to employ them in your own work.
+In technical communication, the visual design of a document is often as important as the content itself. After all, content that sits in a cluttered design may be content that doesn't get fully read or properly understood. For technical communicators, visual design contributes to a document's usability, ethos, and persuasiveness. This discussion focuses on basic principles in document design and how best to employ them in your own work.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
-* What makes design so important to technical writing?
-* What do the design principles discussed in the reading mean in practice?
+* What makes design so important to technical communication?
 * What makes a document well designed? Poorly designed? How can you tell?
 * What design strategies might you employ in your technical description?
 * In what ways have you seen design principles put to effective use in the documents you encounter in your everyday life?
