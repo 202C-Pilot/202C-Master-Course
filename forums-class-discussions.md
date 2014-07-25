@@ -93,7 +93,7 @@ Prompts for Discussion
 
 ## Class Discussion 8. Reading: Communicating Persuasively
 
-All too often, people think of job letters has just a place where you list some of your credentials. But job letters are more than that. They are an opportunity for you to make a case for your candidacy for a position. In short, effective job letters are not simply informative; they're persuasive, too. After all, the purpose of your application materials is persuade prospective employers to grant you an interview. This discussion focuses focuses on what makes a job letter effective and how to write one of your own.
+All too often, people think of job letters as just a place where you list some of your credentials. But job letters are more than that. They are an opportunity for you to make a case for your candidacy for a position. In short, effective job letters are not simply informative; they're persuasive, too. After all, the purpose of your application materials is to persuade prospective employers to grant you an interview. This discussion focuses focuses on what makes a job letter effective and how to write one of your own.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
@@ -101,12 +101,10 @@ Prompts for Discussion
 
 * What makes a job letter effective? 
 * What does it mean to write persuasively in a job letter? How do you market your skills and accomplishments without being pushy or obnoxious?
-* What seem to be the strengths of each sample job letter? What makes them effective?
-* What seem to be the weaknesses of each sample job letter? What makes them ineffective?
-* Which of the sample job letters do you think is the most effective? Why?
-* Which of the sample job letters do you think is the least effective? Why?
-* What might you do to insure that your job letter is as effective as possible? What ideas or strategies might you adopt from the sample job letters? What might you avoid?
-
+* What are some effective aspects of the samples? Why?
+* What are some ineffective aspects of the samples? Why?
+* What might you do in your own work to ensure that your project is as effective as possible?
+* What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 9. Reading: Organizing Your Information
 
