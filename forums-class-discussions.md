@@ -114,10 +114,10 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
-* What choices did you make when writing your job application materials? How did you choose to organize your resumes? Your letters?
-* Why does organization matter in application materials? 
+* Why does organization matter in job application materials? 
+* What choices did you make when writing your materials? How did you organize your resumes? Your cover letters?
 * What strategies for organization might you employ to make your documents more effective? Why?
-* How will you need to organize your cover memo for the job application packet? What strategies might you employ?
+* How will you need to organize your cover memo for the job application packet? What strategies might you employ? Why?
 
 ## Class Discussion 10. Reading: Writing Technical Definitions and Descriptions
 
