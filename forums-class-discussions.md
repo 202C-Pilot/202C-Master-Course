@@ -1,11 +1,11 @@
 ## Class Discussion 1. No Reading.
 
-Since we'll be working together as a community of writers this semester, it behooves us to begin by getting to know each other. For this class discussion, tell us a little about yourself, like
+Since we'll be working together as a community of writers this semester, let's begin by getting to know each other. For this class discussion, tell us a little about yourself:
 
 * Where are you from?
 * What are your career interests?
-* What are your hobbies?
 * What do you hope to gain from this class?
+* What are your hobbies?
 
 Then, once you've introduced yourself to the class, connect with your classmates by responding to their introductions. Feel free to talk about shared interests, experiences, and/or concerns. Remember, we're all in this together.
 
