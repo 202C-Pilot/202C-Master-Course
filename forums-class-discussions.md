@@ -39,19 +39,18 @@ Prompts for Discussion
 
 ## Class Discussion 4. Reading: Researching Your Subject
 
-It's easies to succeed when you've done your homework, you know what you are talking about, and you can speak and write authoritatively about a subject. That's what makes research so important for technical communicators. This discussion focuses on the practice of research and sample versions of the Internet Resource Guide.
+It's easiest to succeed when you've done your homework, you know what you are talking about, and you can speak and write authoritatively about a subject. That's what makes research so important for technical communicators. This discussion focuses on the practice of research and sample versions of the Internet Resource Guide.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
 * What does it mean for technical communicators to do research?
-* How might an Internet Resource Guide be of value to you and/or your prospective career field?
-* What seem to be the strengths of each sample document? What makes them effective?
-* What seem to be the weaknesses of each sample document? What makes them ineffective?
-* Which of the samples do you think is the most effective? Why?
-* Which of the samples do you think is the least effective? Why?
-* What might you do in your own work to insure that your project is as effective as possible? What ideas or strategies might you adopt from these samples? What might you avoid?
+* How might an Internet Resource Guide be of value to you as a researcher and professional?
+* What are some effective aspects of the samples? Why?
+* What are some ineffective aspects of the samples? Why?
+* What might you do in your own work to ensure that your project is as effective as possible?
+* What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 5. Reading: Understanding the Writing Process
 
