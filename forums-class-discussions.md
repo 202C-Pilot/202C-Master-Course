@@ -60,7 +60,7 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
-* Do you make use of the writing process when you write? How so? If not, why?
+* Why do technical communicators characterize writing as a process? What is your process?
 * Which stage of the writing process do you think is the most important? Why?
 * How have you employed the writing process to help you compose your Internet Resource Guide?
 
