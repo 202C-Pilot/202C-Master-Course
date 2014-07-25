@@ -13,7 +13,7 @@ Then, once you've introduced yourself to the class, connect with your classmates
 
 Whether you realize it or not, you constantly encounter technical communication in the world around you. That table of nutritional information on the side of your cereal box? That's technical communication. So are the steps you followed to register for this course!
 
-This class discussion is designed to help you understand what technical communication is, how it differs from other forms of communication, and how to recognize it in your everyday life.</p>
+This class discussion is designed to help you understand what technical communication is, how it differs from other forms of communication, and how to recognize it in your everyday life.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
@@ -79,7 +79,7 @@ Prompts for Discussion
 
 ## Class Discussion 7. Reading: Preparing Job Application Materials.
 
-Job application materials are important because they serve as a representation of you and your qualifications in your quest to secure employment. This discussion focuses what makes a resume effective and how best to craft one.
+Job application materials are important because they serve as a representation of you and your qualifications in your quest to secure employment. This discussion focuses on what makes a resume effective and how best to craft one.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
@@ -93,7 +93,7 @@ Prompts for Discussion
 
 ## Class Discussion 8. Reading: Communicating Persuasively
 
-All too often, people think of job letters as just a place where you list some of your credentials. But job letters are more than that. They are an opportunity for you to make a case for your candidacy for a position. In short, effective job letters are not simply informative; they're persuasive, too. After all, the purpose of your application materials is to persuade prospective employers to grant you an interview. This discussion focuses focuses on what makes a job letter effective and how to write one of your own.
+All too often, people think of job letters as just a place where you list some of your credentials. But job letters are more than that. They are an opportunity for you to make a case for your candidacy for a position. In short, effective job letters are not simply informative; they're persuasive, too. After all, the purpose of your application materials is to persuade prospective employers to grant you an interview. This discussion focuses on what makes a job letter effective and how to write one of your own.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
@@ -199,5 +199,5 @@ Prompts for Discussion
 
 * What makes writing effective?
 * What does it mean to say that a piece of writing is clear?
-* What makes concision and precisions important in technical communication?
+* What makes concision and precision important in technical communication?
 * How can you achieve clarity, concision, and precision in your own work?
