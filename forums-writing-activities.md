@@ -1,6 +1,6 @@
 ## Writing Workshop 1 - Project 1, Basic Rhetorical Analysis
 
-Part One, Due Friday: Planning Work. Respond to the prompts for planning your Basic Rhetorical Analysis.
+Part One: Planning Work. Respond to the prompts for planning your Basic Rhetorical Analysis.
 
 The first step in drafting your Basic Rhetorical Analysis is planning. The following prompts ask you to write about your Analysis, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
@@ -13,7 +13,9 @@ Prompts for Planning:
 5.	In what situations or under what conditions would a person use the document?
 6.	What problems might a user of this document be trying to solve?
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the planning prompts.
+---
+
+Part Two: Peer Feedback. Provide peer feedback on responses to the planning prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
@@ -24,9 +26,11 @@ Although document plans can be tentative and contingent, it's useful to workshop
 
 ## Writing Workshop 2
 
-Part One, Due Friday: Draft Submission. Complete a draft of your Basic Rhetorical Analysis.
+Part One: Draft Submission. Submit a full draft of your Basic Rhetorical Analysis.
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+---
+
+Part Two: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of the Basic Rhetorical Analysis. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -47,7 +51,7 @@ Prompts for Peer Feedback
 
 ## Writing Workshop 3
 
-Due Friday, Project Reflection. Respond to the prompts for reflecting on your Basic Rhetorical Analysis.
+Part One: Project Reflection. Respond to the prompts for reflecting on your Basic Rhetorical Analysis.
 
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
 
@@ -59,11 +63,14 @@ Prompts for Reflection
 4. What areas of the project could be improved? Why?
 5. If you had a chance to start the project over, what would you do differently?
 
-Sunday, Project Due.
+---
+
+There is no part two this week.
+
 
 ## Writing Workshop 4 - Project 2, Internet Resource Guide
 
-Part One, Due Friday: Planning Work. Respond to the prompts for planning your Internet Resource Guide.
+Part One: Planning Work. Respond to the prompts for planning your Internet Resource Guide.
 
 The first step in drafting your Internet Resource Guide is planning. The following prompts ask you to write about your Guide, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
@@ -78,7 +85,9 @@ Prompts for Planning:
 7. What might your audience already know or have experience in that you can build on?
 8. At this point, what questions do you have about the project?
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the planning prompts.
+---
+
+Part Two: Peer Feedback. Provide peer feedback on responses to the planning prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
@@ -88,9 +97,12 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 5
-Part One, Due Friday: Draft Submission. Complete a draft of your Internet Resource Guide.
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+Part One: Draft Submission. Submit a full draft of your Internet Resource Guide.
+
+---
+
+Part Two: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of the Front Matter, review of the Abstracts, and review of the Guide overall. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -125,7 +137,7 @@ Prompts for Peer Feedback, Overall Guide
 
 ## Writing Workshop 6
 
-Due Friday, Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
+Part One: Project Reflection. Respond to the prompts for reflecting on your Internet Resource Guide.
 
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
 
@@ -137,10 +149,14 @@ Prompts for Reflection
 4. What areas of the project could be improved? Why?
 5. If you had a chance to start the project over, what would you do differently?
 
-Sunday, Project Due.
+---
+
+There is no part two this week.
 
 ## Writing Workshop 7 - Project 3, Job Application Package
-Part One, Due Friday: Planning Work. Respond to the prompts for planning your Job Application Package.
+
+Part One: Planning Work. Respond to the prompts for planning your Job Application Package.
+
 The first step in drafting your Job Application Package is planning. The following prompts ask you to write about your Package, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
 Prompts for Planning Package #1:
@@ -157,7 +173,9 @@ Prompts for Planning Package #2
 3. Resume. Describe how you will focus your resume for this job, company, and reader. Which aspects of your education and experience will you highlight? What information will be less important for that job? 
 4. Cover Letter. Describe how you will focus your cover letter for this job, company, and reader. Which aspects of your education and experience will you highlight? What information will be less important for that job? What kind of tone will you take in the letter?
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the planning prompts.
+---
+
+Part Two: Peer Feedback. Provide peer feedback on responses to the planning prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
@@ -167,8 +185,12 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 8
-Part One, Due Tuesday: Complete a draft of your Job Application Packaage.
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+
+Part One: Draft Submission: Submit a full draft of your Job Application Package.
+
+---
+
+Part Two: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of the Cover Memo, review of the Resumes, and review of the Cover Letters. You don't necessarily have to respond to each and every prompt, but you should respond, in one way or another, to a majority of them. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -208,7 +230,8 @@ Prompts for Peer Feedback, Cover Letters
 
 
 ## Writing Workshop 9
-Due Friday, Project Reflection. Respond to the prompts for reflecting on your Job Application Package.
+
+Part One: Project Reflection. Respond to the prompts for reflecting on your Job Application Package.
 
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
 
@@ -220,10 +243,14 @@ Prompts for Reflection
 4. What areas of the project could be improved? Why?
 5. If you had a chance to start the project over, what would you do differently?
 
-Sunday, Project Due.
+---
+
+There is no part two this week.
 
 ## Writing Workshop 10 - Project 4, Technical Description
-Part One, Due Friday: Planning Work. Respond to the prompts for planning your Technical Description.
+
+Part One: Planning Work. Respond to the prompts for planning your Technical Description.
+
 The first step in drafting your Technical Description is planning. The following prompts ask you to write about your Technical Description, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
 Prompts for Planning:
@@ -234,7 +261,9 @@ Prompts for Planning:
 4. Which organizational pattern makes sense for your description? Outline the process or product description at a high level.
 5. Where might visuals add clarity to your discussion?
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the planning prompts.
+---
+
+Part Two: Peer Feedback. Provide peer feedback on responses to the planning prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
@@ -245,8 +274,11 @@ Although document plans can be tentative and contingent, it's useful to workshop
 
 ## Writing Workshop 11
 
-Part One, Due Friday: Draft Submission. Complete a draft of your Technical Description.
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+Part One: Draft Submission. Submit a full draft of your Technical Description.
+
+---
+
+Part Two: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of your Technical Description. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -259,7 +291,7 @@ An important step in drafting is peer feedback. The following prompts are for re
 
 ## Writing Workshop 12
 
-Due Friday, Project Reflection. Respond to the prompts for reflecting on your Technical Description.
+Part One: Project Reflection. Respond to the prompts for reflecting on your Technical Description.
 
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
 
@@ -271,10 +303,13 @@ Prompts for Reflection
 4. What areas of the project could be improved? Why?
 5. If you had a chance to start the project over, what would you do differently?
 
-Sunday, Project Due.
+---
+
+There is no part two this week.
 
 ## Writing Workshop 13 - Project 5, Instruction Set
-Part One, Due Friday: Planning Work. Respond to the prompts for planning your Instruction Set.
+
+Part One: Planning Work. Respond to the prompts for planning your Instruction Set.
 
 The first step in drafting your Instruction Set is planning. The following prompts ask you to write about your Instruction Set, including its audiences, purposes, contexts, contents, and constraints. The goal of your response is to help you begin to get a handle on what you're doing and to engender a conversation with your peers that can advance your thinking in productive ways. When it comes to planning, more tends to be better, so don't hold back.
 
@@ -289,7 +324,9 @@ Prompts for Planning:
 7. What visuals (i.e., drawings, diagrams, schematics, photos) will be needed?
 8. What supplementary information might you need to include with these instructions? Descriptions? Definitions? Other types of information?
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on responses to the planning prompts.
+---
+
+Part Two: Peer Feedback. Provide peer feedback on responses to the planning prompts.
 
 Although document plans can be tentative and contingent, it's useful to workshop your ideas with peers, in order to get feedback on what you're thinking about doing and how you're imagining the document context. The following prompts invite you to respond to the planning work of peers. Your goal is to help peers clarify and elaborate their plans and consider aspects they might be overlooking. Be an active reviewer, with the goal of helping peers improve their plans and projects.
 
@@ -299,9 +336,12 @@ Although document plans can be tentative and contingent, it's useful to workshop
 4. How, exactly, can your peer improve their planning? What concrete suggestions for improvement can you make?
 
 ## Writing Workshop 14
-Part One, Due Friday: Draft Submission. Complete a draft of your Instruction Set.
 
-Part Two, Due Sunday: Peer Feedback. Provide peer feedback on drafts.
+Part One: Draft Submission. Submit a full draft of your Instruction Set.
+
+---
+
+Part Two: Peer Feedback. Provide peer feedback on drafts.
 
 An important step in drafting is peer feedback. The following prompts are for review of your Instruction Set. Don't be limited by these prompts, though: Share any and all feedback you have for your peers.
 
@@ -315,7 +355,7 @@ An important step in drafting is peer feedback. The following prompts are for re
 
 ## Writing Workshop 15
 
-Due Friday, Project Reflection. Respond to the prompts for reflecting on your Instruction Set.
+Part One: Project Reflection. Respond to the prompts for reflecting on your Instruction Set.
 
 An important step in finalizing any project is reflection. Reflection is a habit engaged in by professionals who are interested in improving their practices. You can't improve unless you think explicitly and formally about what you're doing.
 
@@ -327,6 +367,8 @@ Prompts for Reflection
 4. What areas of the project could be improved? Why?
 5. If you had a chance to start the project over, what would you do differently?
 
-Sunday, Project Due.
+---
+
+There is no part two this week.
 
 
