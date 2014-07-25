@@ -185,8 +185,8 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 Prompts for Discussion
 
 * How can graphics contribute to the usability, ethos, or persuasiveness of a document?
-* What are some of the things we need to be careful about when employing graphics?
 * How might graphics amplify or reinforce the message or purpose of a document? How might they undermine the message or purpose?
+* What are some of the things we need to be careful about when employing graphics?
 * How might you employ graphics in your instruction set? 
 
 ## Class Discussion 15. Reading: Writing Effective Sentences
