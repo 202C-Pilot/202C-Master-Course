@@ -1,3 +1,7 @@
+## Note to Instructors
+
+This site map provides direct links for instructors to the project assignment sheets, class discussions, and writing workshops in this course. It is hidden by default for students. It is preferable for students to use the "Weekly Activities" tab so they don't bypass the directions for each week.
+
 ## Projects
 
 * [Project 1 Assignment](/section/content/default.asp?WCI=Goto&WCU=CRSCNT&MATCH=Project+1+Assignment)
