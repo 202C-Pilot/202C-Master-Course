@@ -11,7 +11,7 @@ Then, once you've introduced yourself to the class, connect with your classmates
 
 ## Class Discussion 2. Reading: Defining Technical Communication
 
-Whether you realize it or not, you constantly encounter technical communication in the world around you. That table of nutritional information on the side of your cereal box? That's technical communication. So are the steps you followed for registering for this course!
+Whether you realize it or not, you constantly encounter technical communication in the world around you. That table of nutritional information on the side of your cereal box? That's technical communication. So are the steps you followed to register for this course!
 
 This class discussion is designed to help you understand what technical communication is, how it differs from other forms of communication, and how to recognize it in your everyday life.</p>
 
@@ -19,10 +19,10 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
-* What is technical communication? How and why does it matter?
-* How does technical communication differ from other kinds of communication, such as academic or creative writing?
-* What kinds of technical communication have you seen before? What types of strategies seem to be important in these forms of technical communication?
-* What are some examples of technical communication that you encounter in your everyday life besides the usual suspects (e.g. resumes, instructions, reports, etc.)? What makes them technical communication?
+* What is technical communication? Why does it matter?
+* How does technical communication differ from other types of communication, such as academic or creative writing?
+* What types of strategies seem to be important in technical communication?
+* What are some examples of technical communication that you encounter in everyday life besides the usual suspects (e.g., resumes, instructions, reports, etc.)? What makes them technical communication?
 
 ## Class Discussion 3. Reading: Analyzing Your Audience and Purpose
 
