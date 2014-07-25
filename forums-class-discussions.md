@@ -191,13 +191,13 @@ Prompts for Discussion
 
 ## Class Discussion 15. Reading: Writing Effective Sentences
 
-Although technical communication makes considerable use of visual elements and design, at the end of the day, the clarity and precision of your writing still matters. The easier it is for readers to understand what you're trying to communicate, the more likely your writing will be meet its objectives. That's why this discussion focuses on writing effective sentences.
+Although technical communication makes considerable use of visual elements and design, at the end of the day, the clarity and precision of your writing still matters. The easier it is for readers to understand what you're trying to communicate, the more likely your writing will meet its objectives. That's why this discussion focuses on writing effective sentences.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
 * What makes writing effective?
-* What does it mean to say a piece of writing is clear?
-* What makes concision and precisions important in technical writing?
-* How can you achieve clarity, concision, and precision in your own writing?
+* What does it mean to say that a piece of writing is clear?
+* What makes concision and precisions important in technical communication?
+* How can you achieve clarity, concision, and precision in your own work?
