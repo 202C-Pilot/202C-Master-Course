@@ -1,3 +1,11 @@
+---
+
+## Quick Links
+
+[Instructor Info][instructorinfo] | [Course Overview][courseoverview] | [Course Objectives][courseobjectives] | [Required Textbook][requiredtextbook] | [Course Requirements & Grading][courserequirementsandgrading] | [Class Discussions and Workshops][classdiscussionsandwritingworkshops] | [Projects][projects] | [Grades][grades] | [Deadlines][deadlines] | [Late Policy][latepolicy] | [Library Resources][libraryresources] | [Tech Support][techsupport] | [Academic Integrity][academicintegrity] | [Accommodating Disabilities][accommodatingdisabilities]
+
+---
+
 ## Instructor Info
 
 Prof. First Last  
