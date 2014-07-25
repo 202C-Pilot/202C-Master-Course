@@ -32,9 +32,9 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
-* What makes analyzing your audience and purpose so important for technical writers?
-* How might inattentiveness to audience and purpose affect different writing genres and situations? (e.g. resumes, instructions, reports, etc.) What might the consequences be?
-* How might analyzing your audience and purpose contribute to more successful communications?
+* What makes analyzing your audience and purpose so important for technical communicators?
+* How can analyzing your audience and purpose contribute to successful communications?
+* What types of problems can an inattentiveness to audience and purpose create? What might the consequences be?
 
 
 ## Class Discussion 4. Reading: Researching Your Subject
