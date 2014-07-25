@@ -163,19 +163,18 @@ Prompts for Discussion
 
 ## Class Discussion 13: Reading: Writing Instructions
 
-If you've ever tried to assemble a piece of store-bought furniture, then you know how important it is to write clear and helpful instructions--and how exasperating it can be when instructions aren't clear or helpful. Telling people how to do things is important work for technical communicators. Lives may even depend on it. If an instruction set doesn't make clear the steps to follow, then something can go wrong and people can get hurt. You wouldn't want the people who make our medicine or who build are cars to mess up, would you? This discussion focuses on the craft of writing effective instruction sets, as well as the sample instruction sets you've been provided in this class.
+If you've ever tried to assemble a piece of store-bought furniture, then you know how important it is to write clear and helpful instructions, and how exasperating it can be when instructions aren't clear or helpful. Telling people how to do things is important work for technical communicators. Lives may even depend on it. This discussion focuses on the craft of writing effective instruction sets, as well as on the sample instruction sets you've been provided in this class.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
-* What are some situations where you can imagine having effective instructions would be important?
-* What makes an instruction set effective?
-* What seem to be the strengths of each sample instruction set? 
-* What seem to be the weaknesses of each sample document? What makes them ineffective?
-* Which of the samples do you think is the most effective? Why?
-* Which of the samples do you think is the least effective? Why?
-* What might you do in your own work to insure that your project is as effective as possible? What ideas or strategies might you adopt from these samples? What might you avoid?
+* What are some situations in which instructions are important?
+* What makes an instruction set effective? Ineffective?
+* What are some effective aspects of the samples? Why?
+* What are some ineffective aspects of the samples? Why?
+* What might you do in your own work to ensure that your project is as effective as possible?
+* What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 14. Reading: Creating Graphics
 
