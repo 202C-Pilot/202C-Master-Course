@@ -11,7 +11,7 @@ Then, once you've introduced yourself to the class, connect with your classmates
 
 ## Class Discussion 2. Reading: Defining Technical Communication
 
-Whether you realize it or not, you probably encounter technical writing nearly everyday in the world around you. That table of nutritional information on the side of your cereal box? That's technical writing.
+Whether you realize it or not, you probably encounter technical writing nearly every day in the world around you. That table of nutritional information on the side of your cereal box? That's technical writing.
 
 This class discussion is designed to help you understand what technical writing is, how it differs from other forms of writing, and how to recognize it in your everyday life.</p>
 
@@ -61,6 +61,10 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
+* Do you make use of the writing process when you write? How so? If not, why?
+* Which stage of the writing process do you think is the most important? Why?
+* How have you employed the writing process to help you compose your Internet Resource Guide?
+
 ## Class Discussion 6. Reading: Understanding Ethical and Legal Considerations
 
 Technical documents often have both ethical and legal dimensions. If a company does not properly disclose important information, or worse covers it up, the company can be liable and open to lawsuits and legal action. Unethical practices can get people hurt--or worse. This discussion focuses on the ethical and legal dimensions of technical communication and what you can do to insure that your work is always ethical and lawful.
@@ -68,6 +72,11 @@ Technical documents often have both ethical and legal dimensions. If a company d
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What are the ethical and legal dimensions of technical communication?
+* Have you ever had to make ethical and/or legal choices in your own writing? What were they? How did you deal with them?
+* What ethical and/or legal considerations can you imagine being important for technical communicators?
+* What are the ethical and legal dimensions of the Internet Resource Guide you are writing?
 
 ## Class Discussion 7. Reading: Preparing Job Application Materials.
 
@@ -111,6 +120,11 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
+* What choices did you make when writing your job application materials? How did you choose to organize your resumes? Your letters?
+* Why does organization matter in application materials? 
+* What strategies for organization might you employ to make your documents more effective? Why?
+* How will you need to organize your cover memo for the job application packet? What strategies might you employ?
+
 ## Class Discussion 10. Reading: Writing Technical Definitions and Descriptions
 
 We live in a complex and complicated world. The job of many technical communicators is to make parts of the world just a little more understandable. Translating complex scientific and technical data--via definitions and descriptions--into information that can be understood by different audiences, including everyday people is what technical communicators do.
@@ -136,6 +150,12 @@ Using the language and concepts of this lesson's reading, compose a substantive 
 
 Prompts for Discussion
 
+* How do headings, lists, paragraphing and other elements contribute to the usability and coherence of a document?
+* What are the best ways to employ these elements?
+* How have you employed these elements in your own writing? What worked and what didn't? Why?
+* How might these elements help you achieve your purpose in your technical description?
+* What other typographical elements might you consider using in your technical documents?
+
 ## Class Discussion 12: Reading Designing Documents
 
 In technical communication, the visual design of a document is often as important as the content itself. After all, content that sits in a cluttered design may be content that doesn't get fully read or properly understood. For technical communicators, visual design can contribute to a document's usability, ethos, and persuasiveness. This discussion focuses, therefore, focuses on basic principles in document design and how best to employ them in your own work.
@@ -143,6 +163,12 @@ In technical communication, the visual design of a document is often as importan
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What makes design so important to technical writing?
+* What do the design principles discussed in the reading mean in practice?
+* What makes a document well designed? Poorly designed? How can you tell?
+* What design strategies might you employ in your technical description?
+* In what ways have you seen design principles put to effective use in the documents you encounter in your everyday life?
 
 ## Class Discussion 13: Reading: Writing Instructions
 
@@ -180,3 +206,8 @@ Although technical communication makes considerable use of visual elements and d
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
+
+* What makes writing effective?
+* What does it mean to say a piece of writing is clear?
+* What makes concision and precisions important in technical writing?
+* How can you achieve clarity, concision, and precision in your own writing?
