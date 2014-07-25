@@ -79,20 +79,17 @@ Prompts for Discussion
 
 ## Class Discussion 7. Reading: Preparing Job Application Materials.
 
-Job application materials are important insofar as they serve as a representation of you and your qualifications in your quest to secure employment. This discussion focuses what 
-makes a resume effective and how best to craft one.
+Job application materials are important because they serve as a representation of you and your qualifications in your quest to secure employment. This discussion focuses what makes a resume effective and how best to craft one.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
 * What makes a resume effective? 
-* What seem to be the strengths of each sample resume? What makes them effective?
-* What seem to be the weaknesses of each sample resume? What makes them ineffective?
-* Which of the sample resumes do you think is the most effective? Why?
-* Which of the sample resumes do you think is the least effective? Why?
-* What might you do to insure that your resume is as effective as possible? What ideas or strategies might you adopt from the sample resumes? What might you avoid?
-
+* What are some effective aspects of the samples? Why?
+* What are some ineffective aspects of the samples? Why?
+* What might you do in your own work to ensure that your project is as effective as possible?
+* What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 8. Reading: Communicating Persuasively
 
