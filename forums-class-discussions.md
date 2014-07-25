@@ -121,20 +121,18 @@ Prompts for Discussion
 
 ## Class Discussion 10. Reading: Writing Technical Definitions and Descriptions
 
-We live in a complex and complicated world. The job of many technical communicators is to make parts of the world just a little more understandable. Translating complex scientific and technical data--via definitions and descriptions--into information that can be understood by different audiences, including everyday people is what technical communicators do.
-This discussion focuses on the practices of technical description and definition, as well as what makes for effective writing and design in documents that employ them.
+We live in a complex and complicated world. The job of technical communicators is to make parts of the world just a little more understandable. Translating complex scientific and technical data, via definitions and descriptions, into information that can be understood by different audiences, including everyday people, is what technical communicators do. This discussion focuses on the practices of technical description and definition, as well as on what makes for effective writing and design in documents that employ them.
  
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
-* What role does audience play in tech descriptions and definitions?
+* What role does audience and purpose play in technical descriptions and definitions?
 * What strategies can you employ to help your readers understand the terms you're defining or the processes you're describing?
-* What seem to be the strengths of each sample technical description? What makes them effective?
-* What seem to be the weaknesses of each sample technical description? What makes them ineffective?
-* Which of the samples do you think is the most effective? Why?
-* Which of the samples do you think is the least effective? Why?
-* What might you do in your own work to insure that your project is as effective as possible? What ideas or strategies might you adopt from these samples? What might you avoid?
+* What are some effective aspects of the samples? Why?
+* What are some ineffective aspects of the samples? Why?
+* What might you do in your own work to ensure that your project is as effective as possible?
+* What ideas or strategies might you adopt from these samples? What might you avoid?
 
 ## Class Discussion 11. Reading: Writing Coherent Documents
 
