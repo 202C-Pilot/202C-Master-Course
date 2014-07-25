@@ -22,7 +22,7 @@ Prompts for Discussion
 * What is technical communication? Why does it matter?
 * How does technical communication differ from other types of communication, such as academic or creative writing?
 * What types of strategies seem to be important in technical communication?
-* What are some examples of technical communication that you encounter in everyday life besides the usual suspects (e.g., resumes, instructions, reports, etc.)? What makes them technical communication?
+* What are some examples of technical communication that you encounter in everyday life besides the usual suspects (e.g., resumes, instructions, reports, etc.)? What makes them pieces of technical communication?
 
 ## Class Discussion 3. Reading: Analyzing Your Audience and Purpose
 
