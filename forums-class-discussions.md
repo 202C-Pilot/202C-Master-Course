@@ -66,16 +66,16 @@ Prompts for Discussion
 
 ## Class Discussion 6. Reading: Understanding Ethical and Legal Considerations
 
-Technical documents often have both ethical and legal dimensions. If a company does not properly disclose important information, or worse covers it up, the company can be liable and open to lawsuits and legal action. Unethical practices can get people hurt--or worse. This discussion focuses on the ethical and legal dimensions of technical communication and what you can do to insure that your work is always ethical and lawful.
+Technical documents often have both ethical and legal dimensions. If a company does not properly disclose important information, or worse covers it up, the company can be liable and open to lawsuits and legal action. Unethical practices can get people hurt, or worse. This discussion focuses on the ethical and legal dimensions of technical communication and what you can do to ensure that your work is always ethical and lawful.
 
 Using the language and concepts of this lesson's reading, compose a substantive discussion post that addresses some or all of the prompts below. Because we're looking to foster discussion here, try to end your post with a question or two for your classmates to consider.
 
 Prompts for Discussion
 
-* What are the ethical and legal dimensions of technical communication?
+* What are the ethical and legal dimensions of technical communication? How do they differ?
 * Have you ever had to make ethical and/or legal choices in your own writing? What were they? How did you deal with them?
 * What ethical and/or legal considerations can you imagine being important for technical communicators?
-* What are the ethical and legal dimensions of the Internet Resource Guide you are writing?
+* What are the ethical and legal dimensions of the Internet Resource Guide?
 
 ## Class Discussion 7. Reading: Preparing Job Application Materials.
 
