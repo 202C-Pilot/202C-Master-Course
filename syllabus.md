@@ -42,9 +42,11 @@ Students in this course will learn how to:
 
 ## Required Textbook
 
-The following textbook is required:
+The following electronic textbook is required:
 
-* _Technical Communication_ by Mike Markel. Bedford/St. Martin's, 2012. Tenth edition. E-book, standard version. You can purchase access to this e-book directly at < [http://bcs.bedfordstmartins.com/techcomm10e/][2] >, or you can buy an access code at the Penn State bookstore. You will have access to the e-book for 180 days.
+* _Technical Communication_ by Mike Markel. Bedford/St. Martin's, 2012. Tenth edition. E-book, standard version. 
+
+You can purchase access to this e-book directly at < [http://bcs.bedfordstmartins.com/techcomm10e/][2] >. When visiting the textbook web site, select the "Technical Communication eBook" tab and then choose “Purchase Access” to add the eBook to the shopping cart. When asked for the zip code, enter 16802 as Penn State's zip code.You will have access to the e-book for 180 days.
 
 Note: For this class, we will be using the e-book version of _Technical Communication._ You'll be able to read the full book online once you purchase access to it. The e-book version is considerably cheaper than the print version, and it is accessible wherever you can access the web.
 
