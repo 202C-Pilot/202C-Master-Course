@@ -116,7 +116,45 @@ The grades of A, B, C, D, and F indicate qualities of academic performance. When
 
 > F = Unacceptable. The document does not have enough information, does something other than the assignment required, or it contains major or excessive errors.
 
+## Grade Equivalents
+
+For each project in the class, you will receive a letter grade. The following scale will be used to determine grade-point equivalents:
+
+| Letter Grade | Point Value |
+|---           |---          |
+| A						 | 95					 |
+| A-					 | 90					 |
+| B+					 | 88					 |
+| B						 | 85					 |
+| B-					 | 80					 |
+| C+					 | 78					 |
+| C						 | 75					 |
+| C-					 | 70					 |
+| D+					 | 68					 |
+| D						 | 65					 |
+| D-					 | 60					 |
+| F						 | 55					 |
+
+
 ## Final Grading Scale
+
+At the end of the term, the following scale will be used to determine final course grades:
+
+| Letter Grade | Point Range |
+|---           |---          |
+| A						 | 93-100			 |
+| A-					 | 90-92.99		 |
+| B+					 | 88-89.99		 |
+| B						 | 83-87.99		 |
+| B-					 | 80-82.99		 |
+| C+					 | 78-79.99		 |
+| C						 | 73-77.99		 |
+| C-					 | 70-72.99		 |
+| D+					 | 68-69.99		 |
+| D						 | 63-67.99		 |
+| D-					 | 60-62.99		 |
+| F						 | 0-59.99   	 |
+
 
 ## Deadlines
 
@@ -159,7 +197,7 @@ NOTE: You must have an active Penn State Access Account to take full advantage o
 
 ## Tech Support
 
-If you need technical assistance at any point during the course, contact [Angel Support][6].
+If you need technical assistance at any point during the course, contact the [HelpDesk][6].
 
 ## Academic Integrity
 
@@ -195,7 +233,7 @@ Pennsylvania State University &copy; 2014
 [3]: http://www.libraries.psu.edu/psul/infosvcs/offcampus.html
 [4]: http://www.libraries.psu.edu/
 [5]: /section/content/
-[6]: /psad/psad20/support.asp
+[6]: http://student.worldcampus.psu.edu/technical-support/contact-us
 [7]: http://www.sa.psu.edu/ja/
 [8]: http://www.psu.edu/ufs/policies/47-00.html#49-20
 [9]: http://www.worldcampus.psu.edu/StudentServices_AcademicIntegrity.shtml#AIChart
