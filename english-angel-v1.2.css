@@ -209,14 +209,7 @@ psu r: 4879 end
         url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.ttf') format('truetype'), url('https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/open-sans-font/OpenSans-Italic-webfont.svg') format('svg');
 }
 
-html.interface {
-    background: none repeat scroll 0 0 #a0a0a0;
-    height: 100% !important;
-    margin: 15px auto !important;
-    overflow: hidden !important;
-    padding: 0 !important;
-    max-width: 960px !important;
-}
+
 
 hr {
 	border: none;
@@ -229,20 +222,20 @@ strong {
 	}
 	
 h2 {
-	font-size: 1em;
+	font-size: 20px;
 	margin-top: 25px;
 	margin-bottom: 0;
 	color: #000;
 	}
 	
 h3 {
-	font-size: 1em;
+	font-size: 20px;
 	margin-top: 0;
 	margin-bottom: 0;
 	}
 	
 p {
-	font-size: 1em;
+	font-size: 20px;
 	margin-top: 0;
 	margin-bottom: 15px;
 	line-height: 1.6em;
@@ -287,12 +280,12 @@ body.bodyDefault {
 
 #section_resources body.bodyDefault {
     margin: 0 auto;
-    max-width: 780px;
+    max-width: 1000px;
     padding: 0 15px 15px;
 }
 
 div#bannerSection {
-background: transparent;
+background: #262c3a !important;
 border-bottom: none;
 padding: 0 !important;
 position: relative;
@@ -303,12 +296,14 @@ z-index: 1000;
 
 div.banner {
     background-color: #262c3a !important;
-    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/dark-blue-bg.jpg");
-    background-position: left top;
+    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/blue-bg3.jpg");
+    background-position: left 5px;
     background-repeat: no-repeat;
     border-bottom: medium none;
     border-right: medium none;
-    border-top: none;
+    border-top: medium none;
+    margin: 0 auto;
+    max-width: 1000px;
     padding-left: 0;
 }
 
@@ -322,26 +317,26 @@ top: 0;
 }
 
 #bannerSection h1 {
-font-size: 1em;
-margin: 35px 0 0 100px;
+font-size: 15px;
+margin: 35px 0 0 75px;
 padding: 0;
 width: auto;
 color: #f0f0f0 !important;
 }
 
 .tabs {
-    font-size: 0.875em;
+    font-size: 12px;
     padding-top: 14px;
     position: relative;
     width: 100%;
 }
 
 #tabMenu {
-    background: #707070;
+    background: transparent;
     border-top: none;
     display: block;
-    float: none;
-    margin: 0;
+    float: right;
+    margin: -43px 0 15px;
     overflow: hidden;
     padding: 0;
     text-align: left;
@@ -371,14 +366,14 @@ color: #f0f0f0 !important;
 #bannerSection .tabbar, 
 #bannerSection #tabMenu li a.active, 
 #bannerSection #tabMenu li a.active:hover {
-	background-color: transparent;
+	background-color: #4461AC;
 	color: #f0f0f0;
 	font-weight: 400;
 }
 
 #bannerSection #tabMenu li a, 
 #bannerSection #tabMenu li a:hover {
-	background-color: transparent;
+	background-color: #4461AC;
 	color: #f0f0f0;
 	font-weight: 400;
 }
@@ -390,19 +385,19 @@ color: #f0f0f0 !important;
 }
 
 #bannerSection .tabbar {
-background-color: #707070;
+background-color: #4461AC;
 margin-top: -4px;
 }
 
 #tabMenu li a {
 cursor: pointer;
 display: block;
-font-weight: bold;
-margin: 0;
+font-weight: normal;
+margin: 0 2px 0 0;
 min-width: 0;
-padding: 6px 12px 7px;
+padding: 5px 7px;
 text-align: center;
-border-right: 1px solid #1a1e28;
+border: none;
 }
 
 .tabbar {
@@ -602,7 +597,7 @@ SMALL .descriptionSpan,
 #section_intouch .bodyDefault,
 #section_reports .bodyDefault,
 body.bodyLessons {
-	max-width: 780px !important;
+	max-width: 1000px !important;
 	margin: 0 auto !important;
 	}
 	
