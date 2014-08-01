@@ -295,8 +295,8 @@ z-index: 1000;
 /* div#bannerSection { box-shadow: 0 0 5px rgba(0, 0, 0, 0.45); } */
 
 div.banner {
-    background-color: #263660 !important;
-    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/lionshrine8.jpg");
+    background-color: #262c3a !important;
+    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/dark-blue-bg.jpg");
     background-position: left top;
     background-repeat: repeat-x;
     border-bottom: medium none;
@@ -323,7 +323,7 @@ color: #f0f0f0 !important;
 }
 
 .tabs {
-    font-size: 0.9375em;
+    font-size: 0.875em;
     padding-top: 14px;
     position: relative;
     width: 100%;
@@ -338,7 +338,7 @@ padding: 0 0 0 5px;
 white-space: nowrap;
 text-align: left;
 border-top: none;
-background: #263660;
+background: #707070;
 }
 
 #tabMenu li {
@@ -383,7 +383,7 @@ background: #263660;
 }
 
 #bannerSection .tabbar {
-background-color: #263660;
+background-color: #707070;
 margin-top: -4px;
 }
 
@@ -393,7 +393,7 @@ display: block;
 font-weight: bold;
 margin: 0;
 min-width: 0;
-padding: 8px 12px 9px;
+padding: 6px 12px 7px;
 text-align: center;
 border-right: 1px solid #1a1e28;
 }
@@ -411,7 +411,8 @@ border-right: 1px solid #1a1e28;
 }
 
 div#breadcrumbSection {
-background: transparent;
+background: #f0f0f0;
+border-bottom: 1px solid #d0d0d0;
 }
 
 #breadcrumbs {
@@ -420,10 +421,10 @@ margin-left: 14px;
 
 #breadcrumbMenu {
 margin: 0;
-padding: 10px 0;
+padding: 5px 0 6px;
 white-space: nowrap;
 font-weight: 400;
-font-size: 0.875em;
+font-size: 0.770em;
 }
 
 #breadcrumbMenu #bcHome,
@@ -438,8 +439,12 @@ z-index: 9999;
 }
 
 #pageSidebar {
-background-color: transparent;
+background-color: #f0f0f0;
 border-right: none;
+}
+
+#guideToggle a {
+top:1px;
 }
 
 ul#globalNav {
