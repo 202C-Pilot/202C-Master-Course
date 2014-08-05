@@ -296,9 +296,7 @@ z-index: 1000;
 
 div.banner {
     background-color: #262c3a !important;
-    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/blue-bg3.jpg");
-    background-position: left 5px;
-    background-repeat: no-repeat;
+    background-image: none;
     border-bottom: medium none;
     border-right: medium none;
     border-top: medium none;
@@ -312,8 +310,11 @@ display: block !important;
 font-weight: 400 !important;
 left: 0;
 position: relative;
-text-align: left;
+text-align: center;
 top: 0;
+background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/blue-bg3.jpg");
+    background-position: left 5px;
+    background-repeat: no-repeat;
 }
 
 #bannerSection h1 {
@@ -335,11 +336,11 @@ color: #f0f0f0 !important;
     background: transparent;
     border-top: none;
     display: block;
-    float: right;
-    margin: -43px 0 15px;
+    float: none;
+    margin: 0 0 15px;
     overflow: hidden;
     padding: 0;
-    text-align: left;
+    text-align: center;
     white-space: nowrap;
 }
 
