@@ -222,20 +222,20 @@ strong {
 	}
 	
 h2 {
-	font-size: 20px;
+	font-size: 18px;
 	margin-top: 25px;
 	margin-bottom: 0;
 	color: #000;
 	}
 	
 h3 {
-	font-size: 20px;
+	font-size: 18px;
 	margin-top: 0;
 	margin-bottom: 0;
 	}
 	
 p {
-	font-size: 20px;
+	font-size: 18px;
 	margin-top: 0;
 	margin-bottom: 15px;
 	line-height: 1.6em;
@@ -280,12 +280,14 @@ body.bodyDefault {
 
 #section_resources body.bodyDefault {
     margin: 0 auto;
-    max-width: 1000px;
-    padding: 0 15px 15px;
+    max-width: 800px;
+    padding: 0 30px 15px;
+    border-right: 1px solid #e8e8e8;
+	border-left: 1px solid #e8e8e8;
 }
 
 div#bannerSection {
-background: #262c3a !important;
+background: #263660 !important;
 border-bottom: none;
 padding: 0 !important;
 position: relative;
@@ -295,15 +297,14 @@ z-index: 1000;
 /* div#bannerSection { box-shadow: 0 0 5px rgba(0, 0, 0, 0.45); } */
 
 div.banner {
-    background-color: #262c3a !important;
-    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/blue-bg3.jpg");
-    background-position: left top;
+    background-color: #263660 !important;
+    background-image: url("https://cms.psu.edu/AngelUploads/Content/LB_2014SPUP_ENGL_ALL/psu-logo2.png");
+    background-position: 10px 10px;
     background-repeat: no-repeat;
     border-bottom: medium none;
     border-right: medium none;
     border-top: medium none;
-    margin: 0 auto;
-    max-width: 1000px;
+    margin: 0;
     padding-left: 0;
 }
 
@@ -317,18 +318,16 @@ top: 0;
 }
 
 #bannerSection h1 {
-font-size: 14px;
-margin: 30px 0 5px 75px;
+font-size: 16px;
+margin: 25px 0 3px 72px;
 padding: 0;
 width: auto;
 color: #f0f0f0 !important;
-max-width: 285px;
-line-height: 1em;
 }
 
 .tabs {
-    font-size: 14px;
-    padding-top: 0;
+    font-size: 13px;
+    padding-top: 10px;
     position: relative;
     width: 100%;
 }
@@ -338,7 +337,7 @@ line-height: 1em;
     border-top: none;
     display: block;
     float: right;
-    margin: -69px 0 0;
+    margin: -67px 0 0;
     overflow: hidden;
     padding: 0;
     text-align: left;
@@ -353,11 +352,9 @@ line-height: 1em;
     overflow: hidden;
     padding: 0;
     position: relative;
-    border-right: 1px solid #505050;
 }
 
 #tabMenu li#tabResources {
-	border-left: 1px solid #505050;
 	}
 
 #tabMenu li a span.center {
@@ -375,14 +372,16 @@ line-height: 1em;
 #bannerSection #tabMenu li a.active:hover {
 	background-color: transparent;
 	color: #f0f0f0;
-	font-weight: normal;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 #bannerSection #tabMenu li a, 
 #bannerSection #tabMenu li a:hover {
 	background-color: transparent;
 	color: #f0f0f0;
-	font-weight: normal;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 #bannerSection #tabMenu li a.active:hover,
@@ -402,10 +401,10 @@ display: block;
 font-weight: normal;
 margin: 0;
 min-width: 0;
-padding: 35px 7px 20px;
+padding: 36px 9px 15px;
 text-align: center;
 border: none;
-letter-spacing: -0.02em;
+letter-spacing: 0;
 }
 
 .tabbar {
@@ -431,7 +430,7 @@ margin-left: 14px;
 
 #breadcrumbMenu {
 margin: 0;
-padding: 5px 0 6px;
+padding: 4px 0;
 white-space: nowrap;
 font-weight: 400;
 font-size: 0.770em;
@@ -605,8 +604,11 @@ SMALL .descriptionSpan,
 #section_intouch .bodyDefault,
 #section_reports .bodyDefault,
 body.bodyLessons {
-	max-width: 1000px !important;
+	max-width: 800px !important;
 	margin: 0 auto !important;
+	padding: 0 30px;
+	border-right: 1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
 	}
 	
 iframe#PAGE_TEXT___Frame {
@@ -758,6 +760,42 @@ div#bannerSection {
 
 }*/
 
+
+@media (max-width: 1125px) {
+
+#bannerSection h1 {
+font-size: 14px;
+}
+
+.tabs {
+    font-size: 12px;
+}
+
+#tabMenu li a {
+	padding: 36px 5px 15px;
+}
+}
+
+@media (max-width: 1000px) {
+
+#bannerSection h1 {
+font-size: 16px;
+}
+
+#tabMenu {
+    border-top: 1px solid #1c2847;
+    float: none;
+    margin: 0;
+    text-align: center;
+}
+
+#tabMenu li a {
+    letter-spacing: 0;
+    margin: 0;
+    padding: 10px 6px 12px;
+}
+}
+
 @media (max-width: 600px) {
 #section_resources .pageTitleSpan,
 #section_intouch .pageTitleSpan,
@@ -766,19 +804,5 @@ body.bodyLessons h1.pageTitle,
 #section_tools .pageTitleSpan {
 font-size: 2em;
 letter-spacing: -0.0175em;
-	}
+}
 }	
-	
-@media (max-width: 900px) {
-#tabMenu {
-    border-top: 1px solid #505050;
-    float: none;
-    margin: 0;
-}
-
-#tabMenu li a {
-    letter-spacing: 0;
-    margin: 0;
-    padding: 10px 7px 12px;
-}
-}
