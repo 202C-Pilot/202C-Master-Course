@@ -74,7 +74,7 @@ Each discussion and workshop is asynchronous, which means you'll never have to b
 
 There will be 15 class discussion forums, each worth 1% or one point, for a total of 15% of your final grade. Similarly, there will be 15 writing workshop forums, each worth 1% or one point, for a total of 15% of your final grade. Together, these class discussions and writing workshops make up nearly a third of your final grade, which reflects just how important interacting with your classmates is to this course. 
 
-Both class discussions and writing workshops will be graded on a three point scale aimed at rewarding your work in each forum:
+Both class discussions and writing workshops will be graded on a one point scale aimed at rewarding your work in each forum:
 
 * 1 point for students with **excellent** work. 
 * 0.75 of a point for students with **satisfactory** work.
