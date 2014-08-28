@@ -705,7 +705,9 @@ html#section_tools .bodyDefault {
     color: #303030 !important;
 }
 
-
+.detailFooter {
+    min-height: 30px !important;
+}
 
 /*
 @media (min-width: 940px) {
