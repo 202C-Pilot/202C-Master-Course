@@ -272,6 +272,10 @@ body.interface, #tabMenu .rightCorner div, #tabMenu .leftCorner div {
 background-color: #fff;
 }
 
+body.interface {
+padding-bottom: 30px;
+}
+
 body.site_banner {
 background-color: transparent !important;
 }
@@ -705,9 +709,6 @@ html#section_tools .bodyDefault {
     color: #303030 !important;
 }
 
-.detailFooter {
-    min-height: 50px !important;
-}
 
 /*
 @media (min-width: 940px) {
